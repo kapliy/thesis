@@ -1,0 +1,2230 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.4.18)  7 NOV 2013 10:00
+entering extended mode
+ %&-line parsing enabled.
+**main
+(./main.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(./ucetd.cls
+Document Class: ucetd 2011/05/18 University of Chicago Electronic Theses and Di
+ssertations
+(/usr/share/texmf-texlive/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/share/texmf-texlive/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2009/09/15 v5.5a a miscellany of footnote facilities
+\FN@temptoken=\toks14
+\footnotemargin=\dimen103
+\c@pp@next@reset=\count88
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+))
+(/usr/share/texmf-texlive/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen104
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen105
+\subfiglabelskip=\skip46
+\c@subfigure=\count89
+\c@lofdepth=\count90
+\c@subtable=\count91
+\c@lotdepth=\count92
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texmf-texlive/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+\epsfxsize=\dimen108
+\epsfysize=\dimen109
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(/usr/share/texmf-texlive/tex/latex/natbib/natbib.sty
+Package: natbib 2009/07/16 8.31 (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+) (./amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen110
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen111
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen112
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks18
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks19
+\eqnshift@=\dimen113
+\alignsep@=\dimen114
+\tagshift@=\dimen115
+\tagwidth@=\dimen116
+\totwidth@=\dimen117
+\lineht@=\dimen118
+\@envbody=\toks20
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(/usr/share/texmf-texlive/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks27
+)
+(/usr/share/texmf-texlive/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen119
+) (./grffile.sty
+Package: grffile 2010/01/28 v1.11 Extended file name support for graphics (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)
+Package grffile Info: Option `multidot' is set to `true'.
+Package grffile Info: Option `extendedchars' is set to `false'.
+Package grffile Info: Option `space' is set to `true'.
+)
+(/usr/share/texmf-texlive/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
+
+(/usr/share/texmf-texlive/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen120
+\extrarowheight=\dimen121
+\NC@list=\toks28
+\extratabsurround=\skip57
+\backup@length=\skip58
+))
+(/usr/share/texmf-texlive/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip59
+\LTright=\skip60
+\LTpre=\skip61
+\LTpost=\skip62
+\LTchunksize=\count107
+\LTcapwidth=\dimen122
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count108
+\LT@rows=\count109
+\c@LT@tables=\count110
+\c@LT@chunks=\count111
+\LT@p@ftn=\toks29
+)
+(/usr/share/texmf-texlive/tex/latex/ctable/ctable.sty
+Package: ctable 2009/09/17 v1.15 ctable package
+
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/share/texmf-texlive/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+(/usr/share/texmf-texlive/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks30
+\XKV@tempa@toks=\toks31
+\XKV@depth=\count112
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+))
+(/usr/share/texmf-texlive/tex/latex/tools/tabularx.sty
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+\TX@col@width=\dimen123
+\TX@old@table=\dimen124
+\TX@old@col=\dimen125
+\TX@target=\dimen126
+\TX@delta=\dimen127
+\TX@cols=\count113
+\TX@ftn=\toks32
+)
+(/usr/share/texmf-texlive/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen128
+\lightrulewidth=\dimen129
+\cmidrulewidth=\dimen130
+\belowrulesep=\dimen131
+\belowbottomsep=\dimen132
+\aboverulesep=\dimen133
+\abovetopsep=\dimen134
+\cmidrulesep=\dimen135
+\cmidrulekern=\dimen136
+\defaultaddspace=\dimen137
+\@cmidla=\count114
+\@cmidlb=\count115
+\@aboverulesep=\dimen138
+\@belowrulesep=\dimen139
+\@thisruleclass=\count116
+\@lastruleclass=\count117
+\@thisrulewidth=\dimen140
+)
+(/usr/share/texmf-texlive/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count118
+\rotFPtop=\skip63
+\rotFPbot=\skip64
+\rot@float@box=\box32
+\rot@mess@toks=\toks33
+)
+\@ctblframesep=\dimen141
+\@ctblframerule=\dimen142
+\@ctblwidth=\dimen143
+\@ctblcaptionskip=\dimen144
+\@ctblmaxwidth=\dimen145
+\@ctblmincapwidth=\dimen146
+\@ctblw=\dimen147
+\@ctblfloatwidth=\dimen148
+\@ctbloldsep=\dimen149
+\@ctbloldrule=\dimen150
+\ctbl@t=\box33
+)
+(/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks34
+\verbatim@line=\toks35
+\verbatim@in@stream=\read1
+)
+(/usr/share/texmf-texlive/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2009/05/18 v2.2 Customized lists
+\enit@toks=\toks36
+\labelindent=\skip65
+\enit@outerparindent=\dimen151
+\enitdp@desc=\count119
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen152
+\Hy@linkcounter=\count120
+\Hy@pagecounter=\count121
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+LaTeX Info: Redefining \url on input line 3428.
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+))
+\Fld@menulength=\count122
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+\Field@toks=\toks37
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count123
+\c@Item=\count124
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count125
+)
+Package hyperref Info: Option `linktocpage' set `true' on input line 24.
+ (./atlasphysics.sty
+\hrs=\count126
+\minu=\count127
+\temptime=\count128
+\boxsqbox=\box34
+\boxsize=\dimen155
+\dkwidth=\dimen156
+)
+(./WZDefinitions.tex (./ElectronPerformanceDefinitions.tex)
+(./MuonPerformanceDefinitions.tex) (./WenuDefinitions.tex)
+(./ZeeDefinitions.tex) (./WmunuDefinitions.tex) (./ZmumuDefinitions.tex)
+(./wzratiocomb/wzemu.tex) (./wzratiocomb/integrated_measurement.tex))
+(./macross.sty) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count129
+\scratchdimen=\dimen157
+\scratchbox=\box35
+\nofMPsegments=\count130
+\nofMParguments=\count131
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count132
+\MPscratchDim=\dimen158
+\MPnumerator=\count133
+\everyMPtoPDFconversion=\toks39
+)
+Package hyperref Info: Link coloring OFF on input line 58.
+ (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count134
+)
+LaTeX Info: Redefining \ref on input line 58.
+LaTeX Info: Redefining \pageref on input line 58.
+ (./main.out)
+(./main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+\AtBeginShipoutBox=\box36
+ (./pre.tex [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 7.
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
+ [2
+
+] [3
+
+] (./main.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 1.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 1.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [4
+
+] [5])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [6] (./main.lof
+[7
+
+]
+Overfull \hbox (9.54631pt too wide) in paragraph at lines 61--61
+ [][] []\OT1/cmr/m/n/12 Distributions of the muon $\OML/cmm/m/it/12 ^^Q$ \OT1/c
+mr/m/n/12 for se-lected $\OML/cmm/m/it/12 W[] \OMS/cmsy/m/n/12 ! \OML/cmm/m/it/
+12 ^^V[]^^W$ \OT1/cmr/m/n/12 (left) and $\OML/cmm/m/it/12 W[] \OMS/cmsy/m/n/12 
+! \OML/cmm/m/it/12 ^^V[]^^W$ \OT1/cmr/m/n/12 (right) 
+ []
+
+[8] [9] [10] [11] [12])
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+ [13] (./main.lot
+Overfull \hbox (51.4317pt too wide) in paragraph at lines 15--15
+ [][] []\OT1/cmr/m/n/12 Cutflow for $\OML/cmm/m/it/12 W[] \OMS/cmsy/m/n/12 ! \O
+ML/cmm/m/it/12 ^^V[]^^W$ \OT1/cmr/m/n/12 events in the nom-i-nal Monte Carlo si
+g-nal sam-ple (Powheg+Pythia). 
+ []
+
+
+Overfull \hbox (51.4317pt too wide) in paragraph at lines 16--16
+ [][] []\OT1/cmr/m/n/12 Cutflow for $\OML/cmm/m/it/12 W[] \OMS/cmsy/m/n/12 ! \O
+ML/cmm/m/it/12 ^^V[]^^W$ \OT1/cmr/m/n/12 events in the nom-i-nal Monte Carlo si
+g-nal sam-ple (Powheg+Pythia). 
+ []
+
+[14
+
+])
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+ [15] (./acknowledgements.tex [16
+
+]) [17] (./abstract.tex) [18
+
+])
+(./post.tex
+Chapter 1.
+(./intro/main.texpdfTeX warning (ext4): destination with the same identifier (n
+ame{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.14 
+      [1
+
+
+]) [2]
+Chapter 2.
+(./method/main.tex [3
+
+] <method/fig/PT.jpg, id=902, 364.36125pt x 206.7725pt>
+File: method/fig/PT.jpg Graphic file (type jpg)
+
+<use method/fig/PT.jpg>
+<method/fig/pseudorapidity.png, id=903, 366.61969pt x 213.79875pt>
+File: method/fig/pseudorapidity.png Graphic file (type png)
+
+<use method/fig/pseudorapidity.png> [4 <./method/fig/PT.jpg> <./method/fig/pseu
+dorapidity.png (PNG copy)>] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+
+ []
+
+
+Overfull \hbox (21.40814pt too wide) in paragraph at lines 83--112
+[][] 
+ []
+
+[6] [7]) [8]
+Chapter 3.
+(./det/main.tex <det/fig/LHC_map.jpg, id=940, 486.81876pt x 305.14pt>
+File: det/fig/LHC_map.jpg Graphic file (type jpg)
+
+<use det/fig/LHC_map.jpg> [9
+
+ <./det/fig/LHC_map.jpg>]
+<det/fig/beam.jpg, id=947, 200.24812pt x 107.65219pt>
+File: det/fig/beam.jpg Graphic file (type jpg)
+ <use det/fig/beam.jpg>
+<det/fig/collision.png, id=948, 378.66469pt x 199.49532pt>
+File: det/fig/collision.png Graphic file (type png)
+
+<use det/fig/collision.png> [10 <./det/fig/beam.jpg> <./det/fig/collision.png (
+PNG copy)>] <det/fig/detection.jpg, id=962, 714.16812pt x 563.10374pt>
+File: det/fig/detection.jpg Graphic file (type jpg)
+
+<use det/fig/detection.jpg> [11 <./det/fig/detection.jpg>]
+<det/fig/indet_side.jpg, id=968, 810.52812pt x 540.51938pt>
+File: det/fig/indet_side.jpg Graphic file (type jpg)
+
+<use det/fig/indet_side.jpg>
+<det/fig/indet_etaview.png, id=969, 1057.9525pt x 465.74pt>
+File: det/fig/indet_etaview.png Graphic file (type png)
+
+<use det/fig/indet_etaview.png> [12] [13 <./det/fig/indet_side.jpg> <./det/fig/
+indet_etaview.png>]
+<det/fig/indet_xsec.jpg, id=989, 563.10374pt x 563.10374pt>
+File: det/fig/indet_xsec.jpg Graphic file (type jpg)
+
+<use det/fig/indet_xsec.jpg> [14 <./det/fig/indet_xsec.jpg>]
+<det/fig/calo.jpg, id=996, 810.52812pt x 545.53813pt>
+File: det/fig/calo.jpg Graphic file (type jpg)
+ <use det/fig/calo.jpg>
+Overfull \hbox (24.44415pt too wide) in paragraph at lines 95--96
+[]\OT1/cmr/m/n/12 The EM calorime-ter, also called a LAr calorime-ter, mea-sure
+s the en-ergy of electromagnetically-
+ []
+
+<det/fig/accordion.png, id=999, 641.39626pt x 558.085pt>
+File: det/fig/accordion.png Graphic file (type png)
+
+<use det/fig/accordion.png> [15 <./det/fig/calo.jpg>] [16 <./det/fig/accordion.
+png>] <det/fig/tile.png, id=1013, 523.9575pt x 610.28pt>
+File: det/fig/tile.png Graphic file (type png)
+
+<use det/fig/tile.png> [17 <./det/fig/tile.png>]
+<det/fig/muons.jpg, id=1020, 750.805pt x 563.10374pt>
+File: det/fig/muons.jpg Graphic file (type jpg)
+ <use det/fig/muons.jpg>
+<det/fig/muonside.png, id=1021, 755.82375pt x 393.47pt>
+File: det/fig/muonside.png Graphic file (type png)
+
+<use det/fig/muonside.png>
+<det/fig/trigger.png, id=1024, 574.145pt x 530.98375pt>
+File: det/fig/trigger.png Graphic file (type png)
+
+<use det/fig/trigger.png> [18] [19 <./det/fig/muons.jpg> <./det/fig/muonside.pn
+g>]) [20 <./det/fig/trigger.png>]
+Chapter 4.
+(./theory/main.tex <theory/fig/SM.png, id=1050, 1003.75pt x 753.81625pt>
+File: theory/fig/SM.png Graphic file (type png)
+
+<use theory/fig/SM.png> [21
+
+] [22 <./theory/fig/SM.png>]
+<theory/fig/Hardscattering.pdf, id=1068, 336.25626pt x 336.25626pt>
+File: theory/fig/Hardscattering.pdf Graphic file (type pdf)
+
+<use theory/fig/Hardscattering.pdf> [23 <./theory/fig/Hardscattering.pdf>]
+<theory/fig/feynlo.png, id=1080, 307.90031pt x 226.59656pt>
+File: theory/fig/feynlo.png Graphic file (type png)
+
+<use theory/fig/feynlo.png> [24]
+<theory/fig/Wprod.png, id=1089, 392.96812pt x 423.08063pt>
+File: theory/fig/Wprod.png Graphic file (type png)
+
+<use theory/fig/Wprod.png> [25 <./theory/fig/feynlo.png (PNG copy)>] [26 <./the
+ory/fig/Wprod.png (PNG copy)>]
+<theory/fig/examplepdfs_q2.pdf, id=1111, 493.845pt x 476.78125pt>
+File: theory/fig/examplepdfs_q2.pdf Graphic file (type pdf)
+
+<use theory/fig/examplepdfs_q2.pdf>
+<theory/fig/examplepdfs_q100.pdf, id=1112, 493.845pt x 476.78125pt>
+File: theory/fig/examplepdfs_q100.pdf Graphic file (type pdf)
+
+<use theory/fig/examplepdfs_q100.pdf> [27 <./theory/fig/examplepdfs_q2.pdf> <./
+theory/fig/examplepdfs_q100.pdf>]
+<theory/fig/WZ_str_pdf_ratio.pdf, id=1142, 569.12625pt x 337.26pt>
+File: theory/fig/WZ_str_pdf_ratio.pdf Graphic file (type pdf)
+
+<use theory/fig/WZ_str_pdf_ratio.pdf>
+<theory/fig/atlas_xq.png, id=1144, 680.5425pt x 691.58376pt>
+File: theory/fig/atlas_xq.png Graphic file (type png)
+
+<use theory/fig/atlas_xq.png> [28 <./theory/fig/WZ_str_pdf_ratio.pdf, page is r
+otated 90 degrees>] <theory/fig/decay.png, id=1193, 301.125pt x 259.97125pt>
+File: theory/fig/decay.png Graphic file (type png)
+
+<use theory/fig/decay.png> [29 <./theory/fig/atlas_xq.png (PNG copy)>]
+<theory/fig/VA.png, id=1199, 657.95813pt x 234.1247pt>
+File: theory/fig/VA.png Graphic file (type png)
+ <use theory/fig/VA.png>
+[30 <./theory/fig/decay.png (PNG copy)> <./theory/fig/VA.png (PNG copy)>]
+<theory/fig/ps.jpeg, id=1207, 845.1575pt x 597.23125pt>
+File: theory/fig/ps.jpeg Graphic file (type jpg)
+
+<use theory/fig/ps.jpeg> [31]) [32 <./theory/fig/ps.jpeg>] [33]
+Chapter 5.
+(./mc/main.tex [34
+
+]
+<mc/fig/sumLumiByDay.pdf, id=1248, 569.12625pt x 408.52625pt>
+File: mc/fig/sumLumiByDay.pdf Graphic file (type pdf)
+
+<use mc/fig/sumLumiByDay.pdf> [35 <./mc/fig/sumLumiByDay.pdf>] [36] [37]
+[38] [39] [40] <mc/fig/rw_nvtx_pre.pdf, id=1323, 569.12625pt x 546.04pt>
+File: mc/fig/rw_nvtx_pre.pdf Graphic file (type pdf)
+
+<use mc/fig/rw_nvtx_pre.pdf>
+<mc/fig/rw_nvtx_aft.pdf, id=1324, 569.12625pt x 546.04pt>
+File: mc/fig/rw_nvtx_aft.pdf Graphic file (type pdf)
+
+<use mc/fig/rw_nvtx_aft.pdf>
+<mc/fig/rw_vxz0_pre.pdf, id=1326, 569.12625pt x 546.04pt>
+File: mc/fig/rw_vxz0_pre.pdf Graphic file (type pdf)
+
+<use mc/fig/rw_vxz0_pre.pdf>
+<mc/fig/rw_vxz0_aft.pdf, id=1327, 569.12625pt x 546.04pt>
+File: mc/fig/rw_vxz0_aft.pdf Graphic file (type pdf)
+
+<use mc/fig/rw_vxz0_aft.pdf>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 261.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 261.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 261.
+
+[41] [42 <./mc/fig/rw_nvtx_pre.pdf, page is rotated 90 degrees> <./mc/fig/rw_nv
+tx_aft.pdf, page is rotated 90 degrees> <./mc/fig/rw_vxz0_pre.pdf, page is rota
+ted 90 degrees> <./mc/fig/rw_vxz0_aft.pdf, page is rotated 90 degrees>]
+<MCReweights/zphistar_fig_03.pdf, id=1516, 689.57625pt x 504.88625pt>
+File: MCReweights/zphistar_fig_03.pdf Graphic file (type pdf)
+
+<use MCReweights/zphistar_fig_03.pdf> [43 <./MCReweights/zphistar_fig_03.pdf>]
+<MCReweights/zgamma_pythia_powheg_std.pdf, id=1544, 569.12625pt x 387.4475pt>
+File: MCReweights/zgamma_pythia_powheg_std.pdf Graphic file (type pdf)
+
+<use MCReweights/zgamma_pythia_powheg_std.pdf>
+<MCReweights/zgamma_pythia_powheg_rew.pdf, id=1545, 569.12625pt x 387.4475pt>
+File: MCReweights/zgamma_pythia_powheg_rew.pdf Graphic file (type pdf)
+
+<use MCReweights/zgamma_pythia_powheg_rew.pdf> [44 <./MCReweights/zgamma_pythia
+_powheg_std.pdf> <./MCReweights/zgamma_pythia_powheg_rew.pdf>]) [45]
+Chapter 6.
+(./perf/main.tex [46
+
+] [47] [48] [49]
+<MuonPerformance/figures/NewRecoSF/SF_etaPhi_negq.pdf, id=1604, 569.12625pt x 4
+08.52625pt>
+File: MuonPerformance/figures/NewRecoSF/SF_etaPhi_negq.pdf Graphic file (type p
+df)
+ <use MuonPerformance/figures/NewRecoSF/SF_etaPhi_negq.pdf>
+<MuonPerformance/figures/NewRecoSF/CaloDeviation_etaPhi_negq.pdf, id=1605, 569.
+12625pt x 408.52625pt>
+File: MuonPerformance/figures/NewRecoSF/CaloDeviation_etaPhi_negq.pdf Graphic f
+ile (type pdf)
+
+<use MuonPerformance/figures/NewRecoSF/CaloDeviation_etaPhi_negq.pdf>
+<MuonPerformance/figures/eff_cb_isoid40rel01_mu_probe_eta.pdf, id=1608, 569.126
+25pt x 546.04pt>
+File: MuonPerformance/figures/eff_cb_isoid40rel01_mu_probe_eta.pdf Graphic file
+ (type pdf)
+
+<use MuonPerformance/figures/eff_cb_isoid40rel01_mu_probe_eta.pdf>
+<MuonPerformance/figures/eff_cb_isoid40rel01_mu_probe_pt.pdf, id=1609, 569.1262
+5pt x 546.04pt>
+File: MuonPerformance/figures/eff_cb_isoid40rel01_mu_probe_pt.pdf Graphic file 
+(type pdf)
+
+<use MuonPerformance/figures/eff_cb_isoid40rel01_mu_probe_pt.pdf> [50] [51 <./M
+uonPerformance/figures/NewRecoSF/SF_etaPhi_negq.pdf, page is rotated 90 degrees
+>] [52 <./MuonPerformance/figures/NewRecoSF/CaloDeviation_etaPhi_negq.pdf, page
+ is rotated 90 degrees>]
+<MuonPerformance/figures/scaleFactors/mu18_neg_SF_eta_pt.png, id=1709, 798.985p
+t x 519.9425pt>
+File: MuonPerformance/figures/scaleFactors/mu18_neg_SF_eta_pt.png Graphic file 
+(type png)
+
+<use MuonPerformance/figures/scaleFactors/mu18_neg_SF_eta_pt.png>
+<MuonPerformance/figures/scaleFactors/rpc_pos_SF_eta_pt.png, id=1710, 798.985pt
+ x 519.9425pt>
+File: MuonPerformance/figures/scaleFactors/rpc_pos_SF_eta_pt.png Graphic file (
+type png)
+
+<use MuonPerformance/figures/scaleFactors/rpc_pos_SF_eta_pt.png> [53 <./MuonPer
+formance/figures/eff_cb_isoid40rel01_mu_probe_eta.pdf> <./MuonPerformance/figur
+es/eff_cb_isoid40rel01_mu_probe_pt.pdf>] [54 <./MuonPerformance/figures/scaleFa
+ctors/mu18_neg_SF_eta_pt.png (PNG copy)> <./MuonPerformance/figures/scaleFactor
+s/rpc_pos_SF_eta_pt.png (PNG copy)>]
+<perf/fig/KC_old.png, id=1745, 798.985pt x 774.895pt>
+File: perf/fig/KC_old.png Graphic file (type png)
+
+<use perf/fig/KC_old.png>
+<perf/fig/KC_new.png, id=1746, 798.985pt x 774.895pt>
+File: perf/fig/KC_new.png Graphic file (type png)
+
+<use perf/fig/KC_new.png> [55] [56 <./perf/fig/KC_old.png (PNG copy)> <./perf/f
+ig/KC_new.png (PNG copy)>]
+<perf/fig/calib.png, id=1766, 829.0975pt x 173.64874pt>
+File: perf/fig/calib.png Graphic file (type png)
+
+<use perf/fig/calib.png>) [57] [58 <./perf/fig/calib.png (PNG copy)>]
+Chapter 7.
+(./event/main.tex [59
+
+] [60]
+Overfull \hbox (3.9958pt too wide) in paragraph at lines 54--58
+[]\OT1/cmr/m/n/12 A suc-cess-ful TRT ex-ten-sion is re-quired in the eta ac-cep
+-tance of the TRT. If $\OML/cmm/m/it/12 N[]$
+ []
+
+[61]
+<event/fig/TEST_ISOPLOT_NEG_lepton_ptiso40r.pdf, id=1794, 569.12625pt x 546.04p
+t>
+File: event/fig/TEST_ISOPLOT_NEG_lepton_ptiso40r.pdf Graphic file (type pdf)
+ <use event/fig/TEST_ISOPLOT_NEG_lepton_ptiso40r.pdf>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 86.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 86.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 86.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 86.
+
+[62 <./event/fig/TEST_ISOPLOT_NEG_lepton_ptiso40r.pdf, page is rotated 90 degre
+es>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 92.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 92.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 92.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 92.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 92.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 92.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 92.
+
+(./Wmunu/figures/cutflow/data_pt25.tex)
+(./Wmunu/figures/cutflow/mc_POS_pt25.tex
+Overfull \hbox (2.2925pt too wide) in paragraph at lines 2--25
+ [] 
+ []
+
+) (./Wmunu/figures/cutflow/mc_NEG_pt25.tex
+Overfull \hbox (2.2925pt too wide) in paragraph at lines 2--25
+ [] 
+ []
+
+) [63] [64] [65] [66] (./event/WmunuControl25.tex
+<Wmunu/figures/control_plots/inclusive25/P_stack_d3_eta_lpt_met_y_2__1_z_0__1_P
+OS.pdf, id=1872, 569.12625pt x 546.04pt>
+File: Wmunu/figures/control_plots/inclusive25/P_stack_d3_eta_lpt_met_y_2__1_z_0
+__1_POS.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/control_plots/inclusive25/P_stack_d3_eta_lpt_met_y_2__1_z_0_
+_1_POS.pdf>
+<Wmunu/figures/control_plots/inclusive25/P_stack_d3_eta_lpt_met_y_2__1_z_0__1_N
+EG.pdf, id=1873, 569.12625pt x 546.04pt>
+File: Wmunu/figures/control_plots/inclusive25/P_stack_d3_eta_lpt_met_y_2__1_z_0
+__1_NEG.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/control_plots/inclusive25/P_stack_d3_eta_lpt_met_y_2__1_z_0_
+_1_NEG.pdf>
+<Wmunu/figures/control_plots/inclusive25/P_stack_lpt_POS.pdf, id=1874, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/control_plots/inclusive25/P_stack_lpt_POS.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/control_plots/inclusive25/P_stack_lpt_POS.pdf>
+<Wmunu/figures/control_plots/inclusive25/P_stack_lpt_NEG.pdf, id=1875, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/control_plots/inclusive25/P_stack_lpt_NEG.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/control_plots/inclusive25/P_stack_lpt_NEG.pdf>
+<Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_met_x_0__1_y_2__
+1_POS.pdf, id=1876, 569.12625pt x 546.04pt>
+File: Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_met_x_0__1_
+y_2__1_POS.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_met_x_0__1_y
+_2__1_POS.pdf>
+<Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_met_x_0__1_y_2__
+1_NEG.pdf, id=1877, 569.12625pt x 546.04pt>
+File: Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_met_x_0__1_
+y_2__1_NEG.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_met_x_0__1_y
+_2__1_NEG.pdf>
+<Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_wmt_x_0__1_y_2__
+1_POS.pdf, id=1880, 569.12625pt x 546.04pt>
+File: Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_wmt_x_0__1_
+y_2__1_POS.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_wmt_x_0__1_y
+_2__1_POS.pdf>
+<Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_wmt_x_0__1_y_2__
+1_NEG.pdf, id=1881, 569.12625pt x 546.04pt>
+File: Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_wmt_x_0__1_
+y_2__1_NEG.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_wmt_x_0__1_y
+_2__1_NEG.pdf>
+<Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_wpt_x_0__1_y_2__
+1_POS.pdf, id=1882, 569.12625pt x 546.04pt>
+File: Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_wpt_x_0__1_
+y_2__1_POS.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_wpt_x_0__1_y
+_2__1_POS.pdf>
+<Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_wpt_x_0__1_y_2__
+1_NEG.pdf, id=1883, 569.12625pt x 546.04pt>
+File: Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_wpt_x_0__1_
+y_2__1_NEG.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_wpt_x_0__1_y
+_2__1_NEG.pdf>) [67 <./Wmunu/figures/control_plots/inclusive25/P_stack_d3_eta_l
+pt_met_y_2__1_z_0__1_POS.pdf, page is rotated 90 degrees> <./Wmunu/figures/cont
+rol_plots/inclusive25/P_stack_d3_eta_lpt_met_y_2__1_z_0__1_NEG.pdf, page is rot
+ated 90 degrees>] [68 <./Wmunu/figures/control_plots/inclusive25/P_stack_lpt_PO
+S.pdf, page is rotated 90 degrees> <./Wmunu/figures/control_plots/inclusive25/P
+_stack_lpt_NEG.pdf, page is rotated 90 degrees> <./Wmunu/figures/control_plots/
+inclusive25/P_stack_d3_abseta_lpt_met_x_0__1_y_2__1_POS.pdf, page is rotated 90
+ degrees> <./Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_lpt_met_
+x_0__1_y_2__1_NEG.pdf, page is rotated 90 degrees>] [69 <./Wmunu/figures/contro
+l_plots/inclusive25/P_stack_d3_abseta_lpt_wmt_x_0__1_y_2__1_POS.pdf, page is ro
+tated 90 degrees> <./Wmunu/figures/control_plots/inclusive25/P_stack_d3_abseta_
+lpt_wmt_x_0__1_y_2__1_NEG.pdf, page is rotated 90 degrees> <./Wmunu/figures/con
+trol_plots/inclusive25/P_stack_d3_abseta_lpt_wpt_x_0__1_y_2__1_POS.pdf, page is
+ rotated 90 degrees> <./Wmunu/figures/control_plots/inclusive25/P_stack_d3_abse
+ta_lpt_wpt_x_0__1_y_2__1_NEG.pdf, page is rotated 90 degrees>]
+<Wmunu/figures/res/Wmn_PURITY_1D_PT25_POS_Purity_1d_proj.pdf, id=2340, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_PURITY_1D_PT25_POS_Purity_1d_proj.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/res/Wmn_PURITY_1D_PT25_POS_Purity_1d_proj.pdf>
+<Wmunu/figures/res/Wmn_PURITY_1D_PT25_NEG_Purity_1d_proj.pdf, id=2341, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_PURITY_1D_PT25_NEG_Purity_1d_proj.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/res/Wmn_PURITY_1D_PT25_NEG_Purity_1d_proj.pdf>
+<Wmunu/figures/res/Wmn_STABIL_1D_PT25_POS_Stability_1d_proj.pdf, id=2342, 569.1
+2625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_STABIL_1D_PT25_POS_Stability_1d_proj.pdf Graphic fi
+le (type pdf)
+
+<use Wmunu/figures/res/Wmn_STABIL_1D_PT25_POS_Stability_1d_proj.pdf>
+<Wmunu/figures/res/Wmn_STABIL_1D_PT25_NEG_Stability_1d_proj.pdf, id=2343, 569.1
+2625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_STABIL_1D_PT25_NEG_Stability_1d_proj.pdf Graphic fi
+le (type pdf)
+
+<use Wmunu/figures/res/Wmn_STABIL_1D_PT25_NEG_Stability_1d_proj.pdf>
+<Wmunu/figures/res/Wmn_UNFTST_1D_PT25_POS_unfIte_proj.pdf, id=2344, 569.12625pt
+ x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNFTST_1D_PT25_POS_unfIte_proj.pdf Graphic file (ty
+pe pdf)
+ <use Wmunu/figures/res/Wmn_UNFTST_1D_PT25_POS_unfIte_proj.pdf>
+<Wmunu/figures/res/Wmn_UNFTST_1D_PT25_NEG_unfIte_proj.pdf, id=2345, 569.12625pt
+ x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNFTST_1D_PT25_NEG_unfIte_proj.pdf Graphic file (ty
+pe pdf)
+ <use Wmunu/figures/res/Wmn_UNFTST_1D_PT25_NEG_unfIte_proj.pdf>
+<Wmunu/figures/res/Wmn_UNCTST_1D_PT25_POS_statUnfIte_proj.pdf, id=2346, 569.126
+25pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNCTST_1D_PT25_POS_statUnfIte_proj.pdf Graphic file
+ (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNCTST_1D_PT25_POS_statUnfIte_proj.pdf>
+<Wmunu/figures/res/Wmn_UNCTST_1D_PT25_NEG_statUnfIte_proj.pdf, id=2347, 569.126
+25pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNCTST_1D_PT25_NEG_statUnfIte_proj.pdf Graphic file
+ (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNCTST_1D_PT25_NEG_statUnfIte_proj.pdf>
+<Wmunu/figures/purity/purity_2D_pos.pdf, id=2349, 569.12625pt x 546.04pt>
+File: Wmunu/figures/purity/purity_2D_pos.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/purity/purity_2D_pos.pdf>
+<Wmunu/figures/purity/purity_2D_neg.pdf, id=2350, 569.12625pt x 546.04pt>
+File: Wmunu/figures/purity/purity_2D_neg.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/purity/purity_2D_neg.pdf>
+<Wmunu/figures/purity/stability_2D_pos.pdf, id=2351, 569.12625pt x 546.04pt>
+File: Wmunu/figures/purity/stability_2D_pos.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/purity/stability_2D_pos.pdf>
+<Wmunu/figures/purity/stability_2D_neg.pdf, id=2352, 569.12625pt x 546.04pt>
+File: Wmunu/figures/purity/stability_2D_neg.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/purity/stability_2D_neg.pdf>
+Overfull \hbox (11.79002pt too wide) in paragraph at lines 223--224
+[]\OT1/cmr/m/n/12 Bin-by-bin and it-er-a-tive Bayesian un-fold-ing meth-ods in 
+the con-text of the double-differential
+ []
+
+[70] [71 <./Wmunu/figures/res/Wmn_PURITY_1D_PT25_POS_Purity_1d_proj.pdf, page i
+s rotated 90 degrees> <./Wmunu/figures/res/Wmn_PURITY_1D_PT25_NEG_Purity_1d_pro
+j.pdf, page is rotated 90 degrees> <./Wmunu/figures/res/Wmn_STABIL_1D_PT25_POS_
+Stability_1d_proj.pdf, page is rotated 90 degrees> <./Wmunu/figures/res/Wmn_STA
+BIL_1D_PT25_NEG_Stability_1d_proj.pdf, page is rotated 90 degrees>] [72 <./Wmun
+u/figures/res/Wmn_UNFTST_1D_PT25_POS_unfIte_proj.pdf, page is rotated 90 degree
+s> <./Wmunu/figures/res/Wmn_UNFTST_1D_PT25_NEG_unfIte_proj.pdf, page is rotated
+ 90 degrees> <./Wmunu/figures/res/Wmn_UNCTST_1D_PT25_POS_statUnfIte_proj.pdf, p
+age is rotated 90 degrees> <./Wmunu/figures/res/Wmn_UNCTST_1D_PT25_NEG_statUnfI
+te_proj.pdf, page is rotated 90 degrees>] [73 <./Wmunu/figures/purity/purity_2D
+_pos.pdf, page is rotated 90 degrees> <./Wmunu/figures/purity/purity_2D_neg.pdf
+, page is rotated 90 degrees> <./Wmunu/figures/purity/stability_2D_pos.pdf, pag
+e is rotated 90 degrees> <./Wmunu/figures/purity/stability_2D_neg.pdf, page is 
+rotated 90 degrees>] (./event/WmunuUnfoldingTests.tex
+<Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_1_proj.pdf, id=2900, 
+569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_1_proj.pdf Graph
+ic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_1_proj.pdf>
+<Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_5_proj.pdf, id=2901, 
+569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_5_proj.pdf Graph
+ic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_5_proj.pdf>
+<Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_9_proj.pdf, id=2902, 
+569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_9_proj.pdf Graph
+ic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_9_proj.pdf>
+<Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_11_proj.pdf, id=2903,
+ 569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_11_proj.pdf Grap
+hic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_11_proj.pdf>
+[74] [75 <./Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_1_proj.pdf
+, page is rotated 90 degrees> <./Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIt
+e_2d_Slice_5_proj.pdf, page is rotated 90 degrees> <./Wmunu/figures/res/Wmn_UNF
+TST_2D_PT20_POS_unfIte_2d_Slice_9_proj.pdf, page is rotated 90 degrees> <./Wmun
+u/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_11_proj.pdf, page is rotat
+ed 90 degrees>]
+<Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_1_proj.pdf, id=3088, 
+569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_1_proj.pdf Graph
+ic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_1_proj.pdf>
+<Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_5_proj.pdf, id=3089, 
+569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_5_proj.pdf Graph
+ic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_5_proj.pdf>
+<Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_9_proj.pdf, id=3090, 
+569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_9_proj.pdf Graph
+ic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_9_proj.pdf>
+<Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_11_proj.pdf, id=3091,
+ 569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_11_proj.pdf Grap
+hic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_11_proj.pdf>
+<Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_1_proj.pdf, id=30
+92, 569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_1_proj.pdf G
+raphic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_1_proj.pdf>
+<Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_5_proj.pdf, id=30
+93, 569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_5_proj.pdf G
+raphic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_5_proj.pdf>
+<Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_9_proj.pdf, id=30
+94, 569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_9_proj.pdf G
+raphic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_9_proj.pdf>
+<Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_11_proj.pdf, id=3
+095, 569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_11_proj.pdf 
+Graphic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_11_proj.pdf>
+<Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_1_proj.pdf, id=30
+96, 569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_1_proj.pdf G
+raphic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_1_proj.pdf>
+<Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_5_proj.pdf, id=30
+97, 569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_5_proj.pdf G
+raphic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_5_proj.pdf>
+<Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_9_proj.pdf, id=30
+98, 569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_9_proj.pdf G
+raphic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_9_proj.pdf>
+<Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_11_proj.pdf, id=3
+099, 569.12625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_11_proj.pdf 
+Graphic file (type pdf)
+
+<use Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_11_proj.pdf>)
+) [76 <./Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_1_proj.pdf, p
+age is rotated 90 degrees> <./Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2
+d_Slice_5_proj.pdf, page is rotated 90 degrees> <./Wmunu/figures/res/Wmn_UNFTST
+_2D_PT20_NEG_unfIte_2d_Slice_9_proj.pdf, page is rotated 90 degrees> <./Wmunu/f
+igures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_11_proj.pdf, page is rotated 
+90 degrees>] [77 <./Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slic
+e_1_proj.pdf, page is rotated 90 degrees> <./Wmunu/figures/res/Wmn_UNCTST_2D_PT
+20_POS_statUnfIte_2d_Slice_5_proj.pdf, page is rotated 90 degrees> <./Wmunu/fig
+ures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_9_proj.pdf, page is rotated
+ 90 degrees> <./Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_11
+_proj.pdf, page is rotated 90 degrees>] [78 <./Wmunu/figures/res/Wmn_UNCTST_2D_
+PT20_NEG_statUnfIte_2d_Slice_1_proj.pdf, page is rotated 90 degrees> <./Wmunu/f
+igures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_5_proj.pdf, page is rotat
+ed 90 degrees> <./Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_
+9_proj.pdf, page is rotated 90 degrees> <./Wmunu/figures/res/Wmn_UNCTST_2D_PT20
+_NEG_statUnfIte_2d_Slice_11_proj.pdf, page is rotated 90 degrees>]
+Chapter 8.
+(./bg/main.tex
+<Wmunu/figures/met_shape/P_metshape_POS.pdf, id=3642, 569.12625pt x 546.04pt>
+File: Wmunu/figures/met_shape/P_metshape_POS.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/met_shape/P_metshape_POS.pdf> [79
+
+] [80 <./Wmunu/figures/met_shape/P_metshape_POS.pdf, page is rotated 90 degrees
+>]
+<Wmunu/figures/met_shape/qcd_charge_MET_SHAPE.pdf, id=3701, 569.12625pt x 546.0
+4pt>
+File: Wmunu/figures/met_shape/qcd_charge_MET_SHAPE.pdf Graphic file (type pdf)
+ <use Wmunu/figures/met_shape/qcd_charge_MET_SHAPE.pdf>
+<Wmunu/figures/met_shape/qcd_isolation_MET_SHAPE.pdf, id=3702, 569.12625pt x 54
+6.04pt>
+File: Wmunu/figures/met_shape/qcd_isolation_MET_SHAPE.pdf Graphic file (type pd
+f)
+ <use Wmunu/figures/met_shape/qcd_isolation_MET_SHAPE.pdf>
+
+LaTeX Warning: Float too large for page by 7.89607pt on input line 60.
+
+
+<Wmunu/figures/met_shape/Q1_powheg_pythia.pdf, id=3705, 569.12625pt x 546.04pt>
+File: Wmunu/figures/met_shape/Q1_powheg_pythia.pdf Graphic file (type pdf)
+<use Wmunu/figures/met_shape/Q1_powheg_pythia.pdf>
+<Wmunu/figures/met_shape/Q1_powheg_herwig.pdf, id=3706, 569.12625pt x 546.04pt>
+File: Wmunu/figures/met_shape/Q1_powheg_herwig.pdf Graphic file (type pdf)
+<use Wmunu/figures/met_shape/Q1_powheg_herwig.pdf>
+<Wmunu/figures/met_shape/Q1_mcnlo.pdf, id=3707, 569.12625pt x 546.04pt>
+File: Wmunu/figures/met_shape/Q1_mcnlo.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/met_shape/Q1_mcnlo.pdf> [81] [82 <./Wmunu/figures/met_shape/
+qcd_charge_MET_SHAPE.pdf, page is rotated 90 degrees> <./Wmunu/figures/met_shap
+e/qcd_isolation_MET_SHAPE.pdf, page is rotated 90 degrees>]
+<Wmunu/figures/met_shape/Q0_powheg_pythia.pdf, id=3806, 569.12625pt x 546.04pt>
+File: Wmunu/figures/met_shape/Q0_powheg_pythia.pdf Graphic file (type pdf)
+<use Wmunu/figures/met_shape/Q0_powheg_pythia.pdf>
+File: Wmunu/figures/met_shape/Q1_powheg_pythia.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/met_shape/Q1_powheg_pythia.pdf>
+<Wmunu/figures/qcdfits/Q0_x_2_2_y_2_2.pdf, id=3807, 569.12625pt x 546.04pt>
+File: Wmunu/figures/qcdfits/Q0_x_2_2_y_2_2.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/qcdfits/Q0_x_2_2_y_2_2.pdf>
+<Wmunu/figures/qcdfits/Q0_x_11_11_y_2_2.pdf, id=3808, 569.12625pt x 546.04pt>
+File: Wmunu/figures/qcdfits/Q0_x_11_11_y_2_2.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/qcdfits/Q0_x_11_11_y_2_2.pdf>
+<Wmunu/figures/qcdfits/Q0_x_2_2_y_6_6.pdf, id=3809, 569.12625pt x 546.04pt>
+File: Wmunu/figures/qcdfits/Q0_x_2_2_y_6_6.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/qcdfits/Q0_x_2_2_y_6_6.pdf>
+<Wmunu/figures/qcdfits/Q0_x_11_11_y_6_6.pdf, id=3810, 569.12625pt x 546.04pt>
+File: Wmunu/figures/qcdfits/Q0_x_11_11_y_6_6.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/qcdfits/Q0_x_11_11_y_6_6.pdf>
+Overfull \hbox (5.17697pt too wide) in paragraph at lines 135--136
+\OT1/cmr/m/n/12 the fit re-sults us-ing the nom-i-nal \OT1/cmr/m/sc/12 PowhegPy
+thia6 \OT1/cmr/m/n/12 sam-ple and a \OT1/cmr/m/sc/12 PowhegHerwig
+ []
+
+[83 <./Wmunu/figures/met_shape/Q1_powheg_pythia.pdf, page is rotated 90 degrees
+> <./Wmunu/figures/met_shape/Q1_powheg_herwig.pdf, page is rotated 90 degrees> 
+<./Wmunu/figures/met_shape/Q1_mcnlo.pdf, page is rotated 90 degrees>] [84 <./Wm
+unu/figures/met_shape/Q0_powheg_pythia.pdf, page is rotated 90 degrees>]
+[85 <./Wmunu/figures/qcdfits/Q0_x_2_2_y_2_2.pdf, page is rotated 90 degrees> <.
+/Wmunu/figures/qcdfits/Q0_x_11_11_y_2_2.pdf, page is rotated 90 degrees> <./Wmu
+nu/figures/qcdfits/Q0_x_2_2_y_6_6.pdf, page is rotated 90 degrees> <./Wmunu/fig
+ures/qcdfits/Q0_x_11_11_y_6_6.pdf, page is rotated 90 degrees>]
+<Wmunu/figures/met_shape/P_metsys_POS_scale.pdf, id=4179, 569.12625pt x 546.04p
+t>
+File: Wmunu/figures/met_shape/P_metsys_POS_scale.pdf Graphic file (type pdf)
+ <use Wmunu/figures/met_shape/P_metsys_POS_scale.pdf>
+<Wmunu/figures/met_shape/P_metsys_POS_reso.pdf, id=4180, 569.12625pt x 546.04pt
+>
+File: Wmunu/figures/met_shape/P_metsys_POS_reso.pdf Graphic file (type pdf)
+ <use Wmunu/figures/met_shape/P_metsys_POS_reso.pdf>
+(./Wmunu/figures/qcdunc/tableQCD_ALL_pt25.tex) [86 <./Wmunu/figures/met_shape/P
+_metsys_POS_scale.pdf, page is rotated 90 degrees> <./Wmunu/figures/met_shape/P
+_metsys_POS_reso.pdf, page is rotated 90 degrees>] [87]
+<Wmunu/figures/qcdunc/Q0_qcd_ptALL25_etaLOOP_syst_rel_bgsub.pdf, id=4283, 569.1
+2625pt x 546.04pt>
+File: Wmunu/figures/qcdunc/Q0_qcd_ptALL25_etaLOOP_syst_rel_bgsub.pdf Graphic fi
+le (type pdf)
+
+<use Wmunu/figures/qcdunc/Q0_qcd_ptALL25_etaLOOP_syst_rel_bgsub.pdf>
+<Wmunu/figures/qcdunc/Q1_qcd_ptALL25_etaLOOP_syst_rel_bgsub.pdf, id=4284, 569.1
+2625pt x 546.04pt>
+File: Wmunu/figures/qcdunc/Q1_qcd_ptALL25_etaLOOP_syst_rel_bgsub.pdf Graphic fi
+le (type pdf)
+
+<use Wmunu/figures/qcdunc/Q1_qcd_ptALL25_etaLOOP_syst_rel_bgsub.pdf>
+
+LaTeX Warning: Float too large for page by 19.99838pt on input line 197.
+
+
+<Wmunu/figures/qcdunc/Q0_qcd_pt1_etaLOOP_syst_rel_bgsub.pdf, id=4285, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/qcdunc/Q0_qcd_pt1_etaLOOP_syst_rel_bgsub.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/qcdunc/Q0_qcd_pt1_etaLOOP_syst_rel_bgsub.pdf>
+<Wmunu/figures/qcdunc/Q0_qcd_pt3_etaLOOP_syst_rel_bgsub.pdf, id=4286, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/qcdunc/Q0_qcd_pt3_etaLOOP_syst_rel_bgsub.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/qcdunc/Q0_qcd_pt3_etaLOOP_syst_rel_bgsub.pdf>
+
+LaTeX Warning: Float too large for page by 19.27621pt on input line 213.
+
+
+<Wmunu/figures/qcdunc/Q0_qcd_pt5_etaLOOP_syst_rel_bgsub.pdf, id=4287, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/qcdunc/Q0_qcd_pt5_etaLOOP_syst_rel_bgsub.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/qcdunc/Q0_qcd_pt5_etaLOOP_syst_rel_bgsub.pdf>
+<Wmunu/figures/qcdunc/Q0_qcd_pt7_etaLOOP_syst_rel_bgsub.pdf, id=4288, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/qcdunc/Q0_qcd_pt7_etaLOOP_syst_rel_bgsub.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/qcdunc/Q0_qcd_pt7_etaLOOP_syst_rel_bgsub.pdf>
+
+LaTeX Warning: Float too large for page by 19.27621pt on input line 232.
+
+
+<Wmunu/figures/qcdunc/Q1_qcd_pt1_etaLOOP_syst_rel_bgsub.pdf, id=4289, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/qcdunc/Q1_qcd_pt1_etaLOOP_syst_rel_bgsub.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/qcdunc/Q1_qcd_pt1_etaLOOP_syst_rel_bgsub.pdf>
+<Wmunu/figures/qcdunc/Q1_qcd_pt3_etaLOOP_syst_rel_bgsub.pdf, id=4290, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/qcdunc/Q1_qcd_pt3_etaLOOP_syst_rel_bgsub.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/qcdunc/Q1_qcd_pt3_etaLOOP_syst_rel_bgsub.pdf>
+
+LaTeX Warning: Float too large for page by 19.27621pt on input line 248.
+
+
+<Wmunu/figures/qcdunc/Q1_qcd_pt5_etaLOOP_syst_rel_bgsub.pdf, id=4291, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/qcdunc/Q1_qcd_pt5_etaLOOP_syst_rel_bgsub.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/qcdunc/Q1_qcd_pt5_etaLOOP_syst_rel_bgsub.pdf>
+<Wmunu/figures/qcdunc/Q1_qcd_pt7_etaLOOP_syst_rel_bgsub.pdf, id=4292, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/qcdunc/Q1_qcd_pt7_etaLOOP_syst_rel_bgsub.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/qcdunc/Q1_qcd_pt7_etaLOOP_syst_rel_bgsub.pdf>
+
+LaTeX Warning: Float too large for page by 19.27621pt on input line 267.
+
+(./Wmunu/figures/bgcomp/bgcomp_ALL_pt25.tex)
+<Wmunu/figures/bgcomp/bgsummary_POS_pt25.pdf, id=4296, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_POS_pt25.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_POS_pt25.pdf>
+<Wmunu/figures/bgcomp/bgsummary_NEG_pt25.pdf, id=4297, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_NEG_pt25.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_NEG_pt25.pdf> [88] [89 <./Wmunu/figures/qcd
+unc/Q0_qcd_ptALL25_etaLOOP_syst_rel_bgsub.pdf, page is rotated 90 degrees> <./W
+munu/figures/qcdunc/Q1_qcd_ptALL25_etaLOOP_syst_rel_bgsub.pdf, page is rotated 
+90 degrees>] [90 <./Wmunu/figures/qcdunc/Q0_qcd_pt1_etaLOOP_syst_rel_bgsub.pdf,
+ page is rotated 90 degrees> <./Wmunu/figures/qcdunc/Q0_qcd_pt3_etaLOOP_syst_re
+l_bgsub.pdf, page is rotated 90 degrees>] [91 <./Wmunu/figures/qcdunc/Q0_qcd_pt
+5_etaLOOP_syst_rel_bgsub.pdf, page is rotated 90 degrees> <./Wmunu/figures/qcdu
+nc/Q0_qcd_pt7_etaLOOP_syst_rel_bgsub.pdf, page is rotated 90 degrees>] [92 <./W
+munu/figures/qcdunc/Q1_qcd_pt1_etaLOOP_syst_rel_bgsub.pdf, page is rotated 90 d
+egrees> <./Wmunu/figures/qcdunc/Q1_qcd_pt3_etaLOOP_syst_rel_bgsub.pdf, page is 
+rotated 90 degrees>] [93 <./Wmunu/figures/qcdunc/Q1_qcd_pt5_etaLOOP_syst_rel_bg
+sub.pdf, page is rotated 90 degrees> <./Wmunu/figures/qcdunc/Q1_qcd_pt7_etaLOOP
+_syst_rel_bgsub.pdf, page is rotated 90 degrees>] [94 <./Wmunu/figures/bgcomp/b
+gsummary_POS_pt25.pdf, page is rotated 90 degrees> <./Wmunu/figures/bgcomp/bgsu
+mmary_NEG_pt25.pdf, page is rotated 90 degrees>]
+<Wmunu/figures/bgcomp/bgsummary_POS_pt1.pdf, id=4855, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_POS_pt1.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_POS_pt1.pdf>
+<Wmunu/figures/bgcomp/bgsummary_POS_pt2.pdf, id=4856, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_POS_pt2.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_POS_pt2.pdf>
+<Wmunu/figures/bgcomp/bgsummary_POS_pt3.pdf, id=4857, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_POS_pt3.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_POS_pt3.pdf>
+<Wmunu/figures/bgcomp/bgsummary_POS_pt4.pdf, id=4858, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_POS_pt4.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_POS_pt4.pdf>
+<Wmunu/figures/bgcomp/bgsummary_POS_pt5.pdf, id=4859, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_POS_pt5.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_POS_pt5.pdf>
+<Wmunu/figures/bgcomp/bgsummary_POS_pt6.pdf, id=4860, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_POS_pt6.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_POS_pt6.pdf>
+<Wmunu/figures/bgcomp/bgsummary_POS_pt7.pdf, id=4861, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_POS_pt7.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_POS_pt7.pdf> [95 <./Wmunu/figures/bgcomp/bg
+summary_POS_pt1.pdf, page is rotated 90 degrees> <./Wmunu/figures/bgcomp/bgsumm
+ary_POS_pt2.pdf, page is rotated 90 degrees> <./Wmunu/figures/bgcomp/bgsummary_
+POS_pt3.pdf, page is rotated 90 degrees> <./Wmunu/figures/bgcomp/bgsummary_POS_
+pt4.pdf, page is rotated 90 degrees> <./Wmunu/figures/bgcomp/bgsummary_POS_pt5.
+pdf, page is rotated 90 degrees> <./Wmunu/figures/bgcomp/bgsummary_POS_pt6.pdf,
+ page is rotated 90 degrees> <./Wmunu/figures/bgcomp/bgsummary_POS_pt7.pdf, pag
+e is rotated 90 degrees>]
+<Wmunu/figures/bgcomp/bgsummary_NEG_pt1.pdf, id=5174, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_NEG_pt1.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_NEG_pt1.pdf>
+<Wmunu/figures/bgcomp/bgsummary_NEG_pt2.pdf, id=5175, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_NEG_pt2.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_NEG_pt2.pdf>
+<Wmunu/figures/bgcomp/bgsummary_NEG_pt3.pdf, id=5176, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_NEG_pt3.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_NEG_pt3.pdf>
+<Wmunu/figures/bgcomp/bgsummary_NEG_pt4.pdf, id=5177, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_NEG_pt4.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_NEG_pt4.pdf>
+<Wmunu/figures/bgcomp/bgsummary_NEG_pt5.pdf, id=5178, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_NEG_pt5.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_NEG_pt5.pdf>
+<Wmunu/figures/bgcomp/bgsummary_NEG_pt6.pdf, id=5179, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_NEG_pt6.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_NEG_pt6.pdf>
+<Wmunu/figures/bgcomp/bgsummary_NEG_pt7.pdf, id=5180, 569.12625pt x 546.04pt>
+File: Wmunu/figures/bgcomp/bgsummary_NEG_pt7.pdf Graphic file (type pdf)
+
+<use Wmunu/figures/bgcomp/bgsummary_NEG_pt7.pdf>) [96 <./Wmunu/figures/bgcomp/b
+gsummary_NEG_pt1.pdf, page is rotated 90 degrees> <./Wmunu/figures/bgcomp/bgsum
+mary_NEG_pt2.pdf, page is rotated 90 degrees> <./Wmunu/figures/bgcomp/bgsummary
+_NEG_pt3.pdf, page is rotated 90 degrees> <./Wmunu/figures/bgcomp/bgsummary_NEG
+_pt4.pdf, page is rotated 90 degrees> <./Wmunu/figures/bgcomp/bgsummary_NEG_pt5
+.pdf, page is rotated 90 degrees> <./Wmunu/figures/bgcomp/bgsummary_NEG_pt6.pdf
+, page is rotated 90 degrees> <./Wmunu/figures/bgcomp/bgsummary_NEG_pt7.pdf, pa
+ge is rotated 90 degrees>]
+Chapter 9.
+(./sys/main.tex [97
+
+
+
+
+] [98] [99]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 80.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 80.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 80.
+
+[100] [101]
+<Wmunu/figures/smoothing/1D_pt25_POS_PSsyst_onlybg.pdf, id=5534, 569.12625pt x 
+546.04pt>
+File: Wmunu/figures/smoothing/1D_pt25_POS_PSsyst_onlybg.pdf Graphic file (type 
+pdf)
+ <use Wmunu/figures/smoothing/1D_pt25_POS_PSsyst_onlybg.pdf>
+<Wmunu/figures/smoothing/1D_pt25_NEG_PSsyst_onlybg.pdf, id=5535, 569.12625pt x 
+546.04pt>
+File: Wmunu/figures/smoothing/1D_pt25_NEG_PSsyst_onlybg.pdf Graphic file (type 
+pdf)
+ <use Wmunu/figures/smoothing/1D_pt25_NEG_PSsyst_onlybg.pdf>
+<Wmunu/figures/smoothing/1D_pt25_POS_MEsyst_onlybg.pdf, id=5536, 569.12625pt x 
+546.04pt>
+File: Wmunu/figures/smoothing/1D_pt25_POS_MEsyst_onlybg.pdf Graphic file (type 
+pdf)
+ <use Wmunu/figures/smoothing/1D_pt25_POS_MEsyst_onlybg.pdf>
+<Wmunu/figures/smoothing/1D_pt25_NEG_MEsyst_onlybg.pdf, id=5537, 569.12625pt x 
+546.04pt>
+File: Wmunu/figures/smoothing/1D_pt25_NEG_MEsyst_onlybg.pdf Graphic file (type 
+pdf)
+ <use Wmunu/figures/smoothing/1D_pt25_NEG_MEsyst_onlybg.pdf>
+<Wmunu/figures/smoothing/1D_pt25_POS_PSsyst_onlyunf.pdf, id=5538, 569.12625pt x
+ 546.04pt>
+File: Wmunu/figures/smoothing/1D_pt25_POS_PSsyst_onlyunf.pdf Graphic file (type
+ pdf)
+ <use Wmunu/figures/smoothing/1D_pt25_POS_PSsyst_onlyunf.pdf>
+<Wmunu/figures/smoothing/1D_pt25_NEG_PSsyst_onlyunf.pdf, id=5539, 569.12625pt x
+ 546.04pt>
+File: Wmunu/figures/smoothing/1D_pt25_NEG_PSsyst_onlyunf.pdf Graphic file (type
+ pdf)
+ <use Wmunu/figures/smoothing/1D_pt25_NEG_PSsyst_onlyunf.pdf>
+<Wmunu/figures/smoothing/1D_pt25_POS_MEsyst_onlyunf.pdf, id=5540, 569.12625pt x
+ 546.04pt>
+File: Wmunu/figures/smoothing/1D_pt25_POS_MEsyst_onlyunf.pdf Graphic file (type
+ pdf)
+ <use Wmunu/figures/smoothing/1D_pt25_POS_MEsyst_onlyunf.pdf>
+<Wmunu/figures/smoothing/1D_pt25_NEG_MEsyst_onlyunf.pdf, id=5541, 569.12625pt x
+ 546.04pt>
+File: Wmunu/figures/smoothing/1D_pt25_NEG_MEsyst_onlyunf.pdf Graphic file (type
+ pdf)
+ <use Wmunu/figures/smoothing/1D_pt25_NEG_MEsyst_onlyunf.pdf>
+[102] [103 <./Wmunu/figures/smoothing/1D_pt25_POS_PSsyst_onlybg.pdf, page is ro
+tated 90 degrees> <./Wmunu/figures/smoothing/1D_pt25_NEG_PSsyst_onlybg.pdf, pag
+e is rotated 90 degrees> <./Wmunu/figures/smoothing/1D_pt25_POS_MEsyst_onlybg.p
+df, page is rotated 90 degrees> <./Wmunu/figures/smoothing/1D_pt25_NEG_MEsyst_o
+nlybg.pdf, page is rotated 90 degrees>] [104 <./Wmunu/figures/smoothing/1D_pt25
+_POS_PSsyst_onlyunf.pdf, page is rotated 90 degrees> <./Wmunu/figures/smoothing
+/1D_pt25_NEG_PSsyst_onlyunf.pdf, page is rotated 90 degrees> <./Wmunu/figures/s
+moothing/1D_pt25_POS_MEsyst_onlyunf.pdf, page is rotated 90 degrees> <./Wmunu/f
+igures/smoothing/1D_pt25_NEG_MEsyst_onlyunf.pdf, page is rotated 90 degrees>]
+(./Wmunu/figures/res/Wmn_SYSTEM_0D_PT25_SUM_Unc_proj.tex) [105]
+<Wmunu/figures/res/Wmn_SYSTEM_1D_PT25_NEG_Unc_proj.pdf, id=5919, 569.12625pt x 
+546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM_1D_PT25_NEG_Unc_proj.pdf Graphic file (type 
+pdf)
+ <use Wmunu/figures/res/Wmn_SYSTEM_1D_PT25_NEG_Unc_proj.pdf>
+<Wmunu/figures/res/Wmn_SYSTEM_1D_PT25_POS_Unc_proj.pdf, id=5920, 569.12625pt x 
+546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM_1D_PT25_POS_Unc_proj.pdf Graphic file (type 
+pdf)
+ <use Wmunu/figures/res/Wmn_SYSTEM_1D_PT25_POS_Unc_proj.pdf>
+<Wmunu/figures/res/Wmn_SYSTEM30_2D_PT20_POS_Unc_2d_Slice_1.pdf, id=5921, 569.12
+625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM30_2D_PT20_POS_Unc_2d_Slice_1.pdf Graphic fil
+e (type pdf)
+
+<use Wmunu/figures/res/Wmn_SYSTEM30_2D_PT20_POS_Unc_2d_Slice_1.pdf>
+<Wmunu/figures/res/Wmn_SYSTEM30_2D_PT20_NEG_Unc_2d_Slice_1.pdf, id=5922, 569.12
+625pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM30_2D_PT20_NEG_Unc_2d_Slice_1.pdf Graphic fil
+e (type pdf)
+
+<use Wmunu/figures/res/Wmn_SYSTEM30_2D_PT20_NEG_Unc_2d_Slice_1.pdf>
+<Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_2.pdf, id=5923, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_2.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_2.pdf>
+<Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_2.pdf, id=5924, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_2.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_2.pdf>
+<Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_3.pdf, id=5925, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_3.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_3.pdf>
+<Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_3.pdf, id=5926, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_3.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_3.pdf>
+<Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_4.pdf, id=5927, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_4.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_4.pdf>
+<Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_4.pdf, id=5928, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_4.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_4.pdf>
+<Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_5.pdf, id=5929, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_5.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_5.pdf>
+<Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_5.pdf, id=5930, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_5.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_5.pdf>
+<Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_6.pdf, id=5931, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_6.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_6.pdf>
+<Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_6.pdf, id=5932, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_6.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_6.pdf>
+<Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_7.pdf, id=5933, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_7.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_7.pdf>
+<Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_7.pdf, id=5934, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_7.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_7.pdf>) [106]
+[107 <./Wmunu/figures/res/Wmn_SYSTEM_1D_PT25_NEG_Unc_proj.pdf, page is rotated 
+90 degrees> <./Wmunu/figures/res/Wmn_SYSTEM_1D_PT25_POS_Unc_proj.pdf, page is r
+otated 90 degrees>] [108 <./Wmunu/figures/res/Wmn_SYSTEM30_2D_PT20_POS_Unc_2d_S
+lice_1.pdf, page is rotated 90 degrees> <./Wmunu/figures/res/Wmn_SYSTEM30_2D_PT
+20_NEG_Unc_2d_Slice_1.pdf, page is rotated 90 degrees>] [109 <./Wmunu/figures/r
+es/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_2.pdf, page is rotated 90 degrees> <./Wm
+unu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_2.pdf, page is rotated 90 d
+egrees>] [110 <./Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_3.pdf, p
+age is rotated 90 degrees> <./Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_S
+lice_3.pdf, page is rotated 90 degrees>] [111 <./Wmunu/figures/res/Wmn_SYSTEM_2
+D_PT20_POS_Unc_2d_Slice_4.pdf, page is rotated 90 degrees> <./Wmunu/figures/res
+/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_4.pdf, page is rotated 90 degrees>]
+[112 <./Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_5.pdf, page is ro
+tated 90 degrees> <./Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_5.pd
+f, page is rotated 90 degrees>] [113 <./Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_PO
+S_Unc_2d_Slice_6.pdf, page is rotated 90 degrees> <./Wmunu/figures/res/Wmn_SYST
+EM_2D_PT20_NEG_Unc_2d_Slice_6.pdf, page is rotated 90 degrees>] [114 <./Wmunu/f
+igures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_7.pdf, page is rotated 90 degree
+s> <./Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_7.pdf, page is rota
+ted 90 degrees>]
+Chapter 10.
+(./res/main.tex <res/fig/WpWm_ellipse.pdf, id=6682, 569.12625pt x 554.07pt>
+File: res/fig/WpWm_ellipse.pdf Graphic file (type pdf)
+
+<use res/fig/WpWm_ellipse.pdf>
+<res/fig/WpWm_ratio.pdf, id=6683, 569.12625pt x 363.3575pt>
+File: res/fig/WpWm_ratio.pdf Graphic file (type pdf)
+
+<use res/fig/WpWm_ratio.pdf> [115
+
+] [116 <./res/fig/WpWm_ellipse.pdf, page is rotated 90 degrees> <./res/fig/WpWm
+_ratio.pdf, page is rotated 90 degrees>]
+<res/fig/WMeta25_NNLO_combined.pdf, id=6782, 569.12625pt x 554.07pt>
+File: res/fig/WMeta25_NNLO_combined.pdf Graphic file (type pdf)
+
+<use res/fig/WMeta25_NNLO_combined.pdf>
+<res/fig/WPeta25_NNLO_combined.pdf, id=6783, 569.12625pt x 554.07pt>
+File: res/fig/WPeta25_NNLO_combined.pdf Graphic file (type pdf)
+
+<use res/fig/WPeta25_NNLO_combined.pdf>
+
+LaTeX Warning: Float too large for page by 15.41829pt on input line 62.
+
+<res/fig/Wasym25_NNLO_combined.pdf, id=6785, 569.12625pt x 554.07pt>
+File: res/fig/Wasym25_NNLO_combined.pdf Graphic file (type pdf)
+
+<use res/fig/Wasym25_NNLO_combined.pdf> [117] [118 <./res/fig/WMeta25_NNLO_comb
+ined.pdf, page is rotated 90 degrees> <./res/fig/WPeta25_NNLO_combined.pdf, pag
+e is rotated 90 degrees>] [119 <./res/fig/Wasym25_NNLO_combined.pdf, page is ro
+tated 90 degrees>]
+<res/fig/WMetaPt25_30_NNLO_combined.pdf, id=6932, 569.12625pt x 554.07pt>
+File: res/fig/WMetaPt25_30_NNLO_combined.pdf Graphic file (type pdf)
+
+<use res/fig/WMetaPt25_30_NNLO_combined.pdf>
+<res/fig/WMetaPt30_35_NNLO_combined.pdf, id=6933, 569.12625pt x 554.07pt>
+File: res/fig/WMetaPt30_35_NNLO_combined.pdf Graphic file (type pdf)
+
+<use res/fig/WMetaPt30_35_NNLO_combined.pdf>
+<res/fig/WMetaPt35_40_NNLO_combined.pdf, id=6934, 569.12625pt x 554.07pt>
+File: res/fig/WMetaPt35_40_NNLO_combined.pdf Graphic file (type pdf)
+
+<use res/fig/WMetaPt35_40_NNLO_combined.pdf>
+<res/fig/WMetaPt40_45_NNLO_combined.pdf, id=6935, 569.12625pt x 554.07pt>
+File: res/fig/WMetaPt40_45_NNLO_combined.pdf Graphic file (type pdf)
+
+<use res/fig/WMetaPt40_45_NNLO_combined.pdf>
+<res/fig/WMetaPt45_50_NNLO_combined.pdf, id=6936, 569.12625pt x 554.07pt>
+File: res/fig/WMetaPt45_50_NNLO_combined.pdf Graphic file (type pdf)
+
+<use res/fig/WMetaPt45_50_NNLO_combined.pdf>
+<res/fig/WMetaPt50_NNLO_combined.pdf, id=6937, 569.12625pt x 554.07pt>
+File: res/fig/WMetaPt50_NNLO_combined.pdf Graphic file (type pdf)
+
+<use res/fig/WMetaPt50_NNLO_combined.pdf>
+<res/fig/WPetaPt25_30_NNLO_combined.pdf, id=6938, 569.12625pt x 554.07pt>
+File: res/fig/WPetaPt25_30_NNLO_combined.pdf Graphic file (type pdf)
+
+<use res/fig/WPetaPt25_30_NNLO_combined.pdf>
+<res/fig/WPetaPt30_35_NNLO_combined.pdf, id=6939, 569.12625pt x 554.07pt>
+File: res/fig/WPetaPt30_35_NNLO_combined.pdf Graphic file (type pdf)
+
+<use res/fig/WPetaPt30_35_NNLO_combined.pdf>
+<res/fig/WPetaPt35_40_NNLO_combined.pdf, id=6940, 569.12625pt x 554.07pt>
+File: res/fig/WPetaPt35_40_NNLO_combined.pdf Graphic file (type pdf)
+
+<use res/fig/WPetaPt35_40_NNLO_combined.pdf>
+<res/fig/WPetaPt40_45_NNLO_combined.pdf, id=6941, 569.12625pt x 554.07pt>
+File: res/fig/WPetaPt40_45_NNLO_combined.pdf Graphic file (type pdf)
+
+<use res/fig/WPetaPt40_45_NNLO_combined.pdf>
+<res/fig/WPetaPt45_50_NNLO_combined.pdf, id=6942, 569.12625pt x 554.07pt>
+File: res/fig/WPetaPt45_50_NNLO_combined.pdf Graphic file (type pdf)
+
+<use res/fig/WPetaPt45_50_NNLO_combined.pdf>
+<res/fig/WPetaPt50_NNLO_combined.pdf, id=6943, 569.12625pt x 554.07pt>
+File: res/fig/WPetaPt50_NNLO_combined.pdf Graphic file (type pdf)
+
+<use res/fig/WPetaPt50_NNLO_combined.pdf> [120
+
+] [121 <./res/fig/WMetaPt25_30_NNLO_combined.pdf, page is rotated 90 degrees> <
+./res/fig/WMetaPt30_35_NNLO_combined.pdf, page is rotated 90 degrees>] [122 <./
+res/fig/WMetaPt35_40_NNLO_combined.pdf, page is rotated 90 degrees> <./res/fig/
+WMetaPt40_45_NNLO_combined.pdf, page is rotated 90 degrees>] [123 <./res/fig/WM
+etaPt45_50_NNLO_combined.pdf, page is rotated 90 degrees> <./res/fig/WMetaPt50_
+NNLO_combined.pdf, page is rotated 90 degrees>] [124 <./res/fig/WPetaPt25_30_NN
+LO_combined.pdf, page is rotated 90 degrees> <./res/fig/WPetaPt30_35_NNLO_combi
+ned.pdf, page is rotated 90 degrees>] [125 <./res/fig/WPetaPt35_40_NNLO_combine
+d.pdf, page is rotated 90 degrees> <./res/fig/WPetaPt40_45_NNLO_combined.pdf, p
+age is rotated 90 degrees>]
+[126 <./res/fig/WPetaPt45_50_NNLO_combined.pdf, page is rotated 90 degrees> <./
+res/fig/WPetaPt50_NNLO_combined.pdf, page is rotated 90 degrees>]
+(./tables/systematic_correlations.tex) [127
+
+] [128]
+<res/fig/pulls_104.pdf, id=7528, 569.12625pt x 546.04pt>
+File: res/fig/pulls_104.pdf Graphic file (type pdf)
+
+<use res/fig/pulls_104.pdf>
+<res/fig/pulls_105.pdf, id=7529, 569.12625pt x 546.04pt>
+File: res/fig/pulls_105.pdf Graphic file (type pdf)
+
+<use res/fig/pulls_105.pdf>
+<QCD/figures/ZWu_dval_pdf_hess.pdf, id=7531, 622.325pt x 409.53pt>
+File: QCD/figures/ZWu_dval_pdf_hess.pdf Graphic file (type pdf)
+
+<use QCD/figures/ZWu_dval_pdf_hess.pdf>
+<QCD/figures/ZWu_uval_pdf_hess.pdf, id=7532, 621.32124pt x 395.4775pt>
+File: QCD/figures/ZWu_uval_pdf_hess.pdf Graphic file (type pdf)
+
+<use QCD/figures/ZWu_uval_pdf_hess.pdf>
+<QCD/figures/ZWu_s_pdf_hess.pdf, id=7533, 611.28375pt x 405.515pt>
+File: QCD/figures/ZWu_s_pdf_hess.pdf Graphic file (type pdf)
+
+<use QCD/figures/ZWu_s_pdf_hess.pdf> [129] [130 <./res/fig/pulls_104.pdf> <./re
+s/fig/pulls_105.pdf>] [131 <./QCD/figures/ZWu_dval_pdf_hess.pdf> <./QCD/figures
+/ZWu_uval_pdf_hess.pdf> <./QCD/figures/ZWu_s_pdf_hess.pdf>]
+<res/fig/ZWluni_ellipse.pdf, id=7595, 569.12625pt x 554.07pt>
+File: res/fig/ZWluni_ellipse.pdf Graphic file (type pdf)
+
+<use res/fig/ZWluni_ellipse.pdf>) [132
+
+ <./res/fig/ZWluni_ellipse.pdf, page is rotated 90 degrees>]
+Chapter 11.
+(./conclusions.tex)) [133
+
+]
+Appendix A.
+(./event/WmunuAC.tex
+<event/AC/old/W_NOM_Q0_stack_d3_eta_lpt_met_y_2__1_z_0__1_NEG.pdf, id=7650, 569
+.12625pt x 546.04pt>
+File: event/AC/old/W_NOM_Q0_stack_d3_eta_lpt_met_y_2__1_z_0__1_NEG.pdf Graphic 
+file (type pdf)
+
+<use event/AC/old/W_NOM_Q0_stack_d3_eta_lpt_met_y_2__1_z_0__1_NEG.pdf>
+<event/AC/old/W_NOM_Q0_stack_d3_eta_lpt_met_y_2__1_z_0__1_POS.pdf, id=7651, 569
+.12625pt x 546.04pt>
+File: event/AC/old/W_NOM_Q0_stack_d3_eta_lpt_met_y_2__1_z_0__1_POS.pdf Graphic 
+file (type pdf)
+
+<use event/AC/old/W_NOM_Q0_stack_d3_eta_lpt_met_y_2__1_z_0__1_POS.pdf>
+<Wmunu/figures/AC/old/ZNT_TMATCHBOTH_stack_leptonN_etav_ALL.pdf, id=7652, 569.1
+2625pt x 546.04pt>
+File: Wmunu/figures/AC/old/ZNT_TMATCHBOTH_stack_leptonN_etav_ALL.pdf Graphic fi
+le (type pdf)
+
+<use Wmunu/figures/AC/old/ZNT_TMATCHBOTH_stack_leptonN_etav_ALL.pdf>
+<Wmunu/figures/AC/old/ZNT_TMATCHBOTH_stack_leptonP_etav_ALL.pdf, id=7653, 569.1
+2625pt x 546.04pt>
+File: Wmunu/figures/AC/old/ZNT_TMATCHBOTH_stack_leptonP_etav_ALL.pdf Graphic fi
+le (type pdf)
+
+<use Wmunu/figures/AC/old/ZNT_TMATCHBOTH_stack_leptonP_etav_ALL.pdf> [134
+
+ <./event/AC/old/W_NOM_Q0_stack_d3_eta_lpt_met_y_2__1_z_0__1_NEG.pdf, page is r
+otated 90 degrees> <./event/AC/old/W_NOM_Q0_stack_d3_eta_lpt_met_y_2__1_z_0__1_
+POS.pdf, page is rotated 90 degrees>] [135 <./Wmunu/figures/AC/old/ZNT_TMATCHBO
+TH_stack_leptonN_etav_ALL.pdf, page is rotated 90 degrees> <./Wmunu/figures/AC/
+old/ZNT_TMATCHBOTH_stack_leptonP_etav_ALL.pdf, page is rotated 90 degrees>]
+<Wmunu/figures/AC/eta/W_8_C_stack_l_eta_POS.pdf, id=7842, 569.12625pt x 546.04p
+t>
+File: Wmunu/figures/AC/eta/W_8_C_stack_l_eta_POS.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/W_8_C_stack_l_eta_POS.pdf>
+<Wmunu/figures/AC/eta/W_8_A_stack_l_eta_POS.pdf, id=7843, 569.12625pt x 546.04p
+t>
+File: Wmunu/figures/AC/eta/W_8_A_stack_l_eta_POS.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/W_8_A_stack_l_eta_POS.pdf>
+<Wmunu/figures/AC/eta/Z_8_C_stack_lP_eta_ALL.pdf, id=7844, 569.12625pt x 546.04
+pt>
+File: Wmunu/figures/AC/eta/Z_8_C_stack_lP_eta_ALL.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/Z_8_C_stack_lP_eta_ALL.pdf>
+<Wmunu/figures/AC/eta/Z_8_A_stack_lP_eta_ALL.pdf, id=7845, 569.12625pt x 546.04
+pt>
+File: Wmunu/figures/AC/eta/Z_8_A_stack_lP_eta_ALL.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/Z_8_A_stack_lP_eta_ALL.pdf>
+<Wmunu/figures/AC/eta/W_10_C_stack_l_eta_NEG.pdf, id=7846, 569.12625pt x 546.04
+pt>
+File: Wmunu/figures/AC/eta/W_10_C_stack_l_eta_NEG.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/W_10_C_stack_l_eta_NEG.pdf>
+<Wmunu/figures/AC/eta/W_10_A_stack_l_eta_NEG.pdf, id=7847, 569.12625pt x 546.04
+pt>
+File: Wmunu/figures/AC/eta/W_10_A_stack_l_eta_NEG.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/W_10_A_stack_l_eta_NEG.pdf>
+<Wmunu/figures/AC/eta/Z_10_C_stack_lN_eta_ALL.pdf, id=7848, 569.12625pt x 546.0
+4pt>
+File: Wmunu/figures/AC/eta/Z_10_C_stack_lN_eta_ALL.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/Z_10_C_stack_lN_eta_ALL.pdf>
+<Wmunu/figures/AC/eta/Z_10_A_stack_lN_eta_ALL.pdf, id=7849, 569.12625pt x 546.0
+4pt>
+File: Wmunu/figures/AC/eta/Z_10_A_stack_lN_eta_ALL.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/Z_10_A_stack_lN_eta_ALL.pdf>
+<Wmunu/figures/AC/eta/W_10_C_stack_l_eta_POS.pdf, id=7850, 569.12625pt x 546.04
+pt>
+File: Wmunu/figures/AC/eta/W_10_C_stack_l_eta_POS.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/W_10_C_stack_l_eta_POS.pdf>
+<Wmunu/figures/AC/eta/W_10_A_stack_l_eta_POS.pdf, id=7851, 569.12625pt x 546.04
+pt>
+File: Wmunu/figures/AC/eta/W_10_A_stack_l_eta_POS.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/W_10_A_stack_l_eta_POS.pdf>
+<Wmunu/figures/AC/eta/Z_10_C_stack_lP_eta_ALL.pdf, id=7852, 569.12625pt x 546.0
+4pt>
+File: Wmunu/figures/AC/eta/Z_10_C_stack_lP_eta_ALL.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/Z_10_C_stack_lP_eta_ALL.pdf>
+<Wmunu/figures/AC/eta/Z_10_A_stack_lP_eta_ALL.pdf, id=7853, 569.12625pt x 546.0
+4pt>
+File: Wmunu/figures/AC/eta/Z_10_A_stack_lP_eta_ALL.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/Z_10_A_stack_lP_eta_ALL.pdf>
+<Wmunu/figures/AC/eta/W_7_C_stack_l_eta_POS.pdf, id=7854, 569.12625pt x 546.04p
+t>
+File: Wmunu/figures/AC/eta/W_7_C_stack_l_eta_POS.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/W_7_C_stack_l_eta_POS.pdf>
+<Wmunu/figures/AC/eta/W_7_A_stack_l_eta_POS.pdf, id=7855, 569.12625pt x 546.04p
+t>
+File: Wmunu/figures/AC/eta/W_7_A_stack_l_eta_POS.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/W_7_A_stack_l_eta_POS.pdf>
+<Wmunu/figures/AC/eta/Z_7_C_stack_lP_eta_ALL.pdf, id=7856, 569.12625pt x 546.04
+pt>
+File: Wmunu/figures/AC/eta/Z_7_C_stack_lP_eta_ALL.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/Z_7_C_stack_lP_eta_ALL.pdf>
+<Wmunu/figures/AC/eta/Z_7_A_stack_lP_eta_ALL.pdf, id=7857, 569.12625pt x 546.04
+pt>
+File: Wmunu/figures/AC/eta/Z_7_A_stack_lP_eta_ALL.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/eta/Z_7_A_stack_lP_eta_ALL.pdf>
+<Wmunu/figures/AC/old/WpDtoH_10_C_stack_l_eta_NEG.pdf, id=7859, 569.12625pt x 5
+46.04pt>
+File: Wmunu/figures/AC/old/WpDtoH_10_C_stack_l_eta_NEG.pdf Graphic file (type p
+df)
+ <use Wmunu/figures/AC/old/WpDtoH_10_C_stack_l_eta_NEG.pdf>
+<Wmunu/figures/AC/old/WpItoI_10_C_stack_l_eta_NEG.pdf, id=7860, 569.12625pt x 5
+46.04pt>
+File: Wmunu/figures/AC/old/WpItoI_10_C_stack_l_eta_NEG.pdf Graphic file (type p
+df)
+ <use Wmunu/figures/AC/old/WpItoI_10_C_stack_l_eta_NEG.pdf>
+<Wmunu/figures/AC/old/WMU18_MG_8_C_stack_l_eta_POS.pdf, id=7864, 569.12625pt x 
+546.04pt>
+File: Wmunu/figures/AC/old/WMU18_MG_8_C_stack_l_eta_POS.pdf Graphic file (type 
+pdf)
+ <use Wmunu/figures/AC/old/WMU18_MG_8_C_stack_l_eta_POS.pdf>
+<Wmunu/figures/AC/old/WMU18_8_C_stack_l_eta_POS.pdf, id=7865, 569.12625pt x 546
+.04pt>
+File: Wmunu/figures/AC/old/WMU18_8_C_stack_l_eta_POS.pdf Graphic file (type pdf
+)
+ <use Wmunu/figures/AC/old/WMU18_8_C_stack_l_eta_POS.pdf> [136] [137 <./Wmunu/f
+igures/AC/eta/W_8_C_stack_l_eta_POS.pdf, page is rotated 90 degrees> <./Wmunu/f
+igures/AC/eta/W_8_A_stack_l_eta_POS.pdf, page is rotated 90 degrees> <./Wmunu/f
+igures/AC/eta/Z_8_C_stack_lP_eta_ALL.pdf, page is rotated 90 degrees> <./Wmunu/
+figures/AC/eta/Z_8_A_stack_lP_eta_ALL.pdf, page is rotated 90 degrees>]
+[138 <./Wmunu/figures/AC/eta/W_10_C_stack_l_eta_NEG.pdf, page is rotated 90 deg
+rees> <./Wmunu/figures/AC/eta/W_10_A_stack_l_eta_NEG.pdf, page is rotated 90 de
+grees> <./Wmunu/figures/AC/eta/Z_10_C_stack_lN_eta_ALL.pdf, page is rotated 90 
+degrees> <./Wmunu/figures/AC/eta/Z_10_A_stack_lN_eta_ALL.pdf, page is rotated 9
+0 degrees>] [139 <./Wmunu/figures/AC/eta/W_10_C_stack_l_eta_POS.pdf, page is ro
+tated 90 degrees> <./Wmunu/figures/AC/eta/W_10_A_stack_l_eta_POS.pdf, page is r
+otated 90 degrees> <./Wmunu/figures/AC/eta/Z_10_C_stack_lP_eta_ALL.pdf, page is
+ rotated 90 degrees> <./Wmunu/figures/AC/eta/Z_10_A_stack_lP_eta_ALL.pdf, page 
+is rotated 90 degrees>] [140 <./Wmunu/figures/AC/eta/W_7_C_stack_l_eta_POS.pdf,
+ page is rotated 90 degrees> <./Wmunu/figures/AC/eta/W_7_A_stack_l_eta_POS.pdf,
+ page is rotated 90 degrees> <./Wmunu/figures/AC/eta/Z_7_C_stack_lP_eta_ALL.pdf
+, page is rotated 90 degrees> <./Wmunu/figures/AC/eta/Z_7_A_stack_lP_eta_ALL.pd
+f, page is rotated 90 degrees>]
+<Wmunu/figures/AC/old/WMU18_MG_10_C_stack_l_eta_NEG.pdf, id=8591, 569.12625pt x
+ 546.04pt>
+File: Wmunu/figures/AC/old/WMU18_MG_10_C_stack_l_eta_NEG.pdf Graphic file (type
+ pdf)
+ <use Wmunu/figures/AC/old/WMU18_MG_10_C_stack_l_eta_NEG.pdf>
+<Wmunu/figures/AC/old/WMU18_10_C_stack_l_eta_NEG.pdf, id=8592, 569.12625pt x 54
+6.04pt>
+File: Wmunu/figures/AC/old/WMU18_10_C_stack_l_eta_NEG.pdf Graphic file (type pd
+f)
+ <use Wmunu/figures/AC/old/WMU18_10_C_stack_l_eta_NEG.pdf>
+<Wmunu/figures/AC/old/WMU18_MG_10_C_stack_l_eta_POS.pdf, id=8593, 569.12625pt x
+ 546.04pt>
+File: Wmunu/figures/AC/old/WMU18_MG_10_C_stack_l_eta_POS.pdf Graphic file (type
+ pdf)
+ <use Wmunu/figures/AC/old/WMU18_MG_10_C_stack_l_eta_POS.pdf>
+<Wmunu/figures/AC/old/WMU18_10_C_stack_l_eta_POS.pdf, id=8594, 569.12625pt x 54
+6.04pt>
+File: Wmunu/figures/AC/old/WMU18_10_C_stack_l_eta_POS.pdf Graphic file (type pd
+f)
+ <use Wmunu/figures/AC/old/WMU18_10_C_stack_l_eta_POS.pdf>
+<Wmunu/figures/AC/old/dump_MG_dataD_w_NEG.dat__MUID_NOT_MG.pdf, id=8595, 569.12
+625pt x 408.52625pt>
+File: Wmunu/figures/AC/old/dump_MG_dataD_w_NEG.dat__MUID_NOT_MG.pdf Graphic fil
+e (type pdf)
+
+<use Wmunu/figures/AC/old/dump_MG_dataD_w_NEG.dat__MUID_NOT_MG.pdf>
+<Wmunu/figures/AC/old/dump_MG_dataD_w_POS.dat__MUID_NOT_MG.pdf, id=8596, 569.12
+625pt x 408.52625pt>
+File: Wmunu/figures/AC/old/dump_MG_dataD_w_POS.dat__MUID_NOT_MG.pdf Graphic fil
+e (type pdf)
+
+<use Wmunu/figures/AC/old/dump_MG_dataD_w_POS.dat__MUID_NOT_MG.pdf>
+<Wmunu/figures/AC/old/dump_MG_dataL_w_NEG.dat__MUID_NOT_MG.pdf, id=8597, 569.12
+625pt x 408.52625pt>
+File: Wmunu/figures/AC/old/dump_MG_dataL_w_NEG.dat__MUID_NOT_MG.pdf Graphic fil
+e (type pdf)
+
+<use Wmunu/figures/AC/old/dump_MG_dataL_w_NEG.dat__MUID_NOT_MG.pdf>
+<Wmunu/figures/AC/old/dump_MG_dataL_w_POS.dat__MUID_NOT_MG.pdf, id=8598, 569.12
+625pt x 408.52625pt>
+File: Wmunu/figures/AC/old/dump_MG_dataL_w_POS.dat__MUID_NOT_MG.pdf Graphic fil
+e (type pdf)
+
+<use Wmunu/figures/AC/old/dump_MG_dataL_w_POS.dat__MUID_NOT_MG.pdf> [141 <./Wmu
+nu/figures/AC/old/WpDtoH_10_C_stack_l_eta_NEG.pdf, page is rotated 90 degrees> 
+<./Wmunu/figures/AC/old/WpItoI_10_C_stack_l_eta_NEG.pdf, page is rotated 90 deg
+rees>] [142 <./Wmunu/figures/AC/old/WMU18_MG_8_C_stack_l_eta_POS.pdf, page is r
+otated 90 degrees> <./Wmunu/figures/AC/old/WMU18_8_C_stack_l_eta_POS.pdf, page 
+is rotated 90 degrees> <./Wmunu/figures/AC/old/WMU18_MG_10_C_stack_l_eta_NEG.pd
+f, page is rotated 90 degrees> <./Wmunu/figures/AC/old/WMU18_10_C_stack_l_eta_N
+EG.pdf, page is rotated 90 degrees>]
+<Wmunu/figures/AC/old/Z_10_C_stack_lN_eta_ALL.pdf, id=8872, 569.12625pt x 546.0
+4pt>
+File: Wmunu/figures/AC/old/Z_10_C_stack_lN_eta_ALL.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/old/Z_10_C_stack_lN_eta_ALL.pdf>
+<Wmunu/figures/AC/old/Ztinv_10_C_stack_lN_eta_ALL.pdf, id=8873, 569.12625pt x 5
+46.04pt>
+File: Wmunu/figures/AC/old/Ztinv_10_C_stack_lN_eta_ALL.pdf Graphic file (type p
+df)
+ <use Wmunu/figures/AC/old/Ztinv_10_C_stack_lN_eta_ALL.pdf>
+<Wmunu/figures/AC/old/W_10_C_stack_l_eta_NEG.pdf, id=8874, 569.12625pt x 546.04
+pt>
+File: Wmunu/figures/AC/old/W_10_C_stack_l_eta_NEG.pdf Graphic file (type pdf)
+ <use Wmunu/figures/AC/old/W_10_C_stack_l_eta_NEG.pdf> [143 <./Wmunu/figures/AC
+/old/WMU18_MG_10_C_stack_l_eta_POS.pdf, page is rotated 90 degrees> <./Wmunu/fi
+gures/AC/old/WMU18_10_C_stack_l_eta_POS.pdf, page is rotated 90 degrees>]
+[144 <./Wmunu/figures/AC/old/dump_MG_dataD_w_NEG.dat__MUID_NOT_MG.pdf, page is 
+rotated 90 degrees> <./Wmunu/figures/AC/old/dump_MG_dataD_w_POS.dat__MUID_NOT_M
+G.pdf, page is rotated 90 degrees> <./Wmunu/figures/AC/old/dump_MG_dataL_w_NEG.
+dat__MUID_NOT_MG.pdf, page is rotated 90 degrees> <./Wmunu/figures/AC/old/dump_
+MG_dataL_w_POS.dat__MUID_NOT_MG.pdf, page is rotated 90 degrees>]
+<event/AC/new/W_NOM_Q0_stack_d3_eta_lpt_met_y_2__1_z_0__1_NEG.pdf, id=9148, 569
+.12625pt x 546.04pt>
+File: event/AC/new/W_NOM_Q0_stack_d3_eta_lpt_met_y_2__1_z_0__1_NEG.pdf Graphic 
+file (type pdf)
+
+<use event/AC/new/W_NOM_Q0_stack_d3_eta_lpt_met_y_2__1_z_0__1_NEG.pdf>
+<event/AC/new/W_NOM_Q0_stack_d3_eta_lpt_met_y_2__1_z_0__1_POS.pdf, id=9149, 569
+.12625pt x 546.04pt>
+File: event/AC/new/W_NOM_Q0_stack_d3_eta_lpt_met_y_2__1_z_0__1_POS.pdf Graphic 
+file (type pdf)
+
+<use event/AC/new/W_NOM_Q0_stack_d3_eta_lpt_met_y_2__1_z_0__1_POS.pdf>)
+[145 <./Wmunu/figures/AC/old/Z_10_C_stack_lN_eta_ALL.pdf, page is rotated 90 de
+grees> <./Wmunu/figures/AC/old/Ztinv_10_C_stack_lN_eta_ALL.pdf, page is rotated
+ 90 degrees> <./Wmunu/figures/AC/old/W_10_C_stack_l_eta_NEG.pdf, page is rotate
+d 90 degrees>] [146 <./event/AC/new/W_NOM_Q0_stack_d3_eta_lpt_met_y_2__1_z_0__1
+_NEG.pdf, page is rotated 90 degrees> <./event/AC/new/W_NOM_Q0_stack_d3_eta_lpt
+_met_y_2__1_z_0__1_POS.pdf, page is rotated 90 degrees>]
+Appendix B.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 70.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 70.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 70.
+
+(./sys/smoothing2d.tex
+<Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin1.pdf, id=9382, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin1.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin1.pdf>
+<Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin1.pdf, id=9383, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin1.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin1.pdf>
+<Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin1.pdf, id=9384, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin1.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin1.pdf>
+<Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin1.pdf, id=9385, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin1.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin1.pdf>
+<Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin1.pdf, id=9386, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin1.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin1.pdf>
+<Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin1.pdf, id=9387, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin1.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin1.pdf>
+<Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin1.pdf, id=9388, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin1.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin1.pdf>
+<Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin1.pdf, id=9389, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin1.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin1.pdf>
+<Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin4.pdf, id=9390, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin4.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin4.pdf>
+<Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin4.pdf, id=9391, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin4.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin4.pdf>
+<Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin4.pdf, id=9392, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin4.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin4.pdf>
+<Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin4.pdf, id=9393, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin4.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin4.pdf>
+<Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin4.pdf, id=9394, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin4.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin4.pdf>
+<Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin4.pdf, id=9395, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin4.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin4.pdf>
+<Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin4.pdf, id=9396, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin4.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin4.pdf>
+<Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin4.pdf, id=9397, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin4.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin4.pdf>
+<Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin7.pdf, id=9398, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin7.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin7.pdf>
+<Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin7.pdf, id=9399, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin7.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin7.pdf>
+<Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin7.pdf, id=9400, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin7.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin7.pdf>
+<Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin7.pdf, id=9401, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin7.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin7.pdf>
+<Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin7.pdf, id=9402, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin7.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin7.pdf>
+<Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin7.pdf, id=9403, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin7.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin7.pdf>
+<Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin7.pdf, id=9404, 569.12625
+pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin7.pdf Graphic file (
+type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin7.pdf>
+<Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin7.pdf, id=9405, 569.1262
+5pt x 546.04pt>
+File: Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin7.pdf Graphic file 
+(type pdf)
+
+<use Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin7.pdf> [147
+
+]
+[148 <./Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin1.pdf, page is rot
+ated 90 degrees> <./Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin1.pdf
+, page is rotated 90 degrees> <./Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onl
+ybg_bin1.pdf, page is rotated 90 degrees> <./Wmunu/figures/smoothing/2D_pt20_PO
+S_MEsyst_onlyunf_bin1.pdf, page is rotated 90 degrees>] [149 <./Wmunu/figures/s
+moothing/2D_pt20_NEG_PSsyst_onlybg_bin1.pdf, page is rotated 90 degrees> <./Wmu
+nu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin1.pdf, page is rotated 90 de
+grees> <./Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin1.pdf, page is r
+otated 90 degrees> <./Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin1.p
+df, page is rotated 90 degrees>] [150 <./Wmunu/figures/smoothing/2D_pt20_POS_PS
+syst_onlybg_bin4.pdf, page is rotated 90 degrees> <./Wmunu/figures/smoothing/2D
+_pt20_POS_PSsyst_onlyunf_bin4.pdf, page is rotated 90 degrees> <./Wmunu/figures
+/smoothing/2D_pt20_POS_MEsyst_onlybg_bin4.pdf, page is rotated 90 degrees> <./W
+munu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin4.pdf, page is rotated 90 
+degrees>] [151 <./Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin4.pdf, p
+age is rotated 90 degrees> <./Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyun
+f_bin4.pdf, page is rotated 90 degrees> <./Wmunu/figures/smoothing/2D_pt20_NEG_
+MEsyst_onlybg_bin4.pdf, page is rotated 90 degrees> <./Wmunu/figures/smoothing/
+2D_pt20_NEG_MEsyst_onlyunf_bin4.pdf, page is rotated 90 degrees>] [152 <./Wmunu
+/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin7.pdf, page is rotated 90 degre
+es> <./Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin7.pdf, page is rot
+ated 90 degrees> <./Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin7.pdf,
+ page is rotated 90 degrees> <./Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_only
+unf_bin7.pdf, page is rotated 90 degrees>] [153 <./Wmunu/figures/smoothing/2D_p
+t20_NEG_PSsyst_onlybg_bin7.pdf, page is rotated 90 degrees> <./Wmunu/figures/sm
+oothing/2D_pt20_NEG_PSsyst_onlyunf_bin7.pdf, page is rotated 90 degrees> <./Wmu
+nu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin7.pdf, page is rotated 90 deg
+rees> <./Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin7.pdf, page is r
+otated 90 degrees>])
+Appendix C.
+(./res/fiducial.tex (./res/fig/Wmn_UNFABS_0D_PT25_SUM_UnfAbs_NBC_proj.tex)
+(./res/fig/Wmn_UNFABS_0D_PT25_SUM_UnfAbs_proj.tex) [154
+
+
+]
+(./res/fig/Wmn_UNFABS_1D_PT25_POS_UnfAbs_NBC_proj.tex)
+(./res/fig/Wmn_UNFABS_1D_PT25_NEG_UnfAbs_NBC_proj.tex)
+(./res/fig/Wmn_UNFABS_1D_PT25_POS_UnfAbs_proj.tex)
+(./res/fig/Wmn_UNFABS_1D_PT25_NEG_UnfAbs_proj.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_NBC_1.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_NBC_2.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_NBC_3.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_NBC_4.tex) [155] [156]
+(./res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_NBC_5.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_NBC_6.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_NBC_7.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_NBC_1.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_NBC_2.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_NBC_3.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_NBC_4.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_NBC_5.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_NBC_6.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_NBC_7.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_1.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_2.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_3.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_4.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_5.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_6.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_7.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_1.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_2.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_3.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_4.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_5.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_6.tex)
+(./res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_7.tex)) [157] [158] [159] [160]
+[161] [162] [163] [164] [165] (./main.bbl [166
+
+] [167]
+Underfull \hbox (badness 1400) in paragraph at lines 179--182
+[]\OT1/cmr/m/n/12 Geoff Brum-fiel.  High-energy physics: Down the petabyte high
+-way.  \OT1/cmr/m/it/12 Na-ture\OT1/cmr/m/n/12 ,
+ []
+
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+
+Underfull \hbox (badness 1226) in paragraph at lines 196--199
+[]\OT1/cmr/m/n/12 John M. Camp-bell and R.K. El-lis.  MCFM for the Teva-tron an
+d the LHC.
+ []
+
+[168] [169]) [170] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 9801 strings out of 495061
+ 172703 string characters out of 1182621
+ 315739 words of memory out of 3000000
+ 11883 multiletter control sequences out of 15000+50000
+ 16074 words of font info for 62 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 35i,17n,44p,1250b,667s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
+cmcsc10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmex10.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-tex
+live/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/type1/public/
+amsfonts/cm/cmmib10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/t
+exmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmsy5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-
+texlive/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on main.pdf (188 pages, 9925241 bytes).
+PDF statistics:
+ 10786 PDF objects out of 12825 (max. 8388607)
+ 712 named destinations out of 1000 (max. 500000)
+ 1994 words of extra memory for PDF output out of 10000 (max. 10000000)
+

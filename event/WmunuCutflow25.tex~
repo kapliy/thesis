@@ -1,0 +1,26 @@
+
+\begin{table}
+\begin{center}
+\input{Wmunu/figures/cutflow/data_pt25}
+\caption{\it Cutflow for \Wmn\ candidate events in data ($p_T~>~25~\GeV$). Data events that don't have at least one 8 \GeV muon (of any kind) were dropped at the ntuple skimming stage.}
+\label{tab:Wmunu:cutflow_data_pt25}
+\end{center}
+\end{table}
+
+
+\begin{table}
+\begin{center}
+\input{Wmunu/figures/cutflow/mc_POS_pt25}
+\caption{\it Cutflow for $W^{+} \rightarrow \mu^{+} \nu$ events in the nominal Monte Carlo signal sample~(Powheg+Pythia) with muon $p_T~>~25~\GeV$. Pileup, vertex position, and $p_T^{W}$  weights are applied, but the counts are not scaled to integrated luminosity. The number of selected events after the application of efficiency scale factors is shown in the last row. Note that the Monte-Carlo events are not restricted to a fiducial region at truth level, so the reported efficiencies are a mixture of acceptance and reconstruction efficiency factors. }
+\label{tab:Wmunu:cutflow_mc_POS_pt25}
+\end{center}
+\end{table}
+
+
+\begin{table}
+\begin{center}
+\input{Wmunu/figures/cutflow/mc_NEG_pt25}
+\caption{\it Cutflow for $W^{-} \rightarrow \mu^{-} \nu$ events in the nominal Monte Carlo signal sample~(Powheg+Pythia) with muon $p_T~>~25~\GeV$. Pileup, vertex position, and $p_T^{W}$  weights are applied, but the counts are not scaled to integrated luminosity.. The number of selected events after the application of efficiency scale factors is shown in the last row. Note that the Monte-Carlo events are not restricted to a fiducial region at truth level, so the reported efficiencies are a mixture of acceptance and reconstruction efficiency factors.}
+\label{tab:Wmunu:cutflow_mc_NEG_pt25}
+\end{center}
+\end{table}

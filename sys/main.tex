@@ -1,0 +1,345 @@
+% systematics
+
+\section{Statistical Uncertainties}
+Statistical uncertainties arise from three sources:
+\begin{itemize}
+\item Limited amount of data in the analyzed sample
+\item Limited number of simulated background events
+\item Limited number of simulated \Wmn\ signal events.
+\end{itemize}
+
+All three sources of statistical uncertainty are propagated to the final measurement using the toy Monte-Carlo method with 200 iterations. For example, in the case of background statistics, the cross-section is re-calculated 200 times, each time taking the number of background events from a Gaussian centered at the nominal value $B$ and having its width set to $\delta B$. In the end, the RMS (root-mean-square) of 200 cross-section measurements is computed and taken as the statistical uncertainty. A similar procedure is repeated with variations in the number of data counts and in the efficiency factor \C\ derived from the signal Monte-Carlo.
+
+\section{Systematic Uncertainties}
+
+Uncertainties in reconstruction performance, simulation parameters, and detector conditions directly affect the value of the measured cross-section. The entire analysis chain was repeated under each systematic variation to assess the importance of these effects. The final uncertainty on the cross-section is formed as the sum-in-quadrature of the following individual components:
+
+\begin{itemize}
+\item Muon trigger efficiency.
+\item Muon reconstruction efficiency:
+\begin{itemize}
+\item $p_T$ parametrization uncertainty,
+\item Choice of probe (ID-only vs CaloTag muon).
+\end{itemize}
+\item Muon isolation efficiency.
+\item Muon momentum resolution:
+\begin{itemize}
+\item Inner Detector (ID) part,
+\item Muon Spectrometer (MS) part.
+\end{itemize}
+\item Muon momentum scale:
+\begin{itemize}
+\item Multiplicative scale,
+\item Charge-splitting curvature correction.
+\end{itemize}
+\item $E_{T}^{miss}$ (soft terms):
+\begin{itemize}
+\item  $E_{T}^{miss}$ scale,
+\item $E_{T}^{miss}$ resolution.
+\end{itemize}
+\item Jet energy:
+\begin{itemize}
+\item Jet energy scale,
+\item Jet energy resolution.
+\end{itemize}
+\item Theoretical uncertainties:
+\begin{itemize}
+\item Matrix element (ME),
+\item Parton shower (PS) and hadronization,
+\item Parton Distribution Functions (PDF).
+\end{itemize}
+\item $p^{W}_{T}$ reweighting.
+\item Pile-up uncertainty.
+\item Background uncertainties:
+\begin{itemize}
+\item Electroweak and top backgrounds,
+\item Multi-jet (QCD) background.
+\end{itemize}
+\end{itemize}
+
+\subsection{Trigger, Reconstruction and Isolation Efficiencies}
+Differences in the efficiencies measured in data and in Monte-Carlo are corrected using tag-and-probe scale factors, as described in Sec.~\ref{sec:perf:muoncorr}. These scale factors have two kinds of uncertainties: the truly systematic effects due to variations in the tag-and-probe procedure, and a statistical component due to limited Z-boson statistics available in the data.
+
+The systematic variations are handled by re-calculating the cross-section under corresponding variations in the scale factors.
+
+The statistical component is instead derived using the toy-MC method. 1000 replicas of the scale-factors are formed assuming a Gaussian distribution around the central values of these scale factors, with the width equal to their statistical uncertainty. The choice of such a large number of replicas is motivated by the desire to properly correlate the muon scale factor uncertainties between the \Wmn\ and \Zmm\ channels. These toys are propagated through the master cross-section formula~\ref{eq:WZxsec} to obtain a set of 1000 cross-section measurements, and the RMS is taken as the scale factor systematic.
+
+\subsection{Muon Momentum}
+Uncertainties related to the muon momentum measurement affect the \C\ factors that translate the measured event counts to a detector-invariant cross-section at the generator level. They can also produce migrations of events across $p_{T}$ bins.
+
+Muons in the Monte Carlo are smeared to account for the extra momentum resolution as measured from data, as described in Sec.~\ref{perf:muon:scale}. Four systematic variations of the smearing parameters are available, corresponding to the up-down variations of the Inner Detector and Muon Spectrometer smearing constants.
+
+Corrections to the transverse momentum of the muons are applied in Monte-Carlo events to improve their agreement with the data, as described in Sec.~\ref{perf:muon:scale}. Four systematic variations are applied, corresponding to the up-down variations for the overall momentum scale and for the charge-splitting curvature.
+
+\subsection{\MET\ Scale and Resolution}
+The effects on the \MET\ reconstruction due to the muon and jet energy scale and resolution uncertainties are taken into account by recalculating the \MET\ using the correspondingly shifted muon or jet objects. The effects on the \MET\ due to these variations are therefore implicitly included in the uncertainties quoted for muon/jet energy scale and resolution uncertainties. The \MET\ uncertainty due to ``soft'' clusters unassociated to any physics object is evaluated separately, as described in Sec.~\ref{perf:met:scale}. This uncertainty is propagated to the measurement by applying the up and down variations to the \MET\ scale and resolution in Monte-Carlo and evaluating the deviation of the resulting cross-section from the nominal value.
+
+\subsection{Pile-Up}
+Pile-up uncertainties are implicitly included in the uncertainties on the efficiency scale factors and \met scale and resolution. As an additional uncertainty, the number of interactions per bunch crossing is rescaled in Monte-Carlo by an additional 3\%.
+
+\subsection{Boson $p_T$}
+The uncertainty due to W $p_T$ reweighting (Sec.~\ref{sec:bosonptreweight}) is evaluated by reweighting the nominal Monte Carlo sample to a different boson $p_T$ target and taking the resulting deviation in the cross-section from the nominal value as an uncertainty. The alternative reweighting targets are based on PowhegPythia8 and Sherpa14 generators.
+
+\subsection{Backgrounds}
+The determination of background uncertainties was described in Chap.~\ref{chap:bg}.
+
+Many of the systematic variations also affect the shape of the \met\ distribution in Monte-Carlo, which is used to fit for QCD fractions (Sec.~\ref{sec:wmnu:qcdbkg}). The resulting variations in QCD normalization are correlated with the corresponding variations of the electroweak backgrounds and the \C\ factors (Sec.~\ref{sec:xsec_formula}), and are thus included as part of those uncertainties. However, some variations are intrinsic to the fit procedure and are accounted for separately as a genuine ``QCD uncertainty''. Included among these are the choice of the QCD control region and the fit parameters, and the statistical fit uncertainty reported by the fraction fitter.
+
+\subsection{Theoretical uncertainties}
+\label{sec:sys:theoryunc}
+Theoretical uncertainties are minimized by applying a similar kinematic selection at the truth and detector levels.
+
+\paragraph{PDF}
+PDF uncertainty is evaluated by separately calculating the \C\ factors and applying the master cross-section formula~\ref{eq:WZxsec} for each of the 52 error sets in the CT10 family. The resulting deviations are combined using the Hessian approach, as described in \cite{Lai:2010nw}, and rescaled from the 90\% to 68\% confidence interval.
+
+\paragraph{Matrix Element}
+The sensitivity of the \C\ factors (Sec.~\ref{sec:xsec_formula}) on the modeling of the hard-scatter process is evaluated by re-deriving them using the MC@NLO generator. The difference between the cross-sections derived with the MC@NLO and Powheg+Herwig \C\ factors is assigned as an uncertainty, which is treated as independent from the parton shower uncertainty described below.
+
+\paragraph{Parton Shower}
+The sensitivity of the \C\ factors (Sec.~\ref{sec:xsec_formula}) to the choice of the parton shower and hadronization model is evaluated by re-deriving the \C\ factors using the Powheg+Herwig generator instead of the nominal Powheg+Pythia generator, and assigning the deviation in the resulting cross-sections as an uncertainty.
+
+\paragraph{Smoothing of Theory Systematics}
+\label{sys:smoothing}
+The systematic uncertainties assigned to the choice of the matrix-element generator (ME) and parton showering (PS) programs suffer from statistical fluctuations, due to the limited statistics of the alternative Monte Carlo samples (Powheg+Herwig and MC@NLO). This is especially problematic in the double-differential measurements, where statistical fluctuations cause substantial bin-to-bin variations in the assigned theoretical uncertainty. In order to overcome these unphysical fluctuations, the uncertainties due to the choice of the generator and parton showering programs are smoothed by performing a polynomial fit over the $\eta$ bins in each $p_T$ slice. Polynomials of 0th, 1st and 2nd order are considered. The choice of the signal Monte Carlo sample affects both the QCD estimation as well as the \C\ factors (Sec.~\ref{sec:xsec_formula}). The fits to the deviations of the cross-section due to variations of the signal sample used in the QCD estimation are shown in \Fig~\ref{fig:Wmunu:syst_smoothing_bkg}. \Fig~\ref{fig:Wmunu:syst_smoothing_unfolding} shows the corresponding plots for variations in the signal sample used to derive the \C\ factors.
+% The fitted uncertainties for the case when both variations are done in parallel are shown in \Fig~\ref{fig:Wmunu:syst_smoothing_total}.
+
+Similar plots for the double-differential measurement in $p_T$ bins are shown in Appendix~\ref{appendix:smoothing}.
+
+Based on these plots, the 2nd order polynomial is chosen to smoothen the theory systematics. The fits to the deviations in the backgrounds and the \C\ factors are done independently, and the resulting systematic uncertainties are summed linearly. The uncertainty band around the fitted curves is used as an additional, bin-by-bin uncorrelated source of uncertainty.
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[$W^+$: Powheg+Herwig vs Powheg+Pythia]{%
+          \includegraphics[width=0.45\textwidth]{Wmunu/figures/smoothing/1D_pt25_POS_PSsyst_onlybg}
+        } 
+       \subfigure[$W^-$ Powheg+Herwig vs Powheg+Pythia]{%
+         \includegraphics[width=0.45\textwidth]{Wmunu/figures/smoothing/1D_pt25_NEG_PSsyst_onlybg}
+        } \\
+        \subfigure[$W^+$: MC@NLO vs Powheg+Herwig]{%
+          \includegraphics[width=0.45\textwidth]{Wmunu/figures/smoothing/1D_pt25_POS_MEsyst_onlybg}
+        } 
+       \subfigure[$W^-$ MC@NLO vs Powheg+Herwig]{%
+         \includegraphics[width=0.45\textwidth]{Wmunu/figures/smoothing/1D_pt25_NEG_MEsyst_onlybg}
+        } \\
+ \caption{Fits to the fractional deviation of the cross-section due to variations in the signal Monte Carlo sample used in the QCD fit. 
+   The signal sample used to compute the \C\ factors is always Powheg+Pythia. Because it is difficult to correctly define the uncertainty from the QCD fit in each bin, the fit was performed disregarding the errors.}
+ \label{fig:Wmunu:syst_smoothing_bkg}
+ \end{center}
+\end{figure}
+
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[$W^+$: Powheg+Herwig vs Powheg+Pythia]{%
+          \includegraphics[width=0.45\textwidth]{Wmunu/figures/smoothing/1D_pt25_POS_PSsyst_onlyunf}
+        } 
+       \subfigure[$W^-$ Powheg+Herwig vs Powheg+Pythia]{%
+         \includegraphics[width=0.45\textwidth]{Wmunu/figures/smoothing/1D_pt25_NEG_PSsyst_onlyunf}
+        } \\
+        \subfigure[$W^+$: MC@NLO vs Powheg+Herwig]{%
+          \includegraphics[width=0.45\textwidth]{Wmunu/figures/smoothing/1D_pt25_POS_MEsyst_onlyunf}
+        } 
+       \subfigure[$W^-$ MC@NLO vs Powheg+Herwig]{%
+         \includegraphics[width=0.45\textwidth]{Wmunu/figures/smoothing/1D_pt25_NEG_MEsyst_onlyunf}
+        } \\
+ \caption{Fits to the fractional deviation of the cross-section due to variations in the signal Monte Carlo sample used to compute the \C\ factors. 
+ The signal sample used in the QCD fit is always Powheg+Pythia.}
+ \label{fig:Wmunu:syst_smoothing_unfolding}
+ \end{center}
+\end{figure}
+
+%% \begin{figure}[phtb]
+%%   \begin{center}
+%%         \subfigure[$W^+$: Powheg+Herwig vs Powheg+Pythia]{%
+%%           \includegraphics[width=0.45\textwidth]{Wmunu/figures/smoothing/1D_pt25_POS_PSsyst_all}
+%%         } 
+%%        \subfigure[$W^-$ Powheg+Herwig vs Powheg+Pythia]{%
+%%          \includegraphics[width=0.45\textwidth]{Wmunu/figures/smoothing/1D_pt25_NEG_PSsyst_all}
+%%         } \\
+%%         \subfigure[$W^+$: MC@NLO vs Powheg+Herwig]{%
+%%           \includegraphics[width=0.45\textwidth]{Wmunu/figures/smoothing/1D_pt25_POS_MEsyst_all}
+%%         } 
+%%        \subfigure[$W^-$ MC@NLO vs Powheg+Herwig]{%
+%%          \includegraphics[width=0.45\textwidth]{Wmunu/figures/smoothing/1D_pt25_NEG_MEsyst_all}
+%%         } \\
+%%  \caption{Fits to the fractional deviation of the cross-section due to variations in the signal Monte Carlo sample used both for the QCD estimate and the \C\ factors. The statistical uncertainty and systematic fluctuations on the fitted QCD fraction are not accounted for in the error bars. As a consequence, the error bars are under-estimated and the $\chi^2$ is over-estimated.}
+%%  \label{fig:Wmunu:syst_smoothing_total}
+%%  \end{center}
+%% \end{figure}
+
+
+\section{Luminosity Uncertainty}
+The uncertainty on the integrated luminosity is 1.8\% (Sec.~\ref{mc:sec:coldata}) and is quoted separately from the other systematics. The main reason for its special treatment is because the luminosity uncertainty does not change the shape of any differential cross-section distributions, but only produces an overall shift. Therefore, it does not affect the fits to parton distribution functions, which typically probe the shape of the cross-section as a function of $\eta$.
+
+\section{Summary of systematics}
+
+The relative uncertainties, in percent, on the fiducial integrated measurement are summarized in Table \ref{tab:Wmunu:unfolded_unc_0d_pt25}. The relative uncertainties, in percent, on the fiducial single-differential and double-differential measurements are summarized in Fig.~\ref{fig:Wmunu:unfolded_unc_1d_pt25} and Figs.~\ref{fig:Wmunu:unfolded_unc_2d_1}~-~\ref{fig:Wmunu:unfolded_unc_2d_7}, respectively.
+
+The systematic uncertainty on the fiducial integrated measurement is around 0.6\% for both charges, while the statistical uncertainty is only about 0.04\%. The dominant systematics come from QCD and electroweak backgrounds, followed by the theory uncertainties, muon reconstruction efficiency, W $p_T$ reweighting, and scale uncertainties on jets, muons, and \MET.\footnote{ Although the theory uncertainties (Parton Shower and Matrix Element) dominate the estimate of the QCD background (Sec.~\ref{sec:bg:qcdsyst}), their effect on the cross-section is largely compensated by the corresponding variations in the \C\ factors.} The measurement is clearly dominated by its systematics, in contrast to the 2010 result where statistical and systematic uncertainties were comparable in size. However, luminosity remains the dominant effect by far, resulting in an additional 1.8\% uncertainty. 
+
+Systematic uncertainties on the single-differential measurement range between 0.6\%-1.0\% depending on $\eta$, while the statistical uncertainty is about 0.15\%. Similarly to the integrated measurement, QCD and electroweak backgrounds dominate the uncertainty.
+
+Systematic uncertainties on the double-differential measurement are highly dependent on $p_T$. In the lowest $p_T$ bin (\ptZero), systematic uncertainty ranges between 7\%-13\% and is dominated by \MET\ resolution. The uncertainty drops to about 3\% in the \ptOne\ bin, lingers around 1\%-2\% for bins within $30<p_T<45$ GeV, and returns to 3\% for \ptFive. In these ranges of $p_T$, the uncertainty is dominated by theory (parton shower and matrix element). In the last bin, \ptSix, the systematic uncertainty reaches 4\% and is dominated by jet energy scale and resolution, since very high-$p_T$ muons usually balance against energetic jets.
+
+\begin{table}
+  \small
+  \begin{center}
+  \input{Wmunu/figures/res/Wmn_SYSTEM_0D_PT25_SUM_Unc_proj}
+    \caption{Summary of the systematic uncertainties on the integrated  \Wmunum\ and \Wmunup\ cross-sections.}
+    \label{tab:Wmunu:unfolded_unc_0d_pt25}
+  \end{center}
+\end{table}
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\Wminus]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_1D_PT25_NEG_Unc_proj}
+        } \\
+        \subfigure[\Wplus]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_1D_PT25_POS_Unc_proj}
+        }
+ \caption{ Uncertainty on the single-differential \Wmunum\ (top) and \Wmunup\ (bottom) cross-sections. }
+ \label{fig:Wmunu:unfolded_unc_1d_pt25}
+ \end{center}
+\end{figure}
+
+%% \begin{figure}[phtb]
+%%   \begin{center}
+%%         \subfigure[\ptOne]{%
+%% 	  \includegraphics[width=0.4\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_2.pdf}
+%%         }
+%%        \subfigure[\ptTwo]{%
+%% 	  \includegraphics[width=0.4\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_3.pdf}
+%%         } \\
+%%        \subfigure[\ptThree]{%
+%% 	  \includegraphics[width=0.4\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_4.pdf}
+%%         }
+%%        \subfigure[\ptFour]{%
+%% 	  \includegraphics[width=0.4\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_5.pdf}
+%%         } \\
+%%        \subfigure[\ptFive]{%
+%% 	  \includegraphics[width=0.4\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_6.pdf}
+%%         }
+%%        \subfigure[\ptSix]{%
+%% 	  \includegraphics[width=0.4\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_7.pdf}
+%%        } 
+%%  \caption{ Uncertainty on the double-differential \Wmunup\ cross-section }
+%%  \label{fig:Wmunu:unfolded_unc_2d_pos}
+%%  \end{center}
+%% \end{figure}
+
+%% \begin{figure}[phtb]
+%%   \begin{center}
+%%         \subfigure[\ptOne]{%
+%% 	  \includegraphics[width=0.4\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_2.pdf}
+%%         }
+%%        \subfigure[\ptTwo]{%
+%% 	  \includegraphics[width=0.4\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_3.pdf}
+%%         } \\
+%%        \subfigure[\ptThree]{%
+%% 	  \includegraphics[width=0.4\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_4.pdf}
+%%         }
+%%        \subfigure[\ptFour]{%
+%% 	  \includegraphics[width=0.4\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_5.pdf}
+%%         } \\
+%%        \subfigure[\ptFive]{%
+%% 	  \includegraphics[width=0.4\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_6.pdf}
+%%         }
+%%        \subfigure[\ptSix]{%
+%% 	  \includegraphics[width=0.4\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_7.pdf}
+%%        } 
+%%  \caption{ Uncertainty on the double-differential \Wmunum\ cross-section }
+%%  \label{fig:Wmunu:unfolded_unc_2d_neg}
+%%  \end{center}
+%% \end{figure}
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\Wmunup]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM30_2D_PT20_POS_Unc_2d_Slice_1.pdf}
+        } 
+        \subfigure[\Wmunum]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM30_2D_PT20_NEG_Unc_2d_Slice_1.pdf}
+        } 
+ \caption{ Uncertainty on the double-differential \Wmn\ cross-section (\ptZero\ bin).}
+ \label{fig:Wmunu:unfolded_unc_2d_1}
+ \end{center}
+\end{figure}
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\Wmunup]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_2.pdf}
+        } 
+        \subfigure[\Wmunum]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_2.pdf}
+        } 
+ \caption{ Uncertainty on the double-differential \Wmn\ cross-section (\ptOne\ bin).}
+ \label{fig:Wmunu:unfolded_unc_2d_2}
+ \end{center}
+\end{figure}
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\Wmunup]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_3.pdf}
+        } 
+        \subfigure[\Wmunum]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_3.pdf}
+        } 
+ \caption{ Uncertainty on the double-differential \Wmn\ cross-section (\ptTwo\ bin).}
+ \label{fig:Wmunu:unfolded_unc_2d_3}
+ \end{center}
+\end{figure}
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\Wmunup]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_4.pdf}
+        } 
+        \subfigure[\Wmunum]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_4.pdf}
+        } 
+ \caption{ Uncertainty on the double-differential \Wmn\ cross-section (\ptThree\ bin).}
+ \label{fig:Wmunu:unfolded_unc_2d_4}
+ \end{center}
+\end{figure}
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\Wmunup]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_5.pdf}
+        } 
+        \subfigure[\Wmunum]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_5.pdf}
+        } 
+ \caption{ Uncertainty on the double-differential \Wmn\ cross-section (\ptFour\ bin).}
+ \label{fig:Wmunu:unfolded_unc_2d_5}
+ \end{center}
+\end{figure}
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\Wmunup]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_6.pdf}
+        } 
+        \subfigure[\Wmunum]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_6.pdf}
+        } 
+ \caption{ Uncertainty on the double-differential \Wmn\ cross-section (\ptFive\ bin).}
+ \label{fig:Wmunu:unfolded_unc_2d_6}
+ \end{center}
+\end{figure}
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\Wmunup]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_POS_Unc_2d_Slice_7.pdf}
+        } 
+        \subfigure[\Wmunum]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/res/Wmn_SYSTEM_2D_PT20_NEG_Unc_2d_Slice_7.pdf}
+        } 
+ \caption{ Uncertainty on the double-differential \Wmn\ cross-section (\ptSix\ bin).}
+ \label{fig:Wmunu:unfolded_unc_2d_7}
+ \end{center}
+\end{figure}

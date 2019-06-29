@@ -1,0 +1,15 @@
+
+        \begin{tabular}{lcc}
+      \hline
+      \hline
+       & $W^+$ & $W^-$ \\
+      \hline
+      $N_{Data}$       & 9213645                & 6247969  \\
+      $N_{\mbox{Bkg}}$ & $682671.5 \pm 32273.9$ & $598415.4 \pm 20354.7$ \\
+      $C_W$            & $0.656    \pm 0.003$   & $0.649    \pm 0.003$ \\
+      L &  \multicolumn{2}{c}{$4644.0 \pm 1.8 \%\ \mbox{pb}^{-1}$} \\
+      \hline
+      \hline
+    \end{tabular}
+
+    

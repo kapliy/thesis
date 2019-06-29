@@ -1,0 +1,308 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Geometric illustration of the transverse momentum (left), polar angle and pseudorapidity (right). }}{4}{figure.2.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Transverse momentum $p_T$}}}{4}{figure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Pseudorapidity $\ensuremath {\etaa }$}}}{4}{figure.2.1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The LHC tunnel and its four main experiments: ATLAS, ALICE, CMS, and LHCb.}}{9}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Diagrams illustrating collision of proton bunches at the LHC.}}{10}{figure.3.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Protons colliding in bunches}}}{10}{figure.3.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Primary and pile-up interactions}}}{10}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces A diagram showing the ability of different ATLAS components to detect various particles produced in the collisions. }}{11}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Sub-components of the ATLAS Inner Detector and their $\ensuremath {\etaa }$ coverage. }}{13}{figure.3.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Components of the Inner Detector}}}{13}{figure.3.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Side view showing $\ensuremath {\etaa }$ coverage}}}{13}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Cross-section view of the ATLAS Inner Detector, showing individual Pixel, SCT, and TRT modules. }}{14}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces ATLAS calorimeter system. }}{15}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Sketch of a section of the barrel EM calorimeter. }}{16}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces A wedge of the hadronic Tile calorimeter. }}{17}{figure.3.8}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces A sketch of the main components of the Muon Spectrometer. }}{19}{figure.3.9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {3-dimensional view}}}{19}{figure.3.9}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Side view}}}{19}{figure.3.9}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces The ATLAS trigger system. }}{20}{figure.3.10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The Standard Model of elementary particles.}}{22}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Illustration of the factorization theorem in a hard-scattering process. $\mathaccentV {hat}05E{\sigma }$ is the hard scattering cross-section, while small f's represent PDFs for each incoming proton. }}{23}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Leading-order diagram of \ensuremath {W}\ production through quark-antiquark annihilation.}}{25}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Contributions of several quark-antiquark processes to \ensuremath {W}\ production cross-section. The red line marks the collision energy relevant to this analysis (7 TeV). }}{26}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Example PDFs at $Q^2 = 4$\nobreakspace {}GeV$^2$ and $Q^2 = 10^4$\nobreakspace {}GeV$^2$ (CT10 collaboration). }}{27}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Strange quark PDFs using deep inelastic scattering data (HERA) alone, with the 2010 W/Z measurement, and with the 2011 W/Z measurement. Shaded regions represent 68\% confidence bands.}}{28}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Sensitivity region of various experimental inputs in constraining PDFs.}}{29}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Decay of the \ensuremath {W}\ boson into a muon and a neutrino.}}{30}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Decay diagrams in the rest frame of the \ensuremath {W}. Black arrows show the direction of motion; gray arrows indicate the spin. The \ensuremath {W}\ spin always points in the direction of the incoming anti-quark.}}{30}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces A diagram depicting parton showering (additional emissions) and hadronization (formation of colorless hadrons represented as yellow blobs). The original hard process is shown as a black blob in the middle of the picture.}}{32}{figure.4.10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Integrated luminosity in 2011 as a function of the day of the year.}}{35}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Distribution of the number of vertices with 3 tracks or more with and without pileup reweighting. Because of residual disagreement even after reweighting, an additional systematic on pileup modeling is introduced in the analysis by scaling the $<\mu >$ distribution by 3\%.}}{42}{figure.5.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Before pileup reweighting}}}{42}{figure.5.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {After pileup reweighting}}}{42}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Primary vertex $z_0$ with and without vertex reweighting. }}{42}{figure.5.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Before vertex reweighting}}}{42}{figure.5.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {After vertex reweighting}}}{42}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Comparison of different MC generators to the $Z$ $\phi ^*$ measurement using 2011 ATLAS data.}}{43}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Effect of lineshape reweighting on the ratio of \textsc {Pythia6}\ and \textsc {Powheg}\textsc {Pythia6}. Agreement is achieved following reweighting to the ``Improved Born Approximation'' set of parameters. In this particular case, most of the improvement comes from the \textsc {Powheg}\textsc {Pythia6}\ side.}}{44}{figure.5.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Before \ensuremath {Z/\gamma ^* \rightarrow \ell \ell }\ LineShape Reweight}}}{44}{figure.5.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {After \ensuremath {Z/\gamma ^* \rightarrow \ell \ell }\ LineShape Reweight}}}{44}{figure.5.5}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Reconstruction scale factors for combined STACO muons, which are derived from Z tag-and-probe using ID tracks as probes.}}{51}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces The difference in reconstruction scale factors when using CaloTag vs ID track probes, which contributes to the systematic uncertainty. }}{52}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Isolation scale factors for the $\frac {p_T^\mathrm {cone40}}{p_T^{\mu }} < 0.1$ cut used in the analysis.}}{53}{figure.6.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Isolation SF: $\ensuremath {\etaa }$}}}{53}{figure.6.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Isolation SF: $p_T$}}}{53}{figure.6.3}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Trigger scale factors for mu18 Muid triggers, derived from Z tag-and-probe events. The plot on the right shows the effect of a known RPC misconfiguration in periods L3 and L4, which resulted in large trigger inefficiency in data. }}{54}{figure.6.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Trigger SF: $\mu ^-$, periods G-I}}}{54}{figure.6.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Reco SF: $\mu ^+$, periods L3-L4}}}{54}{figure.6.4}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Effect of muon momentum scale corrections on the reconstructed \ensuremath {Z \rightarrow \mu \mu }\ mass peak.}}{56}{figure.6.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Before scale corrections}}}{56}{figure.6.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {After scale corrections}}}{56}{figure.6.5}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces An overview of the jet calibration scheme in ATLAS. A series of corrections are derived and applied to jet energy and direction.}}{58}{figure.6.6}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Relative isolation $p_T^{cone40}/{p_T}$ for the signal (\ensuremath {W \rightarrow \mu \nu }) and heavy-flavor QCD Monte-Carlo ($b\overline {b} \rightarrow \mu $). The distributions are normalized to the same area}}{62}{figure.7.1}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Distributions of the muon $\ensuremath {\etaa }$ for selected $W^+ \rightarrow \mu ^+ \nu $\nobreakspace {}(left) and $W^- \rightarrow \mu ^- \nu $\nobreakspace {}(right) events. }}{67}{figure.7.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$\ensuremath {\etaa }$ : $\mu ^+$}}}{67}{figure.7.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\ensuremath {\etaa }$ : $\mu ^-$}}}{67}{figure.7.2}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Distributions of the muon $p_{T}$ (top) and missing transverse energy (bottom) for selected $W^+ \rightarrow \mu ^+ \nu $\nobreakspace {}(left) and $W^- \rightarrow \mu ^- \nu $\nobreakspace {}(right) events ($p_{T}\nobreakspace {}>\nobreakspace {}25\nobreakspace {}\ensuremath {\mathrm {Ge\kern -0.1em V}}$). The high-\ensuremath {E_{\mathrm {T}}^{\mathrm {miss}}}\ region suffers from a large shape uncertainty due to the choice of signal Monte-Carlo,specifically the parton shower and hadronization model (see Fig.\nobreakspace {}\ref {fig:Wmunu:qcd_val_generators}). This shape uncertainty is included in the systematic band. }}{68}{figure.7.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$p_T$ : $\mu ^+$}}}{68}{figure.7.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$p_T$ : $\mu ^-$}}}{68}{figure.7.3}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$E_T^{Miss}$ : $W^{+}$}}}{68}{figure.7.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$E_T^{Miss}$ : $W^-$}}}{68}{figure.7.3}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Distributions of transverse mass (top) and reconstructed boson $p_T$ (bottom) for selected $W^+ \rightarrow \mu ^+ \nu $\nobreakspace {}(left) and $W^- \rightarrow \mu ^- \nu $\nobreakspace {}(right) events ($p_{T}\nobreakspace {}>\nobreakspace {}25\nobreakspace {}\ensuremath {\mathrm {Ge\kern -0.1em V}}$)}}{69}{figure.7.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$m_T$ : $W^{+}$}}}{69}{figure.7.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$m_T$ : $W^-$}}}{69}{figure.7.4}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$p_T$ : $W^{+}$}}}{69}{figure.7.4}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$p_T$ : $W^-$}}}{69}{figure.7.4}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Purity (top) and stability (bottom) for the single-differential binning for the $W^+ \rightarrow \mu ^+ \nu $\nobreakspace {}(left) and $W^- \rightarrow \mu ^- \nu $\nobreakspace {}(right) measurements.}}{71}{figure.7.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Purity : $W^+ \rightarrow \mu ^+ \nu $}}}{71}{figure.7.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Purity : $W^- \rightarrow \mu ^- \nu $}}}{71}{figure.7.5}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Stability : $W^+ \rightarrow \mu ^+ \nu $}}}{71}{figure.7.5}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Stability : $W^- \rightarrow \mu ^- \nu $}}}{71}{figure.7.5}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Percent deviation of the Bayesian-unfolded distribution for different numbers of iterations relative to the value obtained with bin-by-bin corrections (top) and statistical uncertainty for different unfolding options (bottom). These figures refer to the single-differential $W^+ \rightarrow \mu ^+ \nu $\nobreakspace {}(left) and $W^- \rightarrow \mu ^- \nu $\nobreakspace {}(right) cross-section measurements. For the percent-deviation plots, the Bayesian curves between 2 and 10 iterations appear on top of each other because the differences are smaller than the plotted marker size.}}{72}{figure.7.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Percent deviations : $W^+ \rightarrow \mu ^+ \nu $}}}{72}{figure.7.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Percent deviations : $W^- \rightarrow \mu ^- \nu $}}}{72}{figure.7.6}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Statistical uncertainty : $W^+ \rightarrow \mu ^+ \nu $}}}{72}{figure.7.6}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Statistical uncertainty : $W^- \rightarrow \mu ^- \nu $}}}{72}{figure.7.6}
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Purity (top) and stability (bottom) in percent for the double differential binning for the $W^+ \rightarrow \mu ^+ \nu $\nobreakspace {}(left) and $W^- \rightarrow \mu ^- \nu $\nobreakspace {}(right) measurements.}}{73}{figure.7.7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Purity : $W^+ \rightarrow \mu ^+ \nu $}}}{73}{figure.7.7}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Purity : $W^- \rightarrow \mu ^- \nu $}}}{73}{figure.7.7}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Stability : $W^+ \rightarrow \mu ^+ \nu $}}}{73}{figure.7.7}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Stability : $W^- \rightarrow \mu ^- \nu $}}}{73}{figure.7.7}
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Percent deviations of the Bayesian-unfolded distributions for different numbers of iterations relative to the value obtained with bin-by-bin corrections. These figures refer to the double-differential $W^+ \rightarrow \mu ^+ \nu $\ cross-section measurement unfolded as a function of muon $p_T$ inside four representative $\ensuremath {\etaa }$ slices. }}{75}{figure.7.8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$0.0 < |\ensuremath {\etaa }| < 0.21$}}}{75}{figure.7.8}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$0.84 < |\ensuremath {\etaa }| < 1.05$}}}{75}{figure.7.8}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$1.74 < |\ensuremath {\etaa }| < 1.95$}}}{75}{figure.7.8}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$2.18 < |\ensuremath {\etaa }| < 2.40$}}}{75}{figure.7.8}
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Percent deviations of the Bayesian-unfolded distributions for different number of iterations relative to the value obtained with bin-by-bin corrections. These figures refer to the double-differential $W^- \rightarrow \mu ^- \nu $\ cross-section measurement unfolded as a function of muon $p_T$ inside four representative $\ensuremath {\etaa }$ slices. }}{76}{figure.7.9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$0.0 < |\ensuremath {\etaa }| < 0.21$}}}{76}{figure.7.9}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$0.84 < |\ensuremath {\etaa }| < 1.05$}}}{76}{figure.7.9}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$1.74 < |\ensuremath {\etaa }| < 1.95$}}}{76}{figure.7.9}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$2.18 < |\ensuremath {\etaa }| < 2.40$}}}{76}{figure.7.9}
+\contentsline {figure}{\numberline {7.10}{\ignorespaces Statistical uncertainty for different unfolding options. These figures refer to the double-differential $W^+ \rightarrow \mu ^+ \nu $\ cross-section measurement unfolded as a function of muon $p_T$ inside four representative $\ensuremath {\etaa }$ slices. }}{77}{figure.7.10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$0.0 < |\ensuremath {\etaa }| < 0.21$}}}{77}{figure.7.10}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$0.84 < |\ensuremath {\etaa }| < 1.05$}}}{77}{figure.7.10}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$1.74 < |\ensuremath {\etaa }| < 1.95$}}}{77}{figure.7.10}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$2.18 < |\ensuremath {\etaa }| < 2.40$}}}{77}{figure.7.10}
+\contentsline {figure}{\numberline {7.11}{\ignorespaces Statistical uncertainty for different unfolding options. These figures refer to the double-differential $W^- \rightarrow \mu ^- \nu $\ cross-section measurement unfolded as a function of muon $p_T$ inside four representative $\ensuremath {\etaa }$ slices. }}{78}{figure.7.11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$0.0 < |\ensuremath {\etaa }| < 0.21$}}}{78}{figure.7.11}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$0.84 < |\ensuremath {\etaa }| < 1.05$}}}{78}{figure.7.11}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$1.74 < |\ensuremath {\etaa }| < 1.95$}}}{78}{figure.7.11}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$2.18 < |\ensuremath {\etaa }| < 2.40$}}}{78}{figure.7.11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Comparison of the shape of the \ensuremath {E_{\mathrm {T}}^{\mathrm {miss}}}\ distribution between the signal + EWK + tops template and the QCD control sample for $W^+ \rightarrow \mu ^+ \nu $\ selection.}}{80}{figure.8.1}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Validation of \ensuremath {E_{\mathrm {T}}^{\mathrm {miss}}}\ shapes in heavy-flavor Monte-Carlo: (a) events satisfying $W^+ \rightarrow \mu ^+ \nu $\ and $W^- \rightarrow \mu ^- \nu $\ selection (b) different anti-isolation windows. The transverse mass cut was relaxed to enhance the number of events available for comparison. }}{82}{figure.8.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Charge dependence}}}{82}{figure.8.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Choice of anti-isolation}}}{82}{figure.8.2}
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Fitted \ensuremath {E_{\mathrm {T}}^{\mathrm {miss}}}\ distributions for the three generators used in the analysis, showing different modeling of the high-\ensuremath {E_{\mathrm {T}}^{\mathrm {miss}}}\ tail. }}{83}{figure.8.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textsc {Powheg}\textsc {Pythia6}}}}{83}{figure.8.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textsc {Powheg}\textsc {Herwig}}}}{83}{figure.8.3}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\textsc {Mc@Nlo}}}}{83}{figure.8.3}
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Nominal QCD \ensuremath {E_{\mathrm {T}}^{\mathrm {miss}}}\ fits for the integrated measurement for $W^+ \rightarrow \mu ^+ \nu $\nobreakspace {}(left) and $W^- \rightarrow \mu ^- \nu $\nobreakspace {}(right). Note that although \ensuremath {E_{\mathrm {T}}^{\mathrm {miss}}}\ is plotted over a wider range, the fit only uses the bins between 0 and 60\nobreakspace {}\ensuremath {\mathrm {Ge\kern -0.1em V}}. }}{84}{figure.8.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^+ \rightarrow \mu ^+ \nu $}}}{84}{figure.8.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^- \rightarrow \mu ^- \nu $}}}{84}{figure.8.4}
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Fitted \ensuremath {E_{\mathrm {T}}^{\mathrm {miss}}}\ distributions for $W^+ \rightarrow \mu ^+ \nu $\ in four representative bins of $\ensuremath {\etaa }$ and $p_T$. The dotted line indicates the upper limit of the fit range. The points in the fit range are allowed to shift independently within their uncertainties to achieve an arrangement that maximizes the TFractionFitter likelihood. These bin-by-bin adjustments are not shown in the plot, but are taken into account in the $\chi ^2$ calculation. }}{85}{figure.8.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$0.21 < |\ensuremath {\etaa }| < 0.42$, $25 < p_T < 30$ GeV}}}{85}{figure.8.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$2.18 < |\ensuremath {\etaa }| < 2.40$, $25 < p_T < 30$ GeV}}}{85}{figure.8.5}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$0.21 < |\ensuremath {\etaa }| < 0.42$, $45 < p_T < 50$ GeV}}}{85}{figure.8.5}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$2.18 < |\ensuremath {\etaa }| < 2.40$, $45 < p_T < 50$ GeV}}}{85}{figure.8.5}
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Effect of \ensuremath {E_{\mathrm {T}}^{\mathrm {miss}}}\ scale (left) and resolution (right) uncertainties on the shape of the \ensuremath {E_{\mathrm {T}}^{\mathrm {miss}}}\ distribution in the signal Monte-Carlo for $W^+ \rightarrow \mu ^+ \nu $\ selection.}}{86}{figure.8.6}
+\contentsline {figure}{\numberline {8.7}{\ignorespaces QCD uncertainties in per cent for the single-differential measurement in the $W^+ \rightarrow \mu ^+ \nu $\ (left) and $W^- \rightarrow \mu ^- \nu $\ (right) channels, $p_{T} > 25 \ensuremath {\mathrm {Ge\kern -0.1em V}}$. The plot shows the absolute uncertainty in the number of QCD events divided by the number of W events (selected W candidates in data after background subtraction).}}{89}{figure.8.7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {QCD uncertainty / $N_{Expected}$: $W^+ \rightarrow \mu ^+ \nu $}}}{89}{figure.8.7}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {QCD uncertainty / $N_{Expected}$: $W^- \rightarrow \mu ^- \nu $}}}{89}{figure.8.7}
+\contentsline {figure}{\numberline {8.8}{\ignorespaces QCD uncertainties in per cent for the double-differential measurement in the $W^+ \rightarrow \mu ^+ \nu $\ channel in the lower-$p_{T}$ bins. Each plot shows the absolute uncertainty in the number of QCD events divided by the number of W events (selected W candidates in data after background subtraction).}}{90}{figure.8.8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$20 < p_T < 25$ GeV}}}{90}{figure.8.8}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$30 < p_T < 35$ GeV}}}{90}{figure.8.8}
+\contentsline {figure}{\numberline {8.9}{\ignorespaces QCD uncertainties in per cent for the double-differential measurement in the $W^+ \rightarrow \mu ^+ \nu $\ channel in the higher-$p_{T}$ bins. Each plot shows the absolute uncertainty in the number of QCD events divided by the number of W events (selected W candidates in data after background subtraction).}}{91}{figure.8.9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$40 < p_T < 45$ GeV}}}{91}{figure.8.9}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$p_T > 50$ GeV}}}{91}{figure.8.9}
+\contentsline {figure}{\numberline {8.10}{\ignorespaces QCD uncertainties in per cent for the double-differential measurement in the $W^- \rightarrow \mu ^- \nu $\ channel in the lower-$p_T$ bins. Each plot shows the absolute uncertainty in the number of QCD events divided by the number of W events (selected W candidates in data after background subtraction).}}{92}{figure.8.10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$20 < p_T < 25$ GeV}}}{92}{figure.8.10}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$30 < p_T < 35$ GeV}}}{92}{figure.8.10}
+\contentsline {figure}{\numberline {8.11}{\ignorespaces QCD uncertainties in per cent for the double-differential measurement in the $W^- \rightarrow \mu ^- \nu $\ channel in the higher-$p_{T}$ bins. Each plot shows the absolute uncertainty in the number of QCD events divided by the number of W events (selected W candidates in data after background subtraction).}}{93}{figure.8.11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$40 < p_T < 45$ GeV}}}{93}{figure.8.11}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$p_T > 50$ GeV}}}{93}{figure.8.11}
+\contentsline {figure}{\numberline {8.12}{\ignorespaces Fractions of backgrounds as a percentage of data for the single-differential measurement in the $W^+ \rightarrow \mu ^+ \nu $\ (left) and $W^- \rightarrow \mu ^- \nu $\ (right) channels. The error bars correspond to the total (statistical $\oplus $ systematic) uncertainties. For QCD background, the uncorrelated component of total uncertainty is shown separately as a solid band.}}{94}{figure.8.12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Backgrounds: $W^+ \rightarrow \mu ^+ \nu $}}}{94}{figure.8.12}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Backgrounds: $W^- \rightarrow \mu ^- \nu $}}}{94}{figure.8.12}
+\contentsline {figure}{\numberline {8.13}{\ignorespaces Fractions of backgrounds as a percentage of data for the double-differential measurement with muon $p_{T} > 25 GeV$ ($W^+ \rightarrow \mu ^+ \nu $). The error bars correspond to the total (statistical $\oplus $ systematic) uncertainties. For QCD background, the uncorrelated component of total uncertainty is shown separately as a solid band.}}{95}{figure.8.13}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$20 < p_T < 25$ GeV}}}{95}{figure.8.13}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$25 < p_T < 30$ GeV}}}{95}{figure.8.13}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$30 < p_T < 35$ GeV}}}{95}{figure.8.13}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$35 < p_T < 40$ GeV}}}{95}{figure.8.13}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {$40 < p_T < 45$ GeV}}}{95}{figure.8.13}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {$45 < p_T < 50$ GeV}}}{95}{figure.8.13}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {$p_T > 50$ GeV}}}{95}{figure.8.13}
+\contentsline {figure}{\numberline {8.14}{\ignorespaces Fractions of backgrounds as a percentage of data for the double-differential measurement with muon $p_{T} > 25 GeV$ ($W^- \rightarrow \mu ^- \nu $). The error bars correspond to the total (statistical $\oplus $ systematic) uncertainties. For QCD background, the uncorrelated component of total uncertainty is shown separately as a solid band.}}{96}{figure.8.14}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$20 < p_T < 25$ GeV}}}{96}{figure.8.14}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$25 < p_T < 30$ GeV}}}{96}{figure.8.14}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$30 < p_T < 35$ GeV}}}{96}{figure.8.14}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$35 < p_T < 40$ GeV}}}{96}{figure.8.14}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {$40 < p_T < 45$ GeV}}}{96}{figure.8.14}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {$45 < p_T < 50$ GeV}}}{96}{figure.8.14}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {$p_T > 50$ GeV}}}{96}{figure.8.14}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Fits to the fractional deviation of the cross-section due to variations in the signal Monte Carlo sample used in the QCD fit. The signal sample used to compute the \ensuremath {C}\ factors is always Powheg+Pythia. Because it is difficult to correctly define the uncertainty from the QCD fit in each bin, the fit was performed disregarding the errors.}}{103}{figure.9.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^+$: Powheg+Herwig vs Powheg+Pythia}}}{103}{figure.9.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^-$ Powheg+Herwig vs Powheg+Pythia}}}{103}{figure.9.1}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$W^+$: MC@NLO vs Powheg+Herwig}}}{103}{figure.9.1}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$W^-$ MC@NLO vs Powheg+Herwig}}}{103}{figure.9.1}
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Fits to the fractional deviation of the cross-section due to variations in the signal Monte Carlo sample used to compute the \ensuremath {C}\ factors. The signal sample used in the QCD fit is always Powheg+Pythia.}}{104}{figure.9.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^+$: Powheg+Herwig vs Powheg+Pythia}}}{104}{figure.9.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^-$ Powheg+Herwig vs Powheg+Pythia}}}{104}{figure.9.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$W^+$: MC@NLO vs Powheg+Herwig}}}{104}{figure.9.2}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$W^-$ MC@NLO vs Powheg+Herwig}}}{104}{figure.9.2}
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Uncertainty on the single-differential $W^- \rightarrow \mu ^- \nu $\ (top) and $W^+ \rightarrow \mu ^+ \nu $\ (bottom) cross-sections. }}{107}{figure.9.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\ensuremath {W^-}}}}{107}{figure.9.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\ensuremath {W^+}}}}{107}{figure.9.3}
+\contentsline {figure}{\numberline {9.4}{\ignorespaces Uncertainty on the double-differential \ensuremath {W \rightarrow \mu \nu }\ cross-section ($20 < p_T < 25$ GeV\ bin).}}{108}{figure.9.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^+ \rightarrow \mu ^+ \nu $}}}{108}{figure.9.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^- \rightarrow \mu ^- \nu $}}}{108}{figure.9.4}
+\contentsline {figure}{\numberline {9.5}{\ignorespaces Uncertainty on the double-differential \ensuremath {W \rightarrow \mu \nu }\ cross-section ($25 < p_T < 30$ GeV\ bin).}}{109}{figure.9.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^+ \rightarrow \mu ^+ \nu $}}}{109}{figure.9.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^- \rightarrow \mu ^- \nu $}}}{109}{figure.9.5}
+\contentsline {figure}{\numberline {9.6}{\ignorespaces Uncertainty on the double-differential \ensuremath {W \rightarrow \mu \nu }\ cross-section ($30 < p_T < 35$ GeV\ bin).}}{110}{figure.9.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^+ \rightarrow \mu ^+ \nu $}}}{110}{figure.9.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^- \rightarrow \mu ^- \nu $}}}{110}{figure.9.6}
+\contentsline {figure}{\numberline {9.7}{\ignorespaces Uncertainty on the double-differential \ensuremath {W \rightarrow \mu \nu }\ cross-section ($35 < p_T < 40$ GeV\ bin).}}{111}{figure.9.7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^+ \rightarrow \mu ^+ \nu $}}}{111}{figure.9.7}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^- \rightarrow \mu ^- \nu $}}}{111}{figure.9.7}
+\contentsline {figure}{\numberline {9.8}{\ignorespaces Uncertainty on the double-differential \ensuremath {W \rightarrow \mu \nu }\ cross-section ($40 < p_T < 45$ GeV\ bin).}}{112}{figure.9.8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^+ \rightarrow \mu ^+ \nu $}}}{112}{figure.9.8}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^- \rightarrow \mu ^- \nu $}}}{112}{figure.9.8}
+\contentsline {figure}{\numberline {9.9}{\ignorespaces Uncertainty on the double-differential \ensuremath {W \rightarrow \mu \nu }\ cross-section ($45 < p_T < 50$ GeV\ bin).}}{113}{figure.9.9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^+ \rightarrow \mu ^+ \nu $}}}{113}{figure.9.9}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^- \rightarrow \mu ^- \nu $}}}{113}{figure.9.9}
+\contentsline {figure}{\numberline {9.10}{\ignorespaces Uncertainty on the double-differential \ensuremath {W \rightarrow \mu \nu }\ cross-section ($p_T > 50$ GeV\ bin).}}{114}{figure.9.10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^+ \rightarrow \mu ^+ \nu $}}}{114}{figure.9.10}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^- \rightarrow \mu ^- \nu $}}}{114}{figure.9.10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Fiducial cross-sections times leptonic branching ratios of $\sigma _{W^+}$ vs. $\sigma _{W^-}$ (top), and their ratios (bottom). The data ellipses illustrate the 68\% CL coverage for the total uncertainties (full green) and excluding the luminosity uncertainty (open black). Theoretical predictions based on various PDF sets are shown with open symbol of different colors. }}{116}{figure.10.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Fiducial cross-sections}}}{116}{figure.10.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Cross-section ratios}}}{116}{figure.10.1}
+\contentsline {figure}{\numberline {10.2}{\ignorespaces The single-differential cross-section measurement for \ensuremath {W^\pm \rightarrow \mu \nu }. NNLO QCD predictions using various PDF sets (open symbols) are compared to the data (full points). The predictions are displaced within each bin for clarity. }}{118}{figure.10.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$d\sigma /d|\ensuremath {\etaa }_{\mu ^{-}}|$}}}{118}{figure.10.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$d\sigma /d|\ensuremath {\etaa }_{\mu ^{+}}|$}}}{118}{figure.10.2}
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Fiducial $W$ charge asymmetry as a function of $|\ensuremath {\etaa }_{\mu }|$. NNLO QCD predictions using various PDF sets (open symbols) are compared to the data (full points). The predictions are displaced within each bin for clarity. }}{119}{figure.10.3}
+\contentsline {figure}{\numberline {10.4}{\ignorespaces The double-differential cross-section measurement for \ensuremath {\ensuremath {W^-}\rightarrow \mu ^-\mathaccentV {bar}016{\nu }}\ in $p_T$ slices: $25 < p_T < 30$ GeV\ and $30 < p_T < 35$ GeV. NNLO QCD predictions using various PDF sets (open symbols) are compared to the data (full points). The predictions are displaced within each bin for clarity. For technical reasons, the uncertainty on predictions excludes the uncertainty from the PDF error envelope. }}{121}{figure.10.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$25 < p_T < 30$ GeV}}}{121}{figure.10.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$30 < p_T < 35$ GeV}}}{121}{figure.10.4}
+\contentsline {figure}{\numberline {10.5}{\ignorespaces The double-differential cross-section measurement for \ensuremath {\ensuremath {W^-}\rightarrow \mu ^-\mathaccentV {bar}016{\nu }}\ in $p_T$ slices: $35 < p_T < 40$ GeV\ and $40 < p_T < 45$ GeV. NNLO QCD predictions using various PDF sets (open symbols) are compared to the data (full points). The predictions are displaced within each bin for clarity. For technical reasons, the uncertainty on predictions excludes the uncertainty from the PDF error envelope. }}{122}{figure.10.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$35 < p_T < 40$ GeV}}}{122}{figure.10.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$40 < p_T < 45$ GeV}}}{122}{figure.10.5}
+\contentsline {figure}{\numberline {10.6}{\ignorespaces The double-differential cross-section measurement for \ensuremath {\ensuremath {W^-}\rightarrow \mu ^-\mathaccentV {bar}016{\nu }}\ in $p_T$ slices: $45 < p_T < 50$ GeV\ and $p_T > 50$ GeV. NNLO QCD predictions using various PDF sets (open symbols) are compared to the data (full points). The predictions are displaced within each bin for clarity. For technical reasons, the uncertainty on predictions excludes the uncertainty from the PDF error envelope. }}{123}{figure.10.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$45 < p_T < 50$ GeV}}}{123}{figure.10.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$p_T > 50$ GeV}}}{123}{figure.10.6}
+\contentsline {figure}{\numberline {10.7}{\ignorespaces The double-differential cross-section measurement for \ensuremath {\ensuremath {W^+}\rightarrow \mu ^+\nu }\ in $p_T$ slices: $25 < p_T < 30$ GeV\ and $30 < p_T < 35$ GeV. NNLO QCD predictions using various PDF sets (open symbols) are compared to the data (full points). For technical reasons, the uncertainty on predictions excludes the uncertainty from the PDF error envelope. }}{124}{figure.10.7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$25 < p_T < 30$ GeV}}}{124}{figure.10.7}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$30 < p_T < 35$ GeV}}}{124}{figure.10.7}
+\contentsline {figure}{\numberline {10.8}{\ignorespaces The double-differential cross-section measurement for \ensuremath {\ensuremath {W^+}\rightarrow \mu ^+\nu }\ in $p_T$ slices: $35 < p_T < 40$ GeV\ and $40 < p_T < 45$ GeV. NNLO QCD predictions using various PDF sets (open symbols) are compared to the data (full points). For technical reasons, the uncertainty on predictions excludes the uncertainty from the PDF error envelope. }}{125}{figure.10.8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$35 < p_T < 40$ GeV}}}{125}{figure.10.8}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$40 < p_T < 45$ GeV}}}{125}{figure.10.8}
+\contentsline {figure}{\numberline {10.9}{\ignorespaces The double-differential cross-section measurement for \ensuremath {\ensuremath {W^+}\rightarrow \mu ^+\nu }\ in $p_T$ slices: $45 < p_T < 50$ GeV\ and $p_T > 50$ GeV. NNLO QCD predictions using various PDF sets (open symbols) are compared to the data (full points). For technical reasons, the uncertainty on predictions excludes the uncertainty from the PDF error envelope. }}{126}{figure.10.9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$45 < p_T < 50$ GeV}}}{126}{figure.10.9}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$p_T > 50$ GeV}}}{126}{figure.10.9}
+\contentsline {figure}{\numberline {10.10}{\ignorespaces The differential $d\sigma /d|\ensuremath {\etaa }_{\ell ^{-}}|$ (top) and $d\sigma /d|\ensuremath {\etaa }_{\ell ^{+}}|$ (bottom) cross-section measurement for $W \rightarrow \ell \nu $. The lower box shows the normalized data-theory pulls after the shifts of the correlated uncertainties (e.g., luminosity) are applied. }}{130}{figure.10.10}
+\contentsline {figure}{\numberline {10.11}{\ignorespaces Sensitivity of \ensuremath {W^\pm \rightarrow \ell \nu }\ and \ensuremath {Z \rightarrow \ell \ell }\ 2011 measurements to the $xd_{val}(x)$ (top), $xu_{val}(x)$ (middle), and $xs$ (bottom). }}{131}{figure.10.11}
+\contentsline {figure}{\numberline {10.12}{\ignorespaces The measurement of the electron-to-muon cross-section ratios for the $W$ and $Z$ production. The shaded bands represent the world average of the ratios of electron and muon branching fractions for $W$ and $Z$. The green shaded ellipse represents the $68\%$ CL for the correlated measurement of $R_{W}$ and $R_{Z}$}}{132}{figure.10.12}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Forward-$\ensuremath {\etaa }$ discrepancy in the A/C ratio at the detector level for events satisfying W selection (muGirl trigger). Shaded error bands include all systematics, which are propagated coherently to form the A-to-C ratio. In these plots, signal is Powheg+Pythia and QCD is estimated from heavy-flavor Monte-Carlo. }}{134}{figure.A.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\ensuremath {W^-}}}}{134}{figure.A.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\ensuremath {W^+}}}}{134}{figure.A.1}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces A/C ratio at the detector level for muons in di-muon events satisfying Z selection (mu18\_MG). Note nearly perfect agreement in forward $\ensuremath {\etaa }$ bins. In these plots, signal is Powheg+Pythia. Both reconstructed muons are required to match to an event-filter trigger object. Only one muon per event (depending on the charge) enters each plot. Due to small backgrounds in the Z boson selection, the greed points (data-bg) appear superimposed on the red points (data only). }}{135}{figure.A.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Z, $\mu ^-$ only}}}{135}{figure.A.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Z, $\mu ^+$ only}}}{135}{figure.A.2}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces $\mu ^+$ $\ensuremath {\etaa }$ distributions for W and Z candidates inside the 8th $|\ensuremath {\etaa }|$ bin ($1.52<|\ensuremath {\etaa }|<1.74$). A dip is seen on the C-side, but only in W events.}}{137}{figure.A.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {W, $\mu ^+$, $1.52<|\ensuremath {\etaa }|<1.74$, C-side}}}{137}{figure.A.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {W, $\mu ^+$, $1.52<|\ensuremath {\etaa }|<1.74$, A-side}}}{137}{figure.A.3}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Z, $\mu ^+$, $1.52<|\ensuremath {\etaa }|<1.74$, C-side}}}{137}{figure.A.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Z, $\mu ^+$, $1.52<|\ensuremath {\etaa }|<1.74$, A-side}}}{137}{figure.A.3}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces $\mu ^-$ $\ensuremath {\etaa }$ distributions for W and Z candidates inside the 10th $|\ensuremath {\etaa }|$ bin ($1.95<|\ensuremath {\etaa }|<2.18$). A dip is seen on the C-side, but only in W events.}}{138}{figure.A.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {W, $\mu ^-$, $1.95<|\ensuremath {\etaa }|<2.18$, C-side}}}{138}{figure.A.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {W, $\mu ^-$, $1.95<|\ensuremath {\etaa }|<2.18$, A-side}}}{138}{figure.A.4}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Z, $\mu ^-$, $1.95<|\ensuremath {\etaa }|<2.18$, C-side}}}{138}{figure.A.4}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Z, $\mu ^-$, $1.95<|\ensuremath {\etaa }|<2.18$, A-side}}}{138}{figure.A.4}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces $\mu ^+$ $\ensuremath {\etaa }$ distributions for W and Z candidates inside the 10th $|\ensuremath {\etaa }|$ bin ($1.95<|\ensuremath {\etaa }|<2.18$). A dip is seen on the C-side, but only in W events. Also note that the location of the dip is slightly offset (in $\ensuremath {\etaa }$) with respect to the negative muons. }}{139}{figure.A.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {W, $\mu ^+$, $1.95<|\ensuremath {\etaa }|<2.18$, C-side}}}{139}{figure.A.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {W, $\mu ^+$, $1.95<|\ensuremath {\etaa }|<2.18$, A-side}}}{139}{figure.A.5}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Z, $\mu ^+$, $1.95<|\ensuremath {\etaa }|<2.18$, C-side}}}{139}{figure.A.5}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Z, $\mu ^+$, $1.95<|\ensuremath {\etaa }|<2.18$, A-side}}}{139}{figure.A.5}
+\contentsline {figure}{\numberline {A.6}{\ignorespaces $\mu ^+$ $\ensuremath {\etaa }$ distributions for W and Z candidates inside the 7th $|\ensuremath {\etaa }|$ bin ($1.37<|\ensuremath {\etaa }|<1.52$). This bin does not exhibit a large A/C discrepancy, but still has a dip. However, unlike the 8th and 10th bins, the dip in this case is reproduced in Z selection. }}{140}{figure.A.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {W, $\mu ^+$, $1.37<|\ensuremath {\etaa }|<1.52$, C-side}}}{140}{figure.A.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {W, $\mu ^+$, $1.37<|\ensuremath {\etaa }|<1.52$, A-side}}}{140}{figure.A.6}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Z, $\mu ^+$, $1.37<|\ensuremath {\etaa }|<1.52$, C-side}}}{140}{figure.A.6}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Z, $\mu ^+$, $1.37<|\ensuremath {\etaa }|<1.52$, A-side}}}{140}{figure.A.6}
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Efficiency dips seen in W but not Z events are only present in later data periods. Here, this is shown explicitly for \ensuremath {W^-}\ events in the $1.95<|\ensuremath {\etaa }|<2.18$ bin.}}{141}{figure.A.7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Periods D-H only: \ensuremath {W^-}, $1.95<|\ensuremath {\etaa }|<2.18$, C-side}}}{141}{figure.A.7}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Period I only: \ensuremath {W^-}, $1.95<|\ensuremath {\etaa }|<2.18$, C-side}}}{141}{figure.A.7}
+\contentsline {figure}{\numberline {A.8}{\ignorespaces Efficiency dips seen in W but not Z events are only present with the muGirl triggers (mu18\_MG and mu18\_MG\_medium). They disappear when muid triggers are used (mu18 and mu18\_medium). Here, this is shown explicitly for \ensuremath {W^+}\ events in the $1.52<|\ensuremath {\etaa }|<1.74$ bin. }}{142}{figure.A.8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {muGirl triggers: \ensuremath {W^+}, $1.52<|\ensuremath {\etaa }|<1.74$, C-side}}}{142}{figure.A.8}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {muid triggers: \ensuremath {W^+}, $1.52<|\ensuremath {\etaa }|<1.74$, C-side}}}{142}{figure.A.8}
+\contentsline {figure}{\numberline {A.9}{\ignorespaces Efficiency dips seen in W but not Z events are only present with the muGirl triggers (mu18\_MG and mu18\_MG\_medium). They disappear when muid triggers are used (mu18 and mu18\_medium). Here, this is shown explicitly for \ensuremath {W^-}\ events in the $1.95<|\ensuremath {\etaa }|<2.18$ bin. }}{142}{figure.A.9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {muGirl triggers: \ensuremath {W^-}, $1.95<|\ensuremath {\etaa }|<2.18$, C-side}}}{142}{figure.A.9}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {muid triggers: \ensuremath {W^-}, $1.95<|\ensuremath {\etaa }|<2.18$, C-side}}}{142}{figure.A.9}
+\contentsline {figure}{\numberline {A.10}{\ignorespaces Efficiency dips seen in W but not Z events are only present with the muGirl triggers (mu18\_MG and mu18\_MG\_medium). They disappear when muid triggers are used (mu18 and mu18\_medium). Here, this is shown explicitly for \ensuremath {W^+}\ events in the $1.95<|\ensuremath {\etaa }|<2.18$ bin. }}{143}{figure.A.10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {muGirl triggers: \ensuremath {W^+}, $1.95<|\ensuremath {\etaa }|<2.18$, C-side}}}{143}{figure.A.10}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {muid triggers: \ensuremath {W^+}, $1.95<|\ensuremath {\etaa }|<2.18$, C-side}}}{143}{figure.A.10}
+\contentsline {figure}{\numberline {A.11}{\ignorespaces Events satisfying standard W selection that pass the muid triggers but fail muGirl triggers, shown separately for an early data period (period D) and a later one (period L). A large additional inefficiency is introduced by the muGirl triggers in later data periods. }}{144}{figure.A.11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {period D, \ensuremath {W^-}}}}{144}{figure.A.11}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {period D, \ensuremath {W^+}}}}{144}{figure.A.11}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {period L, \ensuremath {W^-}}}}{144}{figure.A.11}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {period L, \ensuremath {W^+}}}}{144}{figure.A.11}
+\contentsline {figure}{\numberline {A.12}{\ignorespaces When the tag muon is forced to fail trigger match (center), the probe muon is implicitly forced to be the muon that triggered the event. In this case, events with Z selection recover the same efficiency dip around $\ensuremath {\etaa }=-2.08$ as seen in the W selection (right). }}{145}{figure.A.12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Z: both legs match to trigger, $\mu ^-$ }}}{145}{figure.A.12}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Z: tag fails trigger match, $\mu ^-$ }}}{145}{figure.A.12}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {W, $\mu ^-$ }}}{145}{figure.A.12}
+\contentsline {figure}{\numberline {A.13}{\ignorespaces The large discrepancies in A/C ratio are not seen with the muid trigger chains. Shaded error bands include all systematics, which are propagated coherently to form the A-to-C ratio. In these plots, signal is Powheg+Pythia and QCD is estimated from heavy-flavor Monte-Carlo. }}{146}{figure.A.13}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\ensuremath {W^-}}}}{146}{figure.A.13}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\ensuremath {W^+}}}}{146}{figure.A.13}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces $W^+ \rightarrow \mu ^+ \nu $: fits to the fractional deviation of the cross-section due to variations in the signal Monte Carlo sample used in the QCD fit, \ensuremath {C}\ factor calculation ($20 < p_T < 25$ GeV).}}{148}{figure.B.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^+$: PS (bg. only)}}}{148}{figure.B.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^+$: PS (unf. only)}}}{148}{figure.B.1}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$W^+$: ME (bg. only)}}}{148}{figure.B.1}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$W^+$: ME (unf. only)}}}{148}{figure.B.1}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces $W^- \rightarrow \mu ^- \nu $: fits to the fractional deviation of the cross-section due to variations in the signal Monte Carlo sample used in the QCD fit, \ensuremath {C}\ factor calculation ($20 < p_T < 25$ GeV).}}{149}{figure.B.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^-$: PS (bg. only)}}}{149}{figure.B.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^-$: PS (unf. only)}}}{149}{figure.B.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$W^-$: ME (bg. only)}}}{149}{figure.B.2}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$W^-$: ME (unf. only)}}}{149}{figure.B.2}
+\contentsline {figure}{\numberline {B.3}{\ignorespaces $W^+ \rightarrow \mu ^+ \nu $: fits to the fractional deviation of the cross-section due to variations in the signal Monte Carlo sample used in the QCD fit, \ensuremath {C}\ factor calculation ($35 < p_T < 40$ GeV).}}{150}{figure.B.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^+$: PS (bg. only)}}}{150}{figure.B.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^+$: PS (unf. only)}}}{150}{figure.B.3}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$W^+$: ME (bg. only)}}}{150}{figure.B.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$W^+$: ME (unf. only)}}}{150}{figure.B.3}
+\contentsline {figure}{\numberline {B.4}{\ignorespaces $W^- \rightarrow \mu ^- \nu $: fits to the fractional deviation of the cross-section due to variations in the signal Monte Carlo sample used in the QCD fit, \ensuremath {C}\ factor calculation ($35 < p_T < 40$ GeV).}}{151}{figure.B.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^-$: PS (bg. only)}}}{151}{figure.B.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^-$: PS (unf. only)}}}{151}{figure.B.4}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$W^-$: ME (bg. only)}}}{151}{figure.B.4}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$W^-$: ME (unf. only)}}}{151}{figure.B.4}
+\contentsline {figure}{\numberline {B.5}{\ignorespaces $W^+ \rightarrow \mu ^+ \nu $: fits to the fractional deviation of the cross-section due to variations in the signal Monte Carlo sample used in the QCD fit, \ensuremath {C}\ factor calculation ($p_T > 50$ GeV).}}{152}{figure.B.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^+$: PS (bg. only)}}}{152}{figure.B.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^+$: PS (unf. only)}}}{152}{figure.B.5}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$W^+$: ME (bg. only)}}}{152}{figure.B.5}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$W^+$: ME (unf. only)}}}{152}{figure.B.5}
+\contentsline {figure}{\numberline {B.6}{\ignorespaces $W^- \rightarrow \mu ^- \nu $: fits to the fractional deviation of the cross-section due to variations in the signal Monte Carlo sample used in the QCD fit, \ensuremath {C}\ factor calculation ($p_T > 50$ GeV).}}{153}{figure.B.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$W^-$: PS (bg. only)}}}{153}{figure.B.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$W^-$: PS (unf. only)}}}{153}{figure.B.6}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$W^-$: ME (bg. only)}}}{153}{figure.B.6}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$W^-$: ME (unf. only)}}}{153}{figure.B.6}
+\addvspace {10\p@ }

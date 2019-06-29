@@ -1,0 +1,355 @@
+% backgrounds
+
+\section{Electroweak and Top Backgrounds}
+\label{sec:Wmunu:EWKbackground}
+Electroweak and top quark backgrounds are estimated using Monte Carlo. A systematic uncertainty is assigned by varying the normalizations according to the sample's cross section uncertainty. The normalizations of the W/Z, diboson, $t\bar{t}$ and single top are varied according to the cross-section Table~\ref{tab:samples}.
+
+\section{QCD Background}
+\label{sec:wmnu:qcdbkg}
+
+The QCD background in the $W \rightarrow \mu \nu$ channel, also known as the multi-jet background, consists mainly of real muons produced in decays of heavy-flavor mesons.
+The \MET\ distribution in such events is peaked at lower values than in real \Wmn\ events (Fig.~\ref{fig:Wmunu:qcd_met_shape_ewk}) and can be used as a discriminating variable in the QCD background determination.
+
+\begin{figure}[phtb]
+  \begin{center}
+    \includegraphics[width=0.8\textwidth]{Wmunu/figures/met_shape/P_metshape_POS}
+    \caption{Comparison of the shape of the \MET\ distribution between the signal + EWK + tops template and the QCD control sample for \Wmunup\ selection.}
+    \label{fig:Wmunu:qcd_met_shape_ewk}
+  \end{center}
+\end{figure}
+
+The QCD background is estimated using a partially data-driven technique. A two component binned maximum likelihood template fit using
+Poisson statistics~\cite{Barlow:1993dm} is performed on \MET.
+
+The signal + non-QCD background template is constructed from Monte-Carlo by applying the full signal selection, except the \MET\ cut. The
+normalization of the various background components is obtained by
+scaling the individual samples to a common luminosity using the cross
+sections in Table~\ref{tab:samples}.
+The relative normalization between the different Monte Carlo samples is then held fixed during the fit.
+However, the normalization of the overall (signal + non-QCD) template is allowed to float to avoid biasing
+the fit.
+
+The template shape for the QCD background is obtained from data. The selection of this control sample follows the regular \Wmn\ selection, except for the following cuts, which are chosen in order to obtain a QCD-enriched and largely signal-free sample.
+
+\begin{itemize}
+\item The isolation requirement is dropped. Instead, one of the following isolation window requirements is applied:
+\begin{itemize}
+\item $p_T^{\mbox{cone20}} / p_T > 0.1$ and $p_T^{\mbox{cone20}} / p_T < 0.2$ (nominal)
+\item $p_T^{\mbox{cone20}} / p_T > 0.12$ and $p_T^{\mbox{cone20}} / p_T < 0.25$ (systematic variation)
+\item $p_T^{\mbox{cone40}} / p_T > 0.1$ and $p_T^{\mbox{cone40}} / p_T < 0.2$ (systematic variation)
+\end{itemize}
+\item The muon charge requirement is dropped to increase the statistics in the QCD template. The same QCD template is used for $W^+$ and $W^-$.
+\end{itemize}
+
+\Fig~\ref{fig:Wmunu:qcd_val_shape} validates the \MET\ shape in the QCD control region using the heavy-flavor Monte-Carlo. In \Fig~\ref{fig:Wmunu:qcd_val_shape}(a), the two charges are shown to have compatible shapes, justifying the summation of $\mu^{+}$ and $\mu^{-}$ templates in order to enhance available statistics. In \Fig~\ref{fig:Wmunu:qcd_val_shape}(b), the \MET\ shapes in the signal region and several anti-isolation regions are also shown to be compatible.
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[Charge dependence]{%
+          \includegraphics[width=0.60\textwidth]{Wmunu/figures/met_shape/qcd_charge_MET_SHAPE}
+        } 
+        \subfigure[Choice of anti-isolation]{%
+          \includegraphics[width=0.60\textwidth]{Wmunu/figures/met_shape/qcd_isolation_MET_SHAPE}
+        }
+ \caption{ Validation of \MET\ shapes in heavy-flavor Monte-Carlo:
+ (a) events satisfying \Wmunup\ and \Wmunum\ selection
+ (b) different anti-isolation windows.
+ The transverse mass cut was relaxed to enhance the number of events available for comparison. }
+ \label{fig:Wmunu:qcd_val_shape}
+ \end{center}
+\end{figure}
+
+Electroweak and top contamination is subtracted from the QCD template using the nominal cross sections from table~\ref{tab:samples}.
+
+The template fits are performed separately for $W^+$ and $W^-$, integrated over the entire fiducial volume, as well as for each $\eta$ and $\eta \times p_T$ bin of the single and double differential measurement respectively. The nominal fit range is chosen to between 0 and 60 GeV to avoid the high-\MET\ region that suffers from large shape differences depending on a choice of Monte-Carlo (see \Fig~\ref{fig:Wmunu:qcd_val_generators}). The bin size of the templates is motivated by the limited statistics in the QCD control sample and is chosen to be 2 GeV.
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\Powheg\Pythia]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/met_shape/Q1_powheg_pythia}
+        } 
+        \subfigure[\Powheg\Herwig]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/met_shape/Q1_powheg_herwig}
+        }
+        \subfigure[\Mcatnlo]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/met_shape/Q1_mcnlo}
+        }
+ \caption{ Fitted \MET\ distributions for the three generators used in the analysis, showing different modeling of the high-\MET\ tail. }
+ \label{fig:Wmunu:qcd_val_generators}
+ \end{center}
+\end{figure}
+
+\subsection{Template Fits}
+% The full set of fitted distributions in each bin in the single and double differential measurements can be found in the Appendix~\ref{sec:Wmunu:AppendixFitResults}. 
+The fitted \MET\ distributions for the integrated measurement are shown in \Fig~\ref{fig:Wmunu:qcd_met_fits_int}.
+\Fig~\ref{fig:Wmunu:qcd_met_fits_sample_bins} shows the fitted distributions for \Wmunup\ in four representative bins of $\eta$ and $p_T$. After the normalization for the QCD template is determined from the fit, a scale factor is computed as the ratio of the original and fitted integrals of the QCD template in the control region. This scale factor is used to properly scale the number of QCD background events in the signal region.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Inclusive
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[$W^+ \rightarrow \mu^+ \nu$]{%
+          \includegraphics[width=0.4\textwidth]{Wmunu/figures/met_shape/Q0_powheg_pythia}
+        } 
+        \subfigure[$W^- \rightarrow \mu^- \nu$]{%
+	  \includegraphics[width=0.4\textwidth]{Wmunu/figures/met_shape/Q1_powheg_pythia}
+        }
+	 \caption{Nominal QCD \MET\ fits for the integrated measurement for \Wmunup~(left) and \Wmunum~(right). Note that although \MET\ is plotted over a wider range, the fit only uses the bins between 0 and 60~\GeV. }
+ \label{fig:Wmunu:qcd_met_fits_int}
+ \end{center}
+\end{figure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Representative
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}[phtb]
+  \begin{center}
+    \subfigure[$0.21 < |\eta| < 0.42$, \ptOne]{%
+      \includegraphics[width=0.45\textwidth]{Wmunu/figures/qcdfits/Q0_x_2_2_y_2_2}
+    } 
+    \subfigure[$2.18 < |\eta| < 2.40$, \ptOne]{%
+      \includegraphics[width=0.45\textwidth]{Wmunu/figures/qcdfits/Q0_x_11_11_y_2_2}
+    } \\
+
+    \subfigure[$0.21 < |\eta| < 0.42$, \ptFive]{%
+      \includegraphics[width=0.45\textwidth]{Wmunu/figures/qcdfits/Q0_x_2_2_y_6_6}
+    } 
+    \subfigure[$2.18 < |\eta| < 2.40$, \ptFive]{%
+      \includegraphics[width=0.45\textwidth]{Wmunu/figures/qcdfits/Q0_x_11_11_y_6_6}
+    } \\
+
+    \caption{Fitted \MET\ distributions for \Wmunup\ in four representative bins of $\eta$ and $p_T$. The dotted line indicates the upper limit of the fit range. The points in the fit range are allowed to shift independently within their uncertainties to achieve an arrangement that maximizes the TFractionFitter likelihood. These bin-by-bin adjustments are not shown in the plot, but are taken into account in the $\chi^2$ calculation. }
+    \label{fig:Wmunu:qcd_met_fits_sample_bins}
+  \end{center}
+\end{figure}
+
+\subsection{QCD Background Uncertainty}
+
+In order to assign a systematic uncertainty to the QCD background, the fits are repeated for several variations, described below:
+
+\begin{itemize}
+\item Choice of signal template:
+\begin{itemize}
+\item The impact of the parton shower and hadronization model is tested by comparing the fit results using the nominal \Powheg\Pythia\ sample and a \Powheg\Herwig\ sample.
+\item The uncertainty due to modeling of the hard-scattering matrix element is taken to be the difference of fit results obtained by using the \Powheg\Herwig\ and \Mcatnlo\ signal samples.
+\end{itemize}
+\item Choice of QCD template based on three anti-isolation windows, as described above.
+\item Choice of the \MET\ fit range (5-50 GeV versus 0-60 GeV).
+\item Choice of fit variable: \MET\ versus W transverse mass. The latter fit is performed in the 40-100 GeV range.
+\item Systematic uncertainties on muon momentum, jet energy, and the soft \MET\ components are propagated to all Monte-Carlo \MET templates by varying the scale or resolution of the corresponding objects. The fits are repeated for each variation.
+%% \item Electroweak templates were reweighed using the LHAPDF library to the following NLO PDFs (nominal samples use the CT10 PDF). The change in QCD background from PDF modeling is negligible.
+%% \begin{verbatim}
+%% - MSTW2008nlo68cl
+%% - HERAPDF15NLO_EIG
+%% - NNPDF23_nlo_as_0118
+%% - abm11_5n_nlo
+%% \end{verbatim}
+\item Electroweak W and Z templates are reweighed to two alternative boson $p_T$ targets (\Sherpa\ and \Powheg\Pythiaeight)
+\item Pileup uncertainty on electroweak templates is estimated by considering two variations:
+\begin{itemize}
+\item Scaling the number of interactions per bunch crossing in Monte-Carlo by an additional 3\%.
+\item Splitting the fit into two parts: earlier, lower-pileup data (periods D-K) and later, higher-pileup data (L-M). Predicted QCD counts from the two fits are added and compared with the nominal, full-2011 fit (periods D-M).
+\end{itemize}
+\item Finally, a statistical uncertainty on the QCD template fraction, as reported by TFractionFitter, is treated as uncorrelated across bins and propagated through the master cross-section formula~\ref{eq:WZxsec}.
+\end{itemize}
+
+For example, the effect of \MET\ scale and resolution uncertainties on the shape of the QCD template is illustrated in Fig.~\ref{fig:Wmunu:qcd_met_shapes_pthard}.
+
+\begin{figure}[phtb]
+  \begin{center}
+    \includegraphics[width=0.45\textwidth]{Wmunu/figures/met_shape/P_metsys_POS_scale}
+    \includegraphics[width=0.45\textwidth]{Wmunu/figures/met_shape/P_metsys_POS_reso}
+    \caption{Effect of \MET\ scale (left) and resolution (right) uncertainties on the shape of the \MET\ distribution in the signal Monte-Carlo for \Wmunup\ selection.}
+    \label{fig:Wmunu:qcd_met_shapes_pthard}
+  \end{center}
+\end{figure}
+
+\subsection{QCD Systematics}
+\label{sec:bg:qcdsyst}
+
+\begin{table}
+  \footnotesize
+  \begin{center}
+  \input{Wmunu/figures/qcdunc/tableQCD_ALL_pt25}
+    \caption{QCD uncertainties for the integrated \Wmunup\ and \Wmunum\ selections. Both the relative uncertainties on the QCD estimate, $\delta N_{QCD} / N_{QCD}$, and the absolute uncertainties divided by the total number of W events (selected W candidates in data after background subtraction) are shown. Some of the $W^+$ uncertainties are larger than their $W^-$ counterparts, possibly because the QCD background is smaller (as a percentage of the total background) in the $W^+$ selection, resulting in more volatility in the template fitter when it fits for small fractions. }
+    \label{tab:Wmunu:qcd_unc_integrated}
+  \end{center}
+\end{table}
+
+The systematic uncertainties assigned to the QCD estimate for the integrated $W^+$ and $W^-$ measurements are shown in \Tab~\ref{tab:Wmunu:qcd_unc_integrated}. \Fig~\ref{fig:Wmunu:qcd_unc_vsEta_pt25} shows the QCD uncertainties in bins of $\eta$ for the single-differential measurement with a $p_{T}$ cut of $25 \GeV$. Figures~\ref{fig:Wmunu:qcd_unc_vsEta_vsPt_pos_p1}~-~\ref{fig:Wmunu:qcd_unc_vsEta_vsPt_neg_p2} show the QCD uncertainties for a few representative bins in the the double-differential measurement.
+Most components of the QCD uncertainty result in uncertainties on the cross section at or below the 0.2 \% level. However, the uncertainty assigned to the modeling of the signal sample, obtained by comparing the QCD estimates using \Powheg\Herwig\ and \Mcatnlo, has a larger contribution reaching 0.7\% in some of the $\eta$ bins. This uncertainty is dominated by the low statistics available in \Powheg\Herwig\ and \Mcatnlo\ signal samples, as evidenced by its large bin-by-bin fluctuations seen in \Fig~\ref{fig:Wmunu:qcd_unc_vsEta_pt25}.
+
+The total uncertainty on the QCD estimate is obtained by adding all individual components in quadrature. The resulting uncertainty on the single-differential cross-section varies between 0.5\%~-~1.0\%. However, these numbers don't directly enter the final measured cross-sections because a majority of the systematic variations are in fact correlated with the corresponding variations in the \C\ factors (see Sec.~\ref{sec:xsec_formula}) and may interfere either constructively or destructively with them. Therefore, the systematic effects from the QCD background estimation are studied concurrently with the variations in the \C\ factors when applying the master cross-section formula~\ref{eq:WZxsec}.
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[QCD uncertainty / $N_{Expected}$: $W^+ \rightarrow \mu^+ \nu$]{%
+          \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q0_qcd_ptALL25_etaLOOP_syst_rel_bgsub}
+        } 
+       \subfigure[QCD uncertainty / $N_{Expected}$: $W^- \rightarrow \mu^- \nu$]{%
+         \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q1_qcd_ptALL25_etaLOOP_syst_rel_bgsub}
+        } \\
+ \caption{QCD uncertainties in per cent for the single-differential measurement in the \Wmunup\ (left) and \Wmunum\ (right) channels, $p_{T} > 25 \GeV$. The plot shows the absolute uncertainty in the number of QCD events divided by the number of W events (selected W candidates in data after background subtraction).}
+ \label{fig:Wmunu:qcd_unc_vsEta_pt25}
+ \end{center}
+\end{figure}
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\ptZero]{%
+          \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q0_qcd_pt1_etaLOOP_syst_rel_bgsub}
+        } 
+%        \subfigure[\ptOne]{%
+%	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q0_qcd_pt2_etaLOOP_syst_rel_bgsub}
+%        } 
+        \subfigure[\ptTwo]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q0_qcd_pt3_etaLOOP_syst_rel_bgsub}
+        }
+ \caption{QCD uncertainties in per cent for the double-differential measurement in the \Wmunup\ channel in the lower-$p_{T}$ bins. Each plot shows the absolute uncertainty in the number of QCD events divided by the number of W events (selected W candidates in data after background subtraction).}
+ \label{fig:Wmunu:qcd_unc_vsEta_vsPt_pos_p1}
+ \end{center}
+\end{figure}
+
+\begin{figure}[phtb]
+  \begin{center}
+%        \subfigure[\ptThree]{%
+%	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q0_qcd_pt4_etaLOOP_syst_rel_bgsub}
+%        } 
+        \subfigure[\ptFour]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q0_qcd_pt5_etaLOOP_syst_rel_bgsub}
+        } 
+%        \subfigure[\ptFive]{%
+%	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q0_qcd_pt6_etaLOOP_syst_rel_bgsub}
+%        } 
+        \subfigure[\ptSix]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q0_qcd_pt7_etaLOOP_syst_rel_bgsub}
+        } 
+ \caption{QCD uncertainties in per cent for the double-differential measurement in the \Wmunup\ channel in the higher-$p_{T}$ bins. Each plot shows the absolute uncertainty in the number of QCD events divided by the number of W events (selected W candidates in data after background subtraction).}
+ \label{fig:Wmunu:qcd_unc_vsEta_vsPt_pos_p2}
+ \end{center}
+\end{figure}
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\ptZero]{%
+          \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q1_qcd_pt1_etaLOOP_syst_rel_bgsub}
+        } 
+%        \subfigure[\ptOne]{%
+%	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q1_qcd_pt2_etaLOOP_syst_rel_bgsub}
+%        } 
+        \subfigure[\ptTwo]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q1_qcd_pt3_etaLOOP_syst_rel_bgsub}
+        } 
+ \caption{QCD uncertainties in per cent for the double-differential measurement in the \Wmunum\ channel in the lower-$p_T$ bins. Each plot shows the absolute uncertainty in the number of QCD events divided by the number of W events (selected W candidates in data after background subtraction).}
+ \label{fig:Wmunu:qcd_unc_vsEta_vsPt_neg_p1}
+ \end{center}
+\end{figure}
+
+\begin{figure}[phtb]
+  \begin{center}
+%        \subfigure[\ptThree]{%
+%	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q1_qcd_pt4_etaLOOP_syst_rel_bgsub}
+%        } 
+        \subfigure[\ptFour]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q1_qcd_pt5_etaLOOP_syst_rel_bgsub}
+        } 
+%        \subfigure[\ptFive]{%
+%	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q1_qcd_pt6_etaLOOP_syst_rel_bgsub}
+%        } 
+        \subfigure[\ptSix]{%
+	  \includegraphics[width=0.60\textwidth]{Wmunu/figures/qcdunc/Q1_qcd_pt7_etaLOOP_syst_rel_bgsub}
+        } 
+ \caption{QCD uncertainties in per cent for the double-differential measurement in the \Wmunum\ channel in the higher-$p_{T}$ bins. Each plot shows the absolute uncertainty in the number of QCD events divided by the number of W events (selected W candidates in data after background subtraction).}
+ \label{fig:Wmunu:qcd_unc_vsEta_vsPt_neg_p2}
+ \end{center}
+\end{figure}
+
+
+\section{Summary of Backgrounds}
+
+The backgrounds to the \Wmn\ cross section measurements are small and well controlled. The QCD background, \Zmm, and $W \to \tau\nu$ are the most important backgrounds, followed by top pair production, $Z \to \tau\tau$ and dibosons. For the integrated measurement, QCD as well as the electroweak plus $t\bar{t}$ backgrounds are of the order $2-7\%$ as a percentage of data counts. A summary is given in \Tab~\ref{tab:WmunuAllbkg}.
+The background composition for the single-differential and double-differential measurements are summarized in \Fig~\ref{fig:Wmunu:bg_frac_vsEta_pt25}~-~\ref{fig:Wmunu:BkgFractionsDoubleDiff_NEG}.
+
+%% Integrated
+\begin{table}
+  \begin{center}
+    \input{Wmunu/figures/bgcomp/bgcomp_ALL_pt25}
+    \caption{ Background in \Wmn\ channels in per cent with statistical and systematic uncertainties given in that order. Integrated measurement, $p_T~>~25~\GeV$. }
+    \label{tab:WmunuAllbkg}
+  \end{center}
+\end{table}
+
+% bg summary plots
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[Backgrounds: $W^+ \rightarrow \mu^+ \nu$]{%
+          \includegraphics[width=0.45\textwidth]{Wmunu/figures/bgcomp/bgsummary_POS_pt25}
+        } 
+       \subfigure[Backgrounds: $W^- \rightarrow \mu^- \nu$]{%
+         \includegraphics[width=0.45\textwidth]{Wmunu/figures/bgcomp/bgsummary_NEG_pt25}
+        } \\
+    \caption{ Fractions of backgrounds as a percentage of data for the single-differential measurement in the \Wmunup\ (left) and \Wmunum\ (right) channels. The error bars correspond to the total (statistical  $\oplus$ systematic) uncertainties. For QCD background, the uncorrelated component of total uncertainty is shown separately as a solid band.}
+ \label{fig:Wmunu:bg_frac_vsEta_pt25}
+ \end{center}
+\end{figure}
+
+\clearpage
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\ptZero]{%
+	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/bgcomp/bgsummary_POS_pt1}
+        } 
+        \subfigure[\ptOne]{%
+	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/bgcomp/bgsummary_POS_pt2}
+        } \\
+       \subfigure[\ptTwo]{%
+	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/bgcomp/bgsummary_POS_pt3}
+        }
+       \subfigure[\ptThree]{%
+	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/bgcomp/bgsummary_POS_pt4}
+        }
+       \subfigure[\ptFour]{%
+	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/bgcomp/bgsummary_POS_pt5}
+        } \\
+       \subfigure[\ptFive]{%
+	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/bgcomp/bgsummary_POS_pt6}
+        }
+       \subfigure[\ptSix]{%
+	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/bgcomp/bgsummary_POS_pt7}
+       } 
+      \caption{ Fractions of backgrounds as a percentage of data for the double-differential measurement with muon $p_{T} > 25 GeV$ (\Wmunup). The error bars correspond to the total (statistical  $\oplus$ systematic) uncertainties. For QCD background, the uncorrelated component of total uncertainty is shown separately as a solid band.}
+    \label{fig:Wmunu:BkgFractionsDoubleDiff_POS}
+ \end{center}
+\end{figure}
+
+\clearpage
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\ptZero]{%
+	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/bgcomp/bgsummary_NEG_pt1}
+        } 
+        \subfigure[\ptOne]{%
+	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/bgcomp/bgsummary_NEG_pt2}
+        } \\
+       \subfigure[\ptTwo]{%
+	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/bgcomp/bgsummary_NEG_pt3}
+        }
+       \subfigure[\ptThree]{%
+	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/bgcomp/bgsummary_NEG_pt4}
+        }
+       \subfigure[\ptFour]{%
+	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/bgcomp/bgsummary_NEG_pt5}
+        } \\
+       \subfigure[\ptFive]{%
+	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/bgcomp/bgsummary_NEG_pt6}
+        }
+       \subfigure[\ptSix]{%
+	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/bgcomp/bgsummary_NEG_pt7}
+       } 
+    \caption{ Fractions of backgrounds as a percentage of data for the double-differential measurement with muon $p_{T} > 25 GeV$ (\Wmunum). The error bars correspond to the total (statistical  $\oplus$ systematic) uncertainties. For QCD background, the uncorrelated component of total uncertainty is shown separately as a solid band.}
+    \label{fig:Wmunu:BkgFractionsDoubleDiff_NEG}
+ \end{center}
+\end{figure}
+

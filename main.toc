@@ -1,0 +1,115 @@
+\contentsline {chapter}{List of Figures}{vii}{chapter*.3}
+\contentsline {chapter}{List of Tables}{xiv}{chapter*.4}
+\contentsline {chapter}{Acknowledgments}{xvi}{chapter*.6}
+\contentsline {chapter}{Abstract}{xviii}{chapter*.7}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Executive Summary}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Thesis Outline}{2}{section.1.2}
+\contentsline {chapter}{\numberline {2}Methodology for Cross-Section Calculation}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}The ATLAS Coordinate System}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Integrated, Single and Double-Differential Measurements}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Cross-Section Formula}{5}{section.2.3}
+\contentsline {section}{\numberline {2.4}Phase Space and Binning}{6}{section.2.4}
+\contentsline {section}{\numberline {2.5}Bin Migrations}{7}{section.2.5}
+\contentsline {chapter}{\numberline {3}LHC and the ATLAS Detector}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1} Large Hadron Collider}{9}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1} Beam Structure }{10}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2} The ATLAS Detector }{10}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1} Inner Detector }{12}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2} Calorimeters }{14}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3} Muon Spectrometer }{17}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4} Trigger and Data Acquisition }{18}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5} Computing }{18}{subsection.3.2.5}
+\contentsline {chapter}{\numberline {4}Theoretical Overview}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Standard Model}{21}{section.4.1}
+\contentsline {section}{\numberline {4.2} Hadron Scattering }{22}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}W production}{24}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Parton Distribution Functions}{25}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3} PDFs and W rapidity }{28}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}W Decay and Muon Pseudorapidity}{30}{section.4.3}
+\contentsline {section}{\numberline {4.4}Parton Shower and Hadronization}{31}{section.4.4}
+\contentsline {section}{\numberline {4.5}Theoretical Predictions}{31}{section.4.5}
+\contentsline {chapter}{\numberline {5}Data and Monte-Carlo Samples}{34}{chapter.5}
+\contentsline {section}{\numberline {5.1}Collision Data}{34}{section.5.1}
+\contentsline {section}{\numberline {5.2}Monte-Carlo Samples}{35}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}List of Samples and their Cross-Sections}{37}{subsection.5.2.1}
+\contentsline {section}{\numberline {5.3}Theoretical Extrapolation Tables}{39}{section.5.3}
+\contentsline {section}{\numberline {5.4}Monte-Carlo Corrections}{40}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Pile-up Reweighting }{41}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Vertex z Reweighting }{41}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}W and Z $p_T$ Reweighting }{43}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}W and Z Lineshape Reweighting }{44}{subsection.5.4.4}
+\contentsline {subsection}{\numberline {5.4.5}PDF reweighting}{44}{subsection.5.4.5}
+\contentsline {chapter}{\numberline {6}Object Reconstruction}{46}{chapter.6}
+\contentsline {section}{\numberline {6.1}Muon Reconstruction}{46}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Trigger}{46}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Muon Types}{47}{subsection.6.1.2}
+\contentsline {paragraph}{Inner Detector Tracks}{47}{section*.8}
+\contentsline {paragraph}{Standalone Muons}{48}{section*.9}
+\contentsline {paragraph}{Combined Muons}{48}{section*.10}
+\contentsline {section}{\numberline {6.2}Muon Corrections}{49}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Reconstruction Efficiency}{50}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Isolation Efficiency}{50}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Trigger Efficiency}{50}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Momentum Resolution and Scale}{53}{subsection.6.2.4}
+\contentsline {section}{\numberline {6.3}Missing Transverse Energy}{56}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Jet Reconstruction}{57}{subsection.6.3.1}
+\contentsline {chapter}{\numberline {7}Event Selection}{59}{chapter.7}
+\contentsline {section}{\numberline {7.1}Summary of Selection}{59}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Good Run List}{60}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}LAr Error}{60}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {7.1.3}Primary Vertex}{60}{subsection.7.1.3}
+\contentsline {subsection}{\numberline {7.1.4}Trigger}{60}{subsection.7.1.4}
+\contentsline {subsection}{\numberline {7.1.5}Track Quality Criteria}{60}{subsection.7.1.5}
+\contentsline {subsection}{\numberline {7.1.6}Muon Isolation}{61}{subsection.7.1.6}
+\contentsline {subsection}{\numberline {7.1.7}Second Muon Veto}{62}{subsection.7.1.7}
+\contentsline {subsection}{\numberline {7.1.8}\ensuremath {E_{\mathrm {T}}^{\mathrm {miss}}}\ Cleaning}{63}{subsection.7.1.8}
+\contentsline {subsection}{\numberline {7.1.9}LAr Hole Veto}{63}{subsection.7.1.9}
+\contentsline {subsection}{\numberline {7.1.10}\ensuremath {E_{\mathrm {T}}^{\mathrm {miss}}}\ and $m_T$ cuts}{63}{subsection.7.1.10}
+\contentsline {section}{\numberline {7.2}Selected Events in Data and MC}{63}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Cutflows}{63}{subsection.7.2.1}
+\contentsline {paragraph}{Data}{63}{section*.11}
+\contentsline {paragraph}{Simulation}{63}{section*.12}
+\contentsline {subsection}{\numberline {7.2.2}Kinematic distributions}{67}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Purity and stability}{70}{subsection.7.2.3}
+\contentsline {chapter}{\numberline {8}Backgrounds}{79}{chapter.8}
+\contentsline {section}{\numberline {8.1}Electroweak and Top Backgrounds}{79}{section.8.1}
+\contentsline {section}{\numberline {8.2}QCD Background}{79}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Template Fits}{81}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}QCD Background Uncertainty}{83}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}QCD Systematics}{86}{subsection.8.2.3}
+\contentsline {section}{\numberline {8.3}Summary of Backgrounds}{88}{section.8.3}
+\contentsline {chapter}{\numberline {9}Uncertainties}{97}{chapter.9}
+\contentsline {section}{\numberline {9.1}Statistical Uncertainties}{97}{section.9.1}
+\contentsline {section}{\numberline {9.2}Systematic Uncertainties}{97}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Trigger, Reconstruction and Isolation Efficiencies}{99}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}Muon Momentum}{99}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.3}\ensuremath {E_{\mathrm {T}}^{\mathrm {miss}}}\ Scale and Resolution}{100}{subsection.9.2.3}
+\contentsline {subsection}{\numberline {9.2.4}Pile-Up}{100}{subsection.9.2.4}
+\contentsline {subsection}{\numberline {9.2.5}Boson $p_T$}{100}{subsection.9.2.5}
+\contentsline {subsection}{\numberline {9.2.6}Backgrounds}{101}{subsection.9.2.6}
+\contentsline {subsection}{\numberline {9.2.7}Theoretical uncertainties}{101}{subsection.9.2.7}
+\contentsline {paragraph}{PDF}{101}{section*.13}
+\contentsline {paragraph}{Matrix Element}{101}{section*.14}
+\contentsline {paragraph}{Parton Shower}{102}{section*.15}
+\contentsline {paragraph}{Smoothing of Theory Systematics}{102}{section*.16}
+\contentsline {section}{\numberline {9.3}Luminosity Uncertainty}{102}{section.9.3}
+\contentsline {section}{\numberline {9.4}Summary of systematics}{105}{section.9.4}
+\contentsline {chapter}{\numberline {10}Results}{115}{chapter.10}
+\contentsline {section}{\numberline {10.1} Comparison with Theory }{115}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1} Integrated Measurement }{115}{subsection.10.1.1}
+\contentsline {subsection}{\numberline {10.1.2} Single-differential Measurement }{115}{subsection.10.1.2}
+\contentsline {subsection}{\numberline {10.1.3} W Charge Asymmetry }{117}{subsection.10.1.3}
+\contentsline {subsection}{\numberline {10.1.4} Double-differential Measurement }{120}{subsection.10.1.4}
+\contentsline {section}{\numberline {10.2} PDF Fit Analysis }{127}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1} Combination }{127}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.2} PDF sensitivity }{127}{subsection.10.2.2}
+\contentsline {section}{\numberline {10.3} Lepton Universality }{132}{section.10.3}
+\contentsline {chapter}{\numberline {11}Conclusions}{133}{chapter.11}
+\contentsline {chapter}{\numberline {A}MuGirl and Muid Trigger Chains}{134}{appendix.A}
+\contentsline {chapter}{\numberline {B}Smoothing of Theory Systematics in $p_T$ bins}{147}{appendix.B}
+\contentsline {chapter}{\numberline {C}Tables of Inputs and Cross-sections}{154}{appendix.C}
+\contentsline {section}{\numberline {C.1}Integrated Measurement}{154}{section.C.1}
+\contentsline {section}{\numberline {C.2}Single-differential Measurement}{155}{section.C.2}
+\contentsline {section}{\numberline {C.3}Double-differential Measurement}{157}{section.C.3}
+\contentsline {chapter}{References}{166}{table.C.14}

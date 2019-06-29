@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: main.aux
+The style file: plain.bst
+Database file #1: main.bib
+Warning--to sort, need author or key in ATLAS-CONF-2012-080
+Warning--to sort, need author or key in ATLAS-CONF-2012-042
+Warning--to sort, need author or key in ATLAS-CONF-2012-101
+Warning--to sort, need author or key in ATLAS-CONF-2013-004
+Warning--empty author in ATLAS-CONF-2012-080
+Warning--empty author in ATLAS-CONF-2012-101
+Warning--empty author in ATLAS-CONF-2012-042
+Warning--empty author in ATLAS-CONF-2013-004
+Warning--empty journal in Aad:2009wy
+Warning--empty journal in ATLAS-DAPR-2011-01-002
+Warning--empty journal in zphistar
+Warning--empty journal in Adye:arXiv1105.1160
+Warning--empty journal in Bourilkov:2006cj
+Warning--empty publisher in PDG
+Warning--empty journal in Gavin:2012sy
+Warning--empty journal in pdfmaster
+Warning--empty journal in Li:2012wn
+Warning--empty journal in MartinezOutschoorn:2011hta
+Warning--empty journal in Radescu:2011cn
+Warning--empty journal in Whalley:2005nh
+You've used 75 entries,
+            2118 wiz_defined-function locations,
+            925 strings with 15282 characters,
+and the built_in function-call counts, 22235 in all, are:
+= -- 2142
+> -- 1123
+< -- 7
++ -- 446
+- -- 368
+* -- 1543
+:= -- 3930
+add.period$ -- 231
+call.type$ -- 75
+change.case$ -- 376
+chr.to.int$ -- 0
+cite$ -- 95
+duplicate$ -- 804
+empty$ -- 1682
+format.name$ -- 368
+if$ -- 4530
+int.to.chr$ -- 0
+int.to.str$ -- 75
+missing$ -- 76
+newline$ -- 379
+num.names$ -- 142
+pop$ -- 321
+preamble$ -- 1
+purify$ -- 309
+quote$ -- 0
+skip$ -- 562
+stack$ -- 0
+substring$ -- 1192
+swap$ -- 64
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 282
+warning$ -- 20
+while$ -- 193
+width$ -- 77
+write$ -- 815
+(There were 20 warnings)

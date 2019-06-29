@@ -1,0 +1,420 @@
+This appendix contains the input for the cross-section formula from Sec.~\ref{sec:xsec_formula} (event counts, backgrounds, and efficiency correction factors), as well as numerical results for the fiducial cross-sections (with $|\eta|<2.4$) and their uncertainties. The definition of fiducial phase space was given in Sec.~\ref{method:fid:space}. For the integrated measurement, the cross-section is also extrapolated to the full phase space.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Integrated Measurement}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+The inputs (data counts, total backgrounds, and $C$ factors) for the integrated \Wmn\ cross-sections are listed in Table~\ref{tab:Wmunu:XSInputsIntegrated25}. The fiducial cross-sections along with their total uncertainties are listed in \Tab~\ref{tab:Wmunu:XSResultsIntegrated25}.
+
+\begin{table}
+  \begin{center}
+    \input{res/fig/Wmn_UNFABS_0D_PT25_SUM_UnfAbs_NBC_proj}
+    \caption{ Data counts, total backgrounds (B), and $C$ factors for the integrated fiducial \Wmn\ cross-sections. \NBCexp}
+    \label{tab:Wmunu:XSInputsIntegrated25}
+  \end{center}
+\end{table}
+
+\begin{table}
+  \begin{center}
+    \input{res/fig/Wmn_UNFABS_0D_PT25_SUM_UnfAbs_proj}
+    \caption{ Integrated fiducial \Wmn\ cross-sections along with their absolute uncertainties ($p_T>25$ GeV, $|\eta|<2.4$). }
+    \label{tab:Wmunu:XSResultsIntegrated25}
+  \end{center}
+\end{table}
+
+The integrated \Wmn\ cross-sections are additionally extrapolated to the full phase space using the acceptance factors from Sec.~\ref{sec:mc:extraptables}. A large uncertainty on these acceptance factors results in much larger systematics on the full-phase cross-sections compared to the fiducial measurement in Tab.~\ref{tab:Wmunu:XSResultsIntegrated25}.
+
+$$\sigma^{tot}_{W^+}\cdot BR(W \rightarrow \mu\nu) = 6327.3 \pm 2.5 (\text{stat}) \pm 107.8 (\text{syst}) \pm 113.9 (\text{lumi})\ (pb)$$
+$$\sigma^{tot}_{W^-}\cdot BR(W \rightarrow \mu\nu) = 4351.6 \pm 2.1 (\text{stat}) \pm 98.1 (\text{syst}) \pm 78.3 (\text{lumi})\ (pb)$$
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Single-differential Measurement}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INPUTS
+%\paragraph{ Data counts, total backgrounds, and $C$ factors }
+The inputs (data counts, total backgrounds, and $C$ factors) for the single-differential \Wmunup\ and \Wmunum\ cross-sections are listed in Tables~\ref{tab:Wmn:NBC_POS_1D_pt25} and \ref{tab:Wmn:NBC_NEG_1D_pt25}.
+
+\begin{table}[htbp]
+\begin{center}
+\input{res/fig/Wmn_UNFABS_1D_PT25_POS_UnfAbs_NBC_proj}
+\caption{ Data counts (N), total backgrounds (B), and $C$ factors for the single-differential fiducial \Wmunup\ cross-section. \NBCexp}
+\label{tab:Wmn:NBC_POS_1D_pt25}
+\end{center}
+\end{table}
+
+\begin{table}[htbp]
+\begin{center}
+\input{res/fig/Wmn_UNFABS_1D_PT25_NEG_UnfAbs_NBC_proj}
+\caption{ Data counts (N), total backgrounds (B), and $C$ factors for the single-differential fiducial \Wmunum\ cross-section. \NBCexp}
+\label{tab:Wmn:NBC_NEG_1D_pt25}
+\end{center}
+\end{table}
+
+% TABLES
+%\paragraph{ Tables }
+
+Fiducial cross-sections for the single-differential measurement with the muon $p_T$ cut of 25~\GeV\ are listed in Tab.~\ref{tab:Wmn:XS_POS_1D_pt25}~-~\ref{tab:Wmn:XS_NEG_1D_pt25}.
+
+\begin{table}
+\begin{center}
+\input{res/fig/Wmn_UNFABS_1D_PT25_POS_UnfAbs_proj}
+\caption{ Single-differential cross-section in the \Wmunup\ channel ($p_T>25$ GeV).}
+\label{tab:Wmn:XS_POS_1D_pt25}
+\end{center}
+\end{table}
+
+\begin{table}
+\begin{center}
+\input{res/fig/Wmn_UNFABS_1D_PT25_NEG_UnfAbs_proj}
+\caption{ Single-differential cross-section in the \Wmunum\ channel ($p_T>25$ GeV).}
+\label{tab:Wmn:XS_NEG_1D_pt25}
+\end{center}
+\end{table}
+
+%% Normalized fiducial cross-sections for the single-differential measurement with the muon $p_T$ cut of 25~\GeV\ are compared to \Powheg-\Pythia\ predictions in \Fig~\ref{fig:Wmunu:NORM_1D_pt25}.
+
+%% \begin{figure}[phtb]
+%%   \begin{center}
+%%         \subfigure[\Wplus]{%
+%% 	  \includegraphics[width=0.4\textwidth]{res/fig/Wmn_UNFNOR_1D_PT25_POS_Unf_proj}
+%%         } 
+%%         \subfigure[\Wminus]{%
+%% 	  \includegraphics[width=0.4\textwidth]{res/fig/Wmn_UNFNOR_1D_PT25_NEG_Unf_proj}
+%%         }
+%%  \caption{ Normalized single-differential fiducial cross-sections in the \Wmunup\ (left) and  \Wmunum\ (right) channels.
+%%  The measurement is compared to \Powheg-\Pythia\ prediction.}
+%%  \label{fig:Wmunu:NORM_1D_pt25}
+%%  \end{center}
+%% \end{figure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Double-differential Measurement}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+The inputs (data counts, total backgrounds, and $C$ factors) for the double-differential \Wmunup\ and \Wmunum\ cross-sections are listed in Tab.~\ref{tab:Wmn:NBC_POS_2D_pt20_1}~-~\ref{tab:Wmn:NBC_NEG_2D_pt20_2}.
+
+% POS pt. 1
+\begin{table}
+\footnotesize
+  \begin{center}
+\begin{tabular}{lccc}
+\hline
+    &   $N$   & $B \pm \delta B$  &  $C \pm \delta C$ \\
+\hline
+
+\hline
+\multicolumn{4}{c}{$20 < p_T < 25$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_NBC_1}
+
+\hline
+\multicolumn{4}{c}{$25 < p_T < 30$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_NBC_2}
+
+\hline
+\multicolumn{4}{c}{$30 < p_T < 35$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_NBC_3}
+
+\hline
+\multicolumn{4}{c}{$35 < p_T < 40$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_NBC_4}
+
+    \hline
+    \end{tabular}
+    \caption{ Data counts (N), total backgrounds (B), and $C$ factors for the double-differential fiducial \Wmunup\ cross-section (first four $p_T$ slices).}
+    \label{tab:Wmn:NBC_POS_2D_pt20_1}
+  \end{center}
+\end{table}
+
+% POS pt. 2
+\begin{table}
+\footnotesize
+  \begin{center}
+\begin{tabular}{lccc}
+\hline
+    &   $N$   & $B \pm \delta B$  &  $C \pm \delta C$ \\
+\hline
+
+\hline
+\multicolumn{4}{c}{$40 < p_T < 45$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_NBC_5}
+
+\hline
+\multicolumn{4}{c}{$45 < p_T < 50$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_NBC_6}
+
+\hline
+\multicolumn{4}{c}{$p_T > 50$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_NBC_7}
+
+    \hline
+    \end{tabular}
+    \caption{ Data counts (N), total backgrounds (B), and $C$ factors for the double-differential fiducial \Wmunup\ cross-section (last three $p_T$ slices).}
+    \label{tab:Wmn:NBC_POS_2D_pt20_2}
+  \end{center}
+\end{table}
+
+% NEG pt. 1
+\begin{table}
+\footnotesize
+  \begin{center}
+\begin{tabular}{lccc}
+\hline
+    &   $N$   & $B \pm \delta B$  &  $C \pm \delta C$ \\
+\hline
+
+\hline
+\multicolumn{4}{c}{$20 < p_T < 25$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_NBC_1}
+
+\hline
+\multicolumn{4}{c}{$25 < p_T < 30$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_NBC_2}
+
+\hline
+\multicolumn{4}{c}{$30 < p_T < 35$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_NBC_3}
+
+\hline
+\multicolumn{4}{c}{$35 < p_T < 40$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_NBC_4}
+
+    \hline
+    \end{tabular}
+    \caption{ Data counts (N), total backgrounds (B), and $C$ factors for the double-differential fiducial \Wmunum\ cross-section (first four $p_T$ slices).}
+    \label{tab:Wmn:NBC_NEG_2D_pt20_1}
+  \end{center}
+\end{table}
+
+% NEG pt. 2
+\begin{table}
+\footnotesize
+  \begin{center}
+\begin{tabular}{lccc}
+\hline
+    &   $N$   & $B \pm \delta B$  &  $C \pm \delta C$ \\
+\hline
+
+\hline
+\multicolumn{4}{c}{$40 < p_T < 45$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_NBC_5}
+
+\hline
+\multicolumn{4}{c}{$45 < p_T < 50$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_NBC_6}
+
+\hline
+\multicolumn{4}{c}{$p_T > 50$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_NBC_7}
+
+    \hline
+    \end{tabular}
+    \caption{ Data counts (N), total backgrounds (B), and $C$ factors for the double-differential fiducial \Wmunum\ cross-section (last three $p_T$ slices).}
+    \label{tab:Wmn:NBC_NEG_2D_pt20_2}
+  \end{center}
+\end{table}
+
+% TABLES
+%\paragraph{ Tables }
+
+Fiducial cross-sections for the double-differential measurement are listed in Tab.~\ref{tab:Wmn:XS_POS_2D_pt20_1}~-~\ref{tab:Wmn:XS_NEG_2D_pt20_2}.
+
+% POS pt. 1
+\begin{table}
+\footnotesize
+  \begin{center}
+\begin{tabular}{lc}
+\hline
+
+\hline
+\multicolumn{2}{c}{$20 < p_T < 25$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_1}
+
+\hline
+\multicolumn{2}{c}{$25 < p_T < 30$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_2}
+
+\hline
+\multicolumn{2}{c}{$30 < p_T < 35$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_3}
+
+\hline
+\multicolumn{2}{c}{$35 < p_T < 40$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_4}
+
+    \hline
+    \end{tabular}
+    \caption{ Double-differential fiducial $W^+$ cross-section (first four $p_T$ slices). }
+    \label{tab:Wmn:XS_POS_2D_pt20_1}
+  \end{center}
+\end{table}
+
+% POS pt. 2
+\begin{table}
+\footnotesize
+  \begin{center}
+\begin{tabular}{lc}
+\hline
+
+\hline
+\multicolumn{2}{c}{$40 < p_T < 45$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_5}
+
+\hline
+\multicolumn{2}{c}{$45 < p_T < 50$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_6}
+
+\hline
+\multicolumn{2}{c}{$p_T > 50$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_POS_UnfAbs_2d_7}
+
+    \hline
+    \end{tabular}
+    \caption{ Double-differential fiducial $W^+$ cross-section (last three $p_T$ slices). }
+    \label{tab:Wmn:XS_POS_2D_pt20_2}
+  \end{center}
+\end{table}
+
+% NEG pt. 1
+\begin{table}
+\footnotesize
+  \begin{center}
+\begin{tabular}{lc}
+\hline
+
+\hline
+\multicolumn{2}{c}{$20 < p_T < 25$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_1}
+
+\hline
+\multicolumn{2}{c}{$25 < p_T < 30$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_2}
+
+\hline
+\multicolumn{2}{c}{$30 < p_T < 35$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_3}
+
+\hline
+\multicolumn{2}{c}{$35 < p_T < 40$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_4}
+
+    \hline
+    \end{tabular}
+    \caption{ Double-differential fiducial $W^-$ cross-section. (first four $p_T$ slices). }
+    \label{tab:Wmn:XS_NEG_2D_pt20_1}
+  \end{center}
+\end{table}
+
+% NEG pt. 2
+\begin{table}
+\footnotesize
+  \begin{center}
+\begin{tabular}{lc}
+\hline
+
+\hline
+\multicolumn{2}{c}{$40 < p_T < 45$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_5}
+
+\hline
+\multicolumn{2}{c}{$45 < p_T < 50$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_6}
+
+\hline
+\multicolumn{2}{c}{$p_T > 50$ GeV} \\
+\hline
+\input{res/fig/Wmn_UNFABS_2D_PT20_NEG_UnfAbs_2d_7}
+
+    \hline
+    \end{tabular}
+    \caption{ Double-differential fiducial $W^-$ cross-section (last three $p_T$ slices). }
+    \label{tab:Wmn:XS_NEG_2D_pt20_2}
+  \end{center}
+\end{table}
+
+% Plots normalized
+%\paragraph{ Normalized fiducial cross-sections }
+%% Normalized fiducial cross-sections for the double-differential measurement are compared to \Powheg-\Pythia\ predictions in \Fig~\ref{fig:Wmunu:NORM_POS_2D_pt20} and \ref{fig:Wmunu:NORM_NEG_2D_pt20}.
+
+%% \begin{figure}[phtb]
+%%   \begin{center}
+%%         \subfigure[\ptZero]{%
+%% 	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFNOR_2D_PT20_POS_Unf_2d_Slice_1}
+%%         } 
+%%         \subfigure[\ptOne]{%
+%% 	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFNOR_2D_PT20_POS_Unf_2d_Slice_2}
+%%         } \\
+%%        \subfigure[\ptTwo]{%
+%% 	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFNOR_2D_PT20_POS_Unf_2d_Slice_3}
+%%         }
+%%        \subfigure[\ptThree]{%
+%% 	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFNOR_2D_PT20_POS_Unf_2d_Slice_4}
+%%         }
+%%        \subfigure[\ptFour]{%
+%% 	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFNOR_2D_PT20_POS_Unf_2d_Slice_5}
+%%         } \\
+%%        \subfigure[\ptFive]{%
+%% 	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFNOR_2D_PT20_POS_Unf_2d_Slice_6}
+%%         }
+%%        \subfigure[\ptSix]{%
+%% 	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFNOR_2D_PT20_POS_Unf_2d_Slice_7}
+%%        } 
+%%  \caption{ Normalized double-differential fiducial cross-sections in the \Wmunup\ channel.
+%%  The measurement is compared to \Powheg-\Pythia\ prediction.}
+%%  \label{fig:Wmunu:NORM_POS_2D_pt20}
+%%  \end{center}
+%% \end{figure}
+
+%% \begin{figure}[phtb]
+%%   \begin{center}
+%%         \subfigure[\ptZero]{%
+%% 	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFNOR_2D_PT20_NEG_Unf_2d_Slice_1}
+%%         } 
+%%         \subfigure[\ptOne]{%
+%% 	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFNOR_2D_PT20_NEG_Unf_2d_Slice_2}
+%%         } \\
+%%        \subfigure[\ptTwo]{%
+%% 	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFNOR_2D_PT20_NEG_Unf_2d_Slice_3}
+%%         }
+%%        \subfigure[\ptThree]{%
+%% 	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFNOR_2D_PT20_NEG_Unf_2d_Slice_4}
+%%         }
+%%        \subfigure[\ptFour]{%
+%% 	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFNOR_2D_PT20_NEG_Unf_2d_Slice_5}
+%%         } \\
+%%        \subfigure[\ptFive]{%
+%% 	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFNOR_2D_PT20_NEG_Unf_2d_Slice_6}
+%%         }
+%%        \subfigure[\ptSix]{%
+%% 	  \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFNOR_2D_PT20_NEG_Unf_2d_Slice_7}
+%%        } 
+%%  \caption{ Normalized double-differential fiducial cross-sections in the \Wmunum\ channel.
+%%  The measurement is compared to \Powheg-\Pythia\ prediction.}
+%%  \label{fig:Wmunu:NORM_NEG_2D_pt20}
+%%  \end{center}
+%% \end{figure}

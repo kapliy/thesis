@@ -1,0 +1,8 @@
+All public ATLAS plots: luminosity, detector, etc
+https://twiki.cern.ch/twiki/bin/view/AtlasPublic/WebHome
+
+ATLAS TDR and figures:
+http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/TDR/access.html
+
+High-resolution figures:
+http://jinst.sissa.it/LHC/

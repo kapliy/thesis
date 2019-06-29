@@ -1,0 +1,106 @@
+\BOOKMARK [0][-]{chapter*.3}{List of Figures}{}
+\BOOKMARK [0][-]{chapter*.4}{List of Tables}{}
+\BOOKMARK [0][-]{chapter*.6}{Acknowledgments}{}
+\BOOKMARK [0][-]{chapter*.7}{Abstract}{}
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}
+\BOOKMARK [1][-]{section.1.1}{Executive Summary}{chapter.1}
+\BOOKMARK [1][-]{section.1.2}{Thesis Outline}{chapter.1}
+\BOOKMARK [0][-]{chapter.2}{Methodology for Cross-Section Calculation}{}
+\BOOKMARK [1][-]{section.2.1}{The ATLAS Coordinate System}{chapter.2}
+\BOOKMARK [1][-]{section.2.2}{Integrated, Single and Double-Differential Measurements}{chapter.2}
+\BOOKMARK [1][-]{section.2.3}{Cross-Section Formula}{chapter.2}
+\BOOKMARK [1][-]{section.2.4}{Phase Space and Binning}{chapter.2}
+\BOOKMARK [1][-]{section.2.5}{Bin Migrations}{chapter.2}
+\BOOKMARK [0][-]{chapter.3}{LHC and the ATLAS Detector}{}
+\BOOKMARK [1][-]{section.3.1}{ Large Hadron Collider}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.1.1}{ Beam Structure }{section.3.1}
+\BOOKMARK [1][-]{section.3.2}{ The ATLAS Detector }{chapter.3}
+\BOOKMARK [2][-]{subsection.3.2.1}{ Inner Detector }{section.3.2}
+\BOOKMARK [2][-]{subsection.3.2.2}{ Calorimeters }{section.3.2}
+\BOOKMARK [2][-]{subsection.3.2.3}{ Muon Spectrometer }{section.3.2}
+\BOOKMARK [2][-]{subsection.3.2.4}{ Trigger and Data Acquisition }{section.3.2}
+\BOOKMARK [2][-]{subsection.3.2.5}{ Computing }{section.3.2}
+\BOOKMARK [0][-]{chapter.4}{Theoretical Overview}{}
+\BOOKMARK [1][-]{section.4.1}{Standard Model}{chapter.4}
+\BOOKMARK [1][-]{section.4.2}{ Hadron Scattering }{chapter.4}
+\BOOKMARK [2][-]{subsection.4.2.1}{W production}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.2}{Parton Distribution Functions}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.3}{ PDFs and W rapidity }{section.4.2}
+\BOOKMARK [1][-]{section.4.3}{W Decay and Muon Pseudorapidity}{chapter.4}
+\BOOKMARK [1][-]{section.4.4}{Parton Shower and Hadronization}{chapter.4}
+\BOOKMARK [1][-]{section.4.5}{Theoretical Predictions}{chapter.4}
+\BOOKMARK [0][-]{chapter.5}{Data and Monte-Carlo Samples}{}
+\BOOKMARK [1][-]{section.5.1}{Collision Data}{chapter.5}
+\BOOKMARK [1][-]{section.5.2}{Monte-Carlo Samples}{chapter.5}
+\BOOKMARK [2][-]{subsection.5.2.1}{List of Samples and their Cross-Sections}{section.5.2}
+\BOOKMARK [1][-]{section.5.3}{Theoretical Extrapolation Tables}{chapter.5}
+\BOOKMARK [1][-]{section.5.4}{Monte-Carlo Corrections}{chapter.5}
+\BOOKMARK [2][-]{subsection.5.4.1}{Pile-up Reweighting }{section.5.4}
+\BOOKMARK [2][-]{subsection.5.4.2}{Vertex z Reweighting }{section.5.4}
+\BOOKMARK [2][-]{subsection.5.4.3}{W and Z pT Reweighting }{section.5.4}
+\BOOKMARK [2][-]{subsection.5.4.4}{W and Z Lineshape Reweighting }{section.5.4}
+\BOOKMARK [2][-]{subsection.5.4.5}{PDF reweighting}{section.5.4}
+\BOOKMARK [0][-]{chapter.6}{Object Reconstruction}{}
+\BOOKMARK [1][-]{section.6.1}{Muon Reconstruction}{chapter.6}
+\BOOKMARK [2][-]{subsection.6.1.1}{Trigger}{section.6.1}
+\BOOKMARK [2][-]{subsection.6.1.2}{Muon Types}{section.6.1}
+\BOOKMARK [1][-]{section.6.2}{Muon Corrections}{chapter.6}
+\BOOKMARK [2][-]{subsection.6.2.1}{Reconstruction Efficiency}{section.6.2}
+\BOOKMARK [2][-]{subsection.6.2.2}{Isolation Efficiency}{section.6.2}
+\BOOKMARK [2][-]{subsection.6.2.3}{Trigger Efficiency}{section.6.2}
+\BOOKMARK [2][-]{subsection.6.2.4}{Momentum Resolution and Scale}{section.6.2}
+\BOOKMARK [1][-]{section.6.3}{Missing Transverse Energy}{chapter.6}
+\BOOKMARK [2][-]{subsection.6.3.1}{Jet Reconstruction}{section.6.3}
+\BOOKMARK [0][-]{chapter.7}{Event Selection}{}
+\BOOKMARK [1][-]{section.7.1}{Summary of Selection}{chapter.7}
+\BOOKMARK [2][-]{subsection.7.1.1}{Good Run List}{section.7.1}
+\BOOKMARK [2][-]{subsection.7.1.2}{LAr Error}{section.7.1}
+\BOOKMARK [2][-]{subsection.7.1.3}{Primary Vertex}{section.7.1}
+\BOOKMARK [2][-]{subsection.7.1.4}{Trigger}{section.7.1}
+\BOOKMARK [2][-]{subsection.7.1.5}{Track Quality Criteria}{section.7.1}
+\BOOKMARK [2][-]{subsection.7.1.6}{Muon Isolation}{section.7.1}
+\BOOKMARK [2][-]{subsection.7.1.7}{Second Muon Veto}{section.7.1}
+\BOOKMARK [2][-]{subsection.7.1.8}{ETmiss Cleaning}{section.7.1}
+\BOOKMARK [2][-]{subsection.7.1.9}{LAr Hole Veto}{section.7.1}
+\BOOKMARK [2][-]{subsection.7.1.10}{ETmiss and mT cuts}{section.7.1}
+\BOOKMARK [1][-]{section.7.2}{Selected Events in Data and MC}{chapter.7}
+\BOOKMARK [2][-]{subsection.7.2.1}{Cutflows}{section.7.2}
+\BOOKMARK [2][-]{subsection.7.2.2}{Kinematic distributions}{section.7.2}
+\BOOKMARK [2][-]{subsection.7.2.3}{Purity and stability}{section.7.2}
+\BOOKMARK [0][-]{chapter.8}{Backgrounds}{}
+\BOOKMARK [1][-]{section.8.1}{Electroweak and Top Backgrounds}{chapter.8}
+\BOOKMARK [1][-]{section.8.2}{QCD Background}{chapter.8}
+\BOOKMARK [2][-]{subsection.8.2.1}{Template Fits}{section.8.2}
+\BOOKMARK [2][-]{subsection.8.2.2}{QCD Background Uncertainty}{section.8.2}
+\BOOKMARK [2][-]{subsection.8.2.3}{QCD Systematics}{section.8.2}
+\BOOKMARK [1][-]{section.8.3}{Summary of Backgrounds}{chapter.8}
+\BOOKMARK [0][-]{chapter.9}{Uncertainties}{}
+\BOOKMARK [1][-]{section.9.1}{Statistical Uncertainties}{chapter.9}
+\BOOKMARK [1][-]{section.9.2}{Systematic Uncertainties}{chapter.9}
+\BOOKMARK [2][-]{subsection.9.2.1}{Trigger, Reconstruction and Isolation Efficiencies}{section.9.2}
+\BOOKMARK [2][-]{subsection.9.2.2}{Muon Momentum}{section.9.2}
+\BOOKMARK [2][-]{subsection.9.2.3}{ETmiss Scale and Resolution}{section.9.2}
+\BOOKMARK [2][-]{subsection.9.2.4}{Pile-Up}{section.9.2}
+\BOOKMARK [2][-]{subsection.9.2.5}{Boson pT}{section.9.2}
+\BOOKMARK [2][-]{subsection.9.2.6}{Backgrounds}{section.9.2}
+\BOOKMARK [2][-]{subsection.9.2.7}{Theoretical uncertainties}{section.9.2}
+\BOOKMARK [1][-]{section.9.3}{Luminosity Uncertainty}{chapter.9}
+\BOOKMARK [1][-]{section.9.4}{Summary of systematics}{chapter.9}
+\BOOKMARK [0][-]{chapter.10}{Results}{}
+\BOOKMARK [1][-]{section.10.1}{ Comparison with Theory }{chapter.10}
+\BOOKMARK [2][-]{subsection.10.1.1}{ Integrated Measurement }{section.10.1}
+\BOOKMARK [2][-]{subsection.10.1.2}{ Single-differential Measurement }{section.10.1}
+\BOOKMARK [2][-]{subsection.10.1.3}{ W Charge Asymmetry }{section.10.1}
+\BOOKMARK [2][-]{subsection.10.1.4}{ Double-differential Measurement }{section.10.1}
+\BOOKMARK [1][-]{section.10.2}{ PDF Fit Analysis }{chapter.10}
+\BOOKMARK [2][-]{subsection.10.2.1}{ Combination }{section.10.2}
+\BOOKMARK [2][-]{subsection.10.2.2}{ PDF sensitivity }{section.10.2}
+\BOOKMARK [1][-]{section.10.3}{ Lepton Universality }{chapter.10}
+\BOOKMARK [0][-]{chapter.11}{Conclusions}{}
+\BOOKMARK [0][-]{appendix.A}{MuGirl and Muid Trigger Chains}{}
+\BOOKMARK [0][-]{appendix.B}{Smoothing of Theory Systematics in pT bins}{}
+\BOOKMARK [0][-]{appendix.C}{Tables of Inputs and Cross-sections}{}
+\BOOKMARK [1][-]{section.C.1}{Integrated Measurement}{appendix.C}
+\BOOKMARK [1][-]{section.C.2}{Single-differential Measurement}{appendix.C}
+\BOOKMARK [1][-]{section.C.3}{Double-differential Measurement}{appendix.C}
+\BOOKMARK [0][-]{table.C.14}{References}{}

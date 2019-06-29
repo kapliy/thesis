@@ -1,0 +1,261 @@
+%% Unftest
+
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\etaOne]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_1_proj}
+        } 
+       \subfigure[\etaTwo]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_2_proj}
+        } \\
+        \subfigure[\etaThree]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_3_proj}
+        } 
+       \subfigure[\etaFour]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_4_proj}
+        }
+        \subfigure[\etaFive]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_5_proj}
+        } \\ 
+       \subfigure[\etaSix]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_6_proj}
+        }
+       \subfigure[\etaCrack]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_7_proj}
+        }
+        \subfigure[\etaSeven]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_8_proj}
+        } \\
+       \subfigure[\etaEight]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_9_proj}
+       }
+        \subfigure[\etaNine]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_10_proj}
+        } 
+       \subfigure[\etaTenMu]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_POS_unfIte_2d_Slice_11_proj}
+        } \\
+    \caption{Percent deviations of the Bayesian-unfolded distributions for different number of iterations 
+      relative to the value obtained with bin-by-bin corrections. These figures refer to the double-differential
+      \Wmunup\ cross-section measurement unfolded as a function of muon $p_T$ inside each $\eta$ slice. }
+ \label{fig:Wmunu:unftest_2D_POS}
+ \end{center}
+\end{figure}
+
+\newpage
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\etaOne]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_1_proj}
+        } 
+       \subfigure[\etaTwo]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_2_proj}
+        } \\
+        \subfigure[\etaThree]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_3_proj}
+        } 
+       \subfigure[\etaFour]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_4_proj}
+        }
+        \subfigure[\etaFive]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_5_proj}
+        } \\ 
+       \subfigure[\etaSix]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_6_proj}
+        }
+       \subfigure[\etaCrack]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_7_proj}
+        }
+        \subfigure[\etaSeven]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_8_proj}
+        } \\
+       \subfigure[\etaEight]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_9_proj}
+       }
+        \subfigure[\etaNine]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_10_proj}
+        } 
+       \subfigure[\etaTenMu]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNFTST_2D_PT20_NEG_unfIte_2d_Slice_11_proj}
+        } \\
+    \caption{Percent deviations of the Bayesian-unfolded distributions for different number of iterations 
+      relative to the value obtained with bin-by-bin corrections. These figures refer to the double-differential
+      \Wmunum\ cross-section measurement unfolded as a function of muon $p_T$ inside each $\eta$ slice. }
+ \label{fig:Wmunu:unftest_2D_NEG}
+ \end{center}
+\end{figure}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Unctest
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newpage
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\etaOne]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_1_proj}
+        } 
+       \subfigure[\etaTwo]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_2_proj}
+        } \\
+        \subfigure[\etaThree]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_3_proj}
+        } 
+       \subfigure[\etaFour]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_4_proj}
+        }
+        \subfigure[\etaFive]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_5_proj}
+        } \\ 
+       \subfigure[\etaSix]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_6_proj}
+        }
+       \subfigure[\etaCrack]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_7_proj}
+        }
+        \subfigure[\etaSeven]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_8_proj}
+        } \\
+       \subfigure[\etaEight]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_9_proj}
+       }
+        \subfigure[\etaNine]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_10_proj}
+        } 
+       \subfigure[\etaTenMu]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_POS_statUnfIte_2d_Slice_11_proj}
+        } \\
+    \caption{Statistical uncertainty for different unfolding options. These figures refer to the double-differential
+      \Wmunup\ cross-section measurement unfolded as a function of muon $p_T$ inside each $\eta$ slice. }
+ \label{fig:Wmunu:unctest_2D_POS}
+ \end{center}
+\end{figure}
+
+\newpage
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\etaOne]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_1_proj}
+        } 
+       \subfigure[\etaTwo]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_2_proj}
+        } \\
+        \subfigure[\etaThree]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_3_proj}
+        } 
+       \subfigure[\etaFour]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_4_proj}
+        }
+        \subfigure[\etaFive]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_5_proj}
+        } \\ 
+       \subfigure[\etaSix]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_6_proj}
+        }
+       \subfigure[\etaCrack]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_7_proj}
+        }
+        \subfigure[\etaSeven]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_8_proj}
+        } \\
+       \subfigure[\etaEight]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_9_proj}
+       }
+        \subfigure[\etaNine]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_10_proj}
+        } 
+       \subfigure[\etaTenMu]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_UNCTST_2D_PT20_NEG_statUnfIte_2d_Slice_11_proj}
+        } \\
+    \caption{Statistical uncertainty for different unfolding options. These figures refer to the double-differential
+      \Wmunum\ cross-section measurement unfolded as a function of muon $p_T$ inside each $\eta$ slice. }
+ \label{fig:Wmunu:unctest_2D_NEG}
+ \end{center}
+\end{figure}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% reco plots comparing generators
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\etaOne]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_POS_RecoSpectrum_2d_Slice_1_proj}
+        } 
+       \subfigure[\etaTwo]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_POS_RecoSpectrum_2d_Slice_2_proj}
+        } \\
+        \subfigure[\etaThree]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_POS_RecoSpectrum_2d_Slice_3_proj}
+        } 
+       \subfigure[\etaFour]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_POS_RecoSpectrum_2d_Slice_4_proj}
+        }
+        \subfigure[\etaFive]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_POS_RecoSpectrum_2d_Slice_5_proj}
+        } \\ 
+       \subfigure[\etaSix]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_POS_RecoSpectrum_2d_Slice_6_proj}
+        }
+       \subfigure[\etaCrack]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_POS_RecoSpectrum_2d_Slice_7_proj}
+        }
+        \subfigure[\etaSeven]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_POS_RecoSpectrum_2d_Slice_8_proj}
+        } \\
+       \subfigure[\etaEight]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_POS_RecoSpectrum_2d_Slice_9_proj}
+       }
+        \subfigure[\etaNine]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_POS_RecoSpectrum_2d_Slice_10_proj}
+        } 
+       \subfigure[\etaTenMu]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_POS_RecoSpectrum_2d_Slice_11_proj}
+        } \\
+    \caption{ Comparison of detector-level $p_T$ distributions of various \Wmunup\ generators and background-subtracted data inside each $\eta$ slice. }
+ \label{fig:Wmunu:recotest_2D_POS}
+ \end{center}
+\end{figure}
+
+\newpage
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[\etaOne]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_NEG_RecoSpectrum_2d_Slice_1_proj}
+        } 
+       \subfigure[\etaTwo]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_NEG_RecoSpectrum_2d_Slice_2_proj}
+        } \\
+        \subfigure[\etaThree]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_NEG_RecoSpectrum_2d_Slice_3_proj}
+        } 
+       \subfigure[\etaFour]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_NEG_RecoSpectrum_2d_Slice_4_proj}
+        }
+        \subfigure[\etaFive]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_NEG_RecoSpectrum_2d_Slice_5_proj}
+        } \\ 
+       \subfigure[\etaSix]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_NEG_RecoSpectrum_2d_Slice_6_proj}
+        }
+       \subfigure[\etaCrack]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_NEG_RecoSpectrum_2d_Slice_7_proj}
+        }
+        \subfigure[\etaSeven]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_NEG_RecoSpectrum_2d_Slice_8_proj}
+        } \\
+       \subfigure[\etaEight]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_NEG_RecoSpectrum_2d_Slice_9_proj}
+       }
+        \subfigure[\etaNine]{%
+          \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_NEG_RecoSpectrum_2d_Slice_10_proj}
+        } 
+       \subfigure[\etaTenMu]{%
+         \includegraphics[width=0.3\textwidth]{Wmunu/figures/res/Wmn_RECO_2D_PT20_NEG_RecoSpectrum_2d_Slice_11_proj}
+        } \\
+    \caption{ Comparison of detector-level $p_T$ distributions of various \Wmunum\ generators and background-subtracted data inside each $\eta$ slice. }
+ \label{fig:Wmunu:recotest_2D_NEG}
+ \end{center}
+\end{figure}

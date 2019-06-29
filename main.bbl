@@ -1,0 +1,431 @@
+\begin{thebibliography}{10}
+
+\bibitem{ATLAS-CONF-2012-080}
+Improved luminosity determination in $\mathbf{pp}$ collisions at $\mathbf{\sqrt
+  s = 7}$ tev using the atlas detector at the lhc.
+\newblock Technical Report ATLAS-CONF-2012-080, CERN, Geneva, Jul 2012.
+\newblock https://cdsweb.cern.ch/record/1460392.
+
+\bibitem{ATLAS-CONF-2012-101}
+Performance of missing transverse momentum reconstruction in atlas with 2011
+  proton-proton collisions at $sqrt{s}$ = 7 tev.
+\newblock Technical Report ATLAS-CONF-2012-101, CERN, Geneva, Jul 2012.
+
+\bibitem{ATLAS-CONF-2012-042}
+Performance of the atlas inner detector track and vertex reconstruction in the
+  high pile-up lhc environment.
+\newblock Technical Report ATLAS-CONF-2012-042, CERN, Geneva, Mar 2012.
+
+\bibitem{ATLAS-CONF-2013-004}
+Jet energy scale and its systematic uncertainty in proton-proton collisions at
+  sqrt(s)=7 tev with atlas 2011 data.
+\newblock Technical Report ATLAS-CONF-2013-004, CERN, Geneva, Jan 2013.
+
+\bibitem{1748-0221-3-07-P07007}
+G.~Aad et~al.
+\newblock Atlas pixel detector electronics and sensors.
+\newblock {\em Journal of Instrumentation}, 3(07):P07007, 2008.
+
+\bibitem{Aad:2009wy}
+G.~Aad et~al.
+\newblock {Expected Performance of the ATLAS Experiment - Detector, Trigger and
+  Physics}.
+\newblock 2009.
+
+\bibitem{lar_tdr}
+Georges Aad et~al.
+\newblock {\em ATLAS liquid-argon calorimeter: Technical Design Report}.
+\newblock Technical Design Report ATLAS. CERN, Geneva, 1996.
+
+\bibitem{tile_tdr}
+Georges Aad et~al.
+\newblock {\em ATLAS tile calorimeter: Technical Design Report}.
+\newblock Technical Design Report ATLAS. CERN, Geneva, 1996.
+
+\bibitem{muon_tdr}
+Georges Aad et~al.
+\newblock {\em ATLAS muon spectrometer: Technical Design Report}.
+\newblock Technical Design Report ATLAS. CERN, Geneva, 1997.
+\newblock distribution.
+
+\bibitem{Aad:2011gj}
+Georges Aad et~al.
+\newblock {Measurement of the transverse momentum distribution of Z/gamma*
+  bosons in proton-proton collisions at $\sqrt(s)=7$ TeV with the ATLAS
+  detector}.
+\newblock {\em Phys.Lett.}, B705:415--434, 2011.
+
+\bibitem{ATLAS-DAPR-2011-01-002}
+Georges Aad et~al.
+\newblock {Improved Luminosity Determination in pp Collisions at $\sqrt(s) = 7$
+  TeV using the ATLAS Detector at the LHC}.
+\newblock Dec 2012.
+\newblock second publication draft.
+
+\bibitem{zphistar}
+Georges Aad et~al.
+\newblock {Measurement of angular correlations in Drell-Yan lepton pairs to
+  probe Z/gamma* boson transverse momentum at sqrt(s)=7 TeV with the ATLAS
+  detector}.
+\newblock 2012.
+
+\bibitem{Aad:2011dm}
+Georges Aad et~al.
+\newblock {Measurement of the inclusive $W^\pm$ and $Z/\gamma^*$ cross sections
+  in the electron and muon decay channels in pp collisions at $\sqrt{s} = 7$
+  TeV with the ATLAS detector}.
+\newblock {\em Phys.Rev.}, D85:072004, 2012.
+
+\bibitem{Aad:2011fp}
+Georges Aad et~al.
+\newblock {Measurement of the Transverse Momentum Distribution of W Bosons in
+  pp Collisions at $\sqrt(s) = 7$ TeV with the ATLAS Detector}.
+\newblock {\em Phys.Rev.}, D85:012005, 2012.
+
+\bibitem{Aad:2012re}
+Georges Aad et~al.
+\newblock {Performance of Missing Transverse Momentum Reconstruction in
+  Proton-Proton Collisions at 7 TeV with ATLAS}.
+\newblock {\em Eur.Phys.J.}, C72:1844, 2012.
+
+\bibitem{Aad:2012en}
+Georges Aad et~al.
+\newblock {Study of jets produced in association with a $W$ boson in $pp$
+  collisions at $\sqrt{s}=7$ TeV with the ATLAS detector}.
+\newblock {\em Phys.Rev.}, D85:092002, 2012.
+
+\bibitem{Aaron:2009kv}
+F.D. Aaron et~al.
+\newblock {A Precision Measurement of the Inclusive ep Scattering Cross Section
+  at HERA}.
+\newblock {\em Eur.Phys.J.}, C64:561--587, 2009.
+
+\bibitem{Aaron:2009aa}
+F.D. Aaron et~al.
+\newblock {Combined Measurement and QCD Analysis of the Inclusive e+- p
+  Scattering Cross Sections at HERA}.
+\newblock {\em JHEP}, 1001:109, 2010.
+
+\bibitem{1748-0221-3-02-P02013}
+E.~Abat et~al.
+\newblock The atlas transition radiation tracker (trt) proportional drift tube:
+  design and performance.
+\newblock {\em Journal of Instrumentation}, 3(02):P02013, 2008.
+
+\bibitem{1748-0221-3-10-P10006}
+A.~Abdesselam et~al.
+\newblock The integration and engineering of the atlas semiconductor tracker
+  barrel.
+\newblock {\em Journal of Instrumentation}, 3(10):P10006, 2008.
+
+\bibitem{Adye:arXiv1105.1160}
+Tim Adye.
+\newblock Unfolding algorithms and tests using roounfold.
+\newblock 2011.
+
+\bibitem{geant4}
+S.~Agostinelli et~al.
+\newblock {GEANT4: A simulation toolkit}.
+\newblock {\em Nucl. Instrum. Meth.}, A506:250--303, 2003.
+
+\bibitem{Alekhin:2012ig}
+S.~Alekhin, J.~Blumlein, and S.~Moch.
+\newblock {Parton Distribution Functions and Benchmark Cross Sections at NNLO}.
+\newblock {\em Phys.Rev.}, D86:054009, 2012.
+
+\bibitem{Alioli:2008gx}
+Simone Alioli, Paolo Nason, Carlo Oleari, and Emanuele Re.
+\newblock {NLO vector-boson production matched with shower in POWHEG}.
+\newblock {\em JHEP}, 0807:060, 2008.
+
+\bibitem{Alioli:2010xd}
+Simone Alioli, Paolo Nason, Carlo Oleari, and Emanuele Re.
+\newblock {A general framework for implementing NLO calculations in shower
+  Monte Carlo programs: the POWHEG BOX}.
+\newblock {\em JHEP}, 1006:043, 2010.
+
+\bibitem{Altarelli:1977zs}
+Guido Altarelli and G.~Parisi.
+\newblock {Asymptotic Freedom in Parton Language}.
+\newblock {\em Nucl.Phys.}, B126:298, 1977.
+
+\bibitem{Ball:2012cx}
+Richard~D. Ball, Valerio Bertone, Stefano Carrazza, Christopher~S. Deans, Luigi
+  Del~Debbio, et~al.
+\newblock {Parton distributions with LHC data}.
+\newblock {\em Nucl.Phys.}, B867:244--289, 2013.
+
+\bibitem{Barlow:1993dm}
+Roger~J. Barlow and Christine Beeston.
+\newblock {Fitting using finite Monte Carlo samples}.
+\newblock {\em Comput. Phys. Commun.}, 77:219--228, 1993.
+
+\bibitem{iba_maarten_vicini}
+M~Boonekamp, A~Vicini, et~al.
+\newblock {Improved LO electroweak approximations for Z and W Generators}.
+\newblock Technical report, CERN, Geneva, Oct 2012.
+
+\bibitem{Botje:2010ay}
+M.~Botje.
+\newblock {QCDNUM: Fast QCD Evolution and Convolution}.
+\newblock {\em Comput.Phys.Commun.}, 182:490--532, 2011.
+
+\bibitem{Bourilkov:2006cj}
+D~Bourilkov, R~C Group, and M~R Whalley.
+\newblock {LHAPDF: PDF use from the Tevatron to the LHC}.
+\newblock 2006.
+
+\bibitem{citeulike:8657322}
+Geoff Brumfiel.
+\newblock {High-energy physics: Down the petabyte highway}.
+\newblock {\em Nature}, 469(7330):282--283, January 2011.
+
+\bibitem{Brüning:782076}
+Oliver~Sim Brüning, Paul Collier, P~Lebrun, Stephen Myers, Ranko Ostojic, John
+  Poole, and Paul Proudlock.
+\newblock {\em LHC Design Report}.
+\newblock CERN, Geneva, 2004.
+\newblock {CERN-2004-003-V-1}.
+
+\bibitem{Cacciari:2008gp}
+Matteo Cacciari, Gavin~P. Salam, and Gregory Soyez.
+\newblock {The Anti-k(t) jet clustering algorithm}.
+\newblock {\em JHEP}, 0804:063, 2008.
+
+\bibitem{Campbell:2010ff}
+John~M. Campbell and R.K. Ellis.
+\newblock {MCFM for the Tevatron and the LHC}.
+\newblock {\em Nucl.Phys.Proc.Suppl.}, 205-206:10--15, 2010.
+
+\bibitem{Carli:2010rw}
+Tancredi Carli, Dan Clements, Amanda Cooper-Sarkar, Claire Gwenlan, Gavin~P.
+  Salam, et~al.
+\newblock {A posteriori inclusion of parton density functions in NLO QCD
+  final-state calculations at hadron colliders: The APPLGRID Project}.
+\newblock {\em Eur.Phys.J.}, C66:503--524, 2010.
+
+\bibitem{Catani:2009sm}
+Stefano Catani, Leandro Cieri, Giancarlo Ferrera, Daniel de~Florian, and
+  Massimiliano Grazzini.
+\newblock {Vector boson production at hadron colliders: A Fully exclusive QCD
+  calculation at NNLO}.
+\newblock {\em Phys.Rev.Lett.}, 103:082001, 2009.
+
+\bibitem{Catani:2007vq}
+Stefano Catani and Massimiliano Grazzini.
+\newblock {An NNLO subtraction formalism in hadron collisions and its
+  application to Higgs boson production at the LHC}.
+\newblock {\em Phys.Rev.Lett.}, 98:222002, 2007.
+
+\bibitem{Cerutti:1322424}
+F~Cerutti, C~Gatti, P~Kluit, O~Kortner, W~Liebig, J~Liu, G~Salamanna,
+  A~Salvucci, E~van~der Poel, and J~Zhu.
+\newblock Muon momentum resolution in first pass reconstruction of pp collision
+  data recorded by atlas in 2010.
+\newblock Technical Report ATLAS-COM-CONF-2011-003, CERN, Geneva, Jan 2011.
+\newblock signed off (for ciruclation in ATLAS) by edboard chair in email to
+  physics coordinator.
+
+\bibitem{CMS:2011aa}
+Serguei Chatrchyan et~al.
+\newblock {Measurement of the Inclusive W and Z Production Cross Sections in pp
+  Collisions at sqrt(s) = 7 TeV}.
+\newblock {\em JHEP}, 1110:132, 2011.
+
+\bibitem{Corcella:2000bw}
+G.~Corcella et~al.
+\newblock {HERWIG 6.5: an event generator for Hadron Emission Reactions With
+  Interfering Gluons (including supersymmetric processes)}.
+\newblock {\em JHEP}, 01:010, 2001.
+
+\bibitem{Dokshitzer:1977sg}
+Yuri~L. Dokshitzer.
+\newblock {Calculation of the Structure Functions for Deep Inelastic Scattering
+  and e+ e- Annihilation by Perturbation Theory in Quantum Chromodynamics.}
+\newblock {\em Sov.Phys.JETP}, 46:641--653, 1977.
+
+\bibitem{PhysRevLett.25.316}
+Sidney~D. Drell and Tung-Mow Yan.
+\newblock Massive lepton-pair production in hadron-hadron collisions at high
+  energies.
+\newblock {\em Phys. Rev. Lett.}, 25:316--320, Aug 1970.
+
+\bibitem{Eck:840543}
+Eck et~al.
+\newblock {\em LHC computing Grid: Technical Design Report. Version 1.06 (20
+  Jun 2005)}.
+\newblock Technical Design Report LCG. CERN, Geneva, 2005.
+
+\bibitem{PDG}
+J.~Beringer et~al. (Particle Data~Group).
+\newblock {\em {Review of Particle Physics}}, volume~86.
+\newblock 2012.
+
+\bibitem{PhysRevLett.23.1415}
+Richard~P. Feynman.
+\newblock Very high-energy collisions of hadrons.
+\newblock {\em Phys. Rev. Lett.}, 23:1415--1417, Dec 1969.
+
+\bibitem{Frixione:2007vw}
+Stefano Frixione, Paolo Nason, and Carlo Oleari.
+\newblock {Matching NLO QCD computations with Parton Shower simulations: the
+  POWHEG method}.
+\newblock {\em JHEP}, 0711:070, 2007.
+
+\bibitem{mcatnlo}
+Stefano Frixione and Bryan~R. Webber.
+\newblock {Matching NLO QCD computations and parton shower simulations}.
+\newblock {\em JHEP}, 06:029, 2002.
+
+\bibitem{Gavin:2010az}
+Ryan Gavin, Ye~Li, Frank Petriello, and Seth Quackenbush.
+\newblock {FEWZ 2.0: A code for hadronic Z production at
+  next-to-next-to-leading order}.
+\newblock {\em Comput.Phys.Commun.}, 182:2388--2403, 2011.
+
+\bibitem{Gavin:2012sy}
+Ryan Gavin, Ye~Li, Frank Petriello, and Seth Quackenbush.
+\newblock {W Physics at the LHC with FEWZ 2.1}.
+\newblock 2012.
+
+\bibitem{glazov}
+A.~Glazov.
+\newblock {Averaging of DIS cross section data}.
+\newblock {\em AIP Conf. Proc.}, 792:237--240, 2005.
+
+\bibitem{Golonka:2005pn}
+Piotr Golonka and Zbigniew Was.
+\newblock {PHOTOS Monte Carlo: A Precision tool for QED corrections in $Z$ and
+  $W$ decays}.
+\newblock {\em Eur. Phys. J.}, C45:97--107, 2006.
+
+\bibitem{Gribov:1972ri}
+V.N. Gribov and L.N. Lipatov.
+\newblock {Deep inelastic e p scattering in perturbation theory}.
+\newblock {\em Sov.J.Nucl.Phys.}, 15:438--450, 1972.
+
+\bibitem{HERAFitter}
+HERAFitter.
+\newblock http://projects.hepforge.org/herafitter, 2013.
+
+\bibitem{PhysRevLett.13.508}
+Peter~W. Higgs.
+\newblock Broken symmetries and the masses of gauge bosons.
+\newblock {\em Phys. Rev. Lett.}, 13:508--509, Oct 1964.
+
+\bibitem{Jadach:1990mz}
+Stanislaw Jadach, Johann~H. Kuhn, and Zbigniew Was.
+\newblock {TAUOLA: A Library of Monte Carlo programs to simulate decays of
+  polarized tau leptons}.
+\newblock {\em Comput.Phys.Commun.}, 64:275--299, 1990.
+
+\bibitem{James:1975dr}
+F.~James and M.~Roos.
+\newblock {Minuit: A System for Function Minimization and Analysis of the
+  Parameter Errors and Correlations}.
+\newblock {\em Comput.Phys.Commun.}, 10:343--367, 1975.
+
+\bibitem{Jenni:616089}
+Peter Jenni, Marzio Nessi, Markus Nordberg, and Kenway Smith.
+\newblock {\em ATLAS high-level trigger, data-acquisition and controls:
+  Technical Design Report}.
+\newblock Technical Design Report ATLAS. CERN, Geneva, 2003.
+
+\bibitem{JimenezDelgado:2008hf}
+P.~Jimenez-Delgado and E.~Reya.
+\newblock {Dynamical NNLO parton distributions}.
+\newblock {\em Phys. Rev.}, D79:074023, 2009.
+
+\bibitem{pdfmaster}
+W.J.~Stirling J.M.~Campbell, J.W.~Huston.
+\newblock {Title: Hard Interactions of Quarks and Gluons: a Primer for LHC
+  Physics}.
+\newblock 2006.
+
+\bibitem{Kapliy:1358186}
+A~Kapliy, P~Onyisi, and M~Shochet.
+\newblock Muon momentum scale from z bosons.
+\newblock Technical Report ATL-COM-MUON-2011-015, CERN, Geneva, Jun 2011.
+
+\bibitem{Kobayashi01021973}
+Makoto Kobayashi and Toshihide Maskawa.
+\newblock Cp-violation in the renormalizable theory of weak interaction.
+\newblock {\em Progress of Theoretical Physics}, 49(2):652--657, 1973.
+
+\bibitem{Lai:2010vv}
+Hung-Liang Lai, Marco Guzzi, Joey Huston, Zhao Li, Pavel~M. Nadolsky, et~al.
+\newblock {New parton distributions for collider physics}.
+\newblock {\em Phys.Rev.}, D82:074024, 2010.
+
+\bibitem{Lai:2010nw}
+Hung-Liang Lai, Joey Huston, Zhao Li, Pavel Nadolsky, Jon Pumplin, et~al.
+\newblock {Uncertainty induced by QCD coupling in the CTEQ global analysis of
+  parton distributions}.
+\newblock {\em Phys.Rev.}, D82:054021, 2010.
+
+\bibitem{leroy2010astroparticle}
+C.~Leroy.
+\newblock {\em Astroparticle, Particle and Space Physics, Detectors and Medical
+  Physics Applications: Proceedings of the 11th Conference, Villa Olmo, Como,
+  Italy, 5-9 October 2009}.
+\newblock World Scientific, 2010.
+
+\bibitem{Li:2012wn}
+Ye~Li and Frank Petriello.
+\newblock {Combining QCD and electroweak corrections to dilepton production in
+  FEWZ}.
+\newblock 2012.
+
+\bibitem{Mangano:2002ea}
+Michelangelo~L. Mangano, Mauro Moretti, Fulvio Piccinini, Roberto Pittau, and
+  Antonio~D. Polosa.
+\newblock {ALPGEN, a generator for hard multiparton processes in hadronic
+  collisions}.
+\newblock {\em JHEP}, 0307:001, 2003.
+
+\bibitem{Martin:2009iq}
+A.D. Martin, W.J. Stirling, R.S. Thorne, and G.~Watt.
+\newblock {Parton distributions for the LHC}.
+\newblock {\em Eur.Phys.J.}, C63:189--285, 2009.
+
+\bibitem{MartinezOutschoorn:2011hta}
+Verena~Ingrid Martinez~Outschoorn.
+\newblock {Measurement of the Charge Asymmetry of W Bosons Produced in pp
+  Collisions at $\sqrt{s}$ = 7 TeV with the ATLAS Detector}.
+\newblock 2011.
+
+\bibitem{Nason:2004rx}
+Paolo Nason.
+\newblock {A New method for combining NLO QCD with shower Monte Carlo
+  algorithms}.
+\newblock {\em JHEP}, 0411:040, 2004.
+
+\bibitem{0034-4885-76-4-046201}
+E~Perez and E~Rizvi.
+\newblock The quark and gluon structure of the proton.
+\newblock {\em Reports on Progress in Physics}, 76(4):046201, 2013.
+
+\bibitem{Radescu:2011cn}
+V.~Radescu.
+\newblock {Hera Precision Measurements and Impact for LHC Predictions}.
+\newblock 2011.
+\newblock {HERAPDF 1.5 NLO and NNLO prelimiary, H1prelim-10-142,
+  ZEUS-prel-10-018, H1prelim-11-042, ZEUS-prel-11-002, Proceedings of Moriond
+  2011}.
+
+\bibitem{pythia}
+Torbjorn Sjostrand, Stephen Mrenna, and Peter~Z. Skands.
+\newblock {PYTHIA 6.4 Physics and Manual}.
+\newblock {\em JHEP}, 05:026, 2006.
+
+\bibitem{GRcite}
+R.~W and A.~Einstein.
+\newblock {\em Relativity: The Special and General Theory}.
+\newblock Henry Holt, 1920.
+
+\bibitem{Whalley:2005nh}
+M.R. Whalley, D.~Bourilkov, and R.C. Group.
+\newblock {The Les Houches accord PDFs (LHAPDF) and LHAGLUE}.
+\newblock 2005.
+
+\end{thebibliography}

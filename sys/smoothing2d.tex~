@@ -1,0 +1,315 @@
+
+
+% pt1
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[$W^+$: PS (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin1}
+        } 
+        \subfigure[$W^+$: PS (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin1}
+        } 
+        \subfigure[$W^+$: PS (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_all_bin1}
+        } \\
+        \subfigure[$W^+$: ME (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin1}
+        } 
+        \subfigure[$W^+$: ME (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin1}
+        } 
+        \subfigure[$W^+$: ME (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_all_bin1}
+        } \\
+        \subfigure[$W^-$: PS (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin1}
+        } 
+        \subfigure[$W^-$: PS (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin1}
+        } 
+        \subfigure[$W^-$: PS (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_all_bin1}
+        } \\
+        \subfigure[$W^-$: ME (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin1}
+        } 
+        \subfigure[$W^-$: ME (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin1}
+        } 
+        \subfigure[$W^-$: ME (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_all_bin1}
+        } \\
+ \caption{\Wmn: fits to the per-cent deviation of the cross section due to variations in the signal Monte Carlo sample used in the QCD fit, unfolding, or both (\ptZero).}
+ \label{fig:Wmunu:syst_smoothing_bin1}
+ \end{center}
+\end{figure}
+\clearpage
+
+% pt2
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[$W^+$: PS (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin2}
+        } 
+        \subfigure[$W^+$: PS (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin2}
+        } 
+        \subfigure[$W^+$: PS (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_all_bin2}
+        } \\
+        \subfigure[$W^+$: ME (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin2}
+        } 
+        \subfigure[$W^+$: ME (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin2}
+        } 
+        \subfigure[$W^+$: ME (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_all_bin2}
+        } \\
+        \subfigure[$W^-$: PS (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin2}
+        } 
+        \subfigure[$W^-$: PS (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin2}
+        } 
+        \subfigure[$W^-$: PS (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_all_bin2}
+        } \\
+        \subfigure[$W^-$: ME (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin2}
+        } 
+        \subfigure[$W^-$: ME (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin2}
+        } 
+        \subfigure[$W^-$: ME (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_all_bin2}
+        } \\
+ \caption{\Wmn: fits to the per-cent deviation of the cross section due to variations in the signal Monte Carlo sample used in the QCD fit, unfolding, or both (\ptOne).}
+ \label{fig:Wmunu:syst_smoothing_bin2}
+ \end{center}
+\end{figure}
+\clearpage
+
+% pt3
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[$W^+$: PS (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin3}
+        } 
+        \subfigure[$W^+$: PS (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin3}
+        } 
+        \subfigure[$W^+$: PS (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_all_bin3}
+        } \\
+        \subfigure[$W^+$: ME (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin3}
+        } 
+        \subfigure[$W^+$: ME (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin3}
+        } 
+        \subfigure[$W^+$: ME (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_all_bin3}
+        } \\
+        \subfigure[$W^-$: PS (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin3}
+        } 
+        \subfigure[$W^-$: PS (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin3}
+        } 
+        \subfigure[$W^-$: PS (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_all_bin3}
+        } \\
+        \subfigure[$W^-$: ME (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin3}
+        } 
+        \subfigure[$W^-$: ME (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin3}
+        } 
+        \subfigure[$W^-$: ME (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_all_bin3}
+        } \\
+ \caption{\Wmn: fits to the per-cent deviation of the cross section due to variations in the signal Monte Carlo sample used in the QCD fit, unfolding, or both (\ptTwo).}
+ \label{fig:Wmunu:syst_smoothing_bin3}
+ \end{center}
+\end{figure}
+\clearpage
+
+% pt4
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[$W^+$: PS (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin4}
+        } 
+        \subfigure[$W^+$: PS (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin4}
+        } 
+        \subfigure[$W^+$: PS (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_all_bin4}
+        } \\
+        \subfigure[$W^+$: ME (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin4}
+        } 
+        \subfigure[$W^+$: ME (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin4}
+        } 
+        \subfigure[$W^+$: ME (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_all_bin4}
+        } \\
+        \subfigure[$W^-$: PS (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin4}
+        } 
+        \subfigure[$W^-$: PS (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin4}
+        } 
+        \subfigure[$W^-$: PS (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_all_bin4}
+        } \\
+        \subfigure[$W^-$: ME (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin4}
+        } 
+        \subfigure[$W^-$: ME (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin4}
+        } 
+        \subfigure[$W^-$: ME (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_all_bin4}
+        } \\
+ \caption{\Wmn: fits to the per-cent deviation of the cross section due to variations in the signal Monte Carlo sample used in the QCD fit, unfolding, or both (\ptThree).}
+ \label{fig:Wmunu:syst_smoothing_bin4}
+ \end{center}
+\end{figure}
+\clearpage
+
+% pt5
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[$W^+$: PS (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin5}
+        } 
+        \subfigure[$W^+$: PS (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin5}
+        } 
+        \subfigure[$W^+$: PS (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_all_bin5}
+        } \\
+        \subfigure[$W^+$: ME (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin5}
+        } 
+        \subfigure[$W^+$: ME (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin5}
+        } 
+        \subfigure[$W^+$: ME (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_all_bin5}
+        } \\
+        \subfigure[$W^-$: PS (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin5}
+        } 
+        \subfigure[$W^-$: PS (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin5}
+        } 
+        \subfigure[$W^-$: PS (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_all_bin5}
+        } \\
+        \subfigure[$W^-$: ME (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin5}
+        } 
+        \subfigure[$W^-$: ME (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin5}
+        } 
+        \subfigure[$W^-$: ME (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_all_bin5}
+        } \\
+ \caption{\Wmn: fits to the per-cent deviation of the cross section due to variations in the signal Monte Carlo sample used in the QCD fit, unfolding, or both (\ptFour).}
+ \label{fig:Wmunu:syst_smoothing_bin5}
+ \end{center}
+\end{figure}
+\clearpage
+
+% pt6
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[$W^+$: PS (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin6}
+        } 
+        \subfigure[$W^+$: PS (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin6}
+        } 
+        \subfigure[$W^+$: PS (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_all_bin6}
+        } \\
+        \subfigure[$W^+$: ME (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin6}
+        } 
+        \subfigure[$W^+$: ME (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin6}
+        } 
+        \subfigure[$W^+$: ME (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_all_bin6}
+        } \\
+        \subfigure[$W^-$: PS (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin6}
+        } 
+        \subfigure[$W^-$: PS (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin6}
+        } 
+        \subfigure[$W^-$: PS (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_all_bin6}
+        } \\
+        \subfigure[$W^-$: ME (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin6}
+        } 
+        \subfigure[$W^-$: ME (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin6}
+        } 
+        \subfigure[$W^-$: ME (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_all_bin6}
+        } \\
+ \caption{\Wmn: fits to the per-cent deviation of the cross section due to variations in the signal Monte Carlo sample used in the QCD fit, unfolding, or both (\ptFive).}
+ \label{fig:Wmunu:syst_smoothing_bin6}
+ \end{center}
+\end{figure}
+\clearpage
+
+% pt7
+\begin{figure}[phtb]
+  \begin{center}
+        \subfigure[$W^+$: PS (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlybg_bin7}
+        } 
+        \subfigure[$W^+$: PS (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_onlyunf_bin7}
+        } 
+        \subfigure[$W^+$: PS (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_PSsyst_all_bin7}
+        } \\
+        \subfigure[$W^+$: ME (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlybg_bin7}
+        } 
+        \subfigure[$W^+$: ME (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_onlyunf_bin7}
+        } 
+        \subfigure[$W^+$: ME (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_POS_MEsyst_all_bin7}
+        } \\
+        \subfigure[$W^-$: PS (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlybg_bin7}
+        } 
+        \subfigure[$W^-$: PS (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_onlyunf_bin7}
+        } 
+        \subfigure[$W^-$: PS (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_PSsyst_all_bin7}
+        } \\
+        \subfigure[$W^-$: ME (bg. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlybg_bin7}
+        } 
+        \subfigure[$W^-$: ME (unf. only)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_onlyunf_bin7}
+        } 
+        \subfigure[$W^-$: ME (both)]{%
+          \includegraphics[width=0.27\textwidth]{Wmunu/figures/smoothing/2D_pt20_NEG_MEsyst_all_bin7}
+        } \\
+ \caption{\Wmn: fits to the per-cent deviation of the cross section due to variations in the signal Monte Carlo sample used in the QCD fit, unfolding, or both (\ptSix).}
+ \label{fig:Wmunu:syst_smoothing_bin7}
+ \end{center}
+\end{figure}

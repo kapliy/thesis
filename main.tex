@@ -1,0 +1,93 @@
+% ---- ETD Document Class and Useful Packages ---- %
+\documentclass{ucetd}
+\usepackage{subfigure,epsfig,amsfonts}
+%%\usepackage{natbib}  % AKK: original natbib include
+\usepackage[square,sort,comma,numbers]{natbib}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+
+% custom stuff (for ATLAS, figures, etc)
+\usepackage{multirow}
+\usepackage[multidot]{grffile}
+\usepackage{graphicx}
+\usepackage{dcolumn}
+\usepackage{longtable}
+\usepackage{ctable}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{url}
+%\usepackage[subfigure]{tocloft}
+
+% hyperlinks
+\usepackage{hyperref}
+\hypersetup{linktocpage}
+
+
+\usepackage{atlasphysics}
+\input{WZDefinitions}
+% Shorthand for \phantom to use in tables
+\newcommand{\pho}{\phantom{0}}
+\newcommand{\bslash}{\ensuremath{\backslash}}
+% Our macros and units
+\usepackage{macross}
+
+% Shortcuts
+\newcommand{\tbu}{{\color{red}TO BE UPDATED }}
+\def\Wpmmn{\ensuremath{W^\pm \rightarrow \mu\nu}}
+\def\Wpmen{\ensuremath{W^\pm \rightarrow e\nu}}
+\newcommand{\lumioldtr}{\ensuremath{35\,\mathrm{pb}^{-1}}}
+
+%% Use these commands to set biographic information for the title page:
+\title{
+Measurement of differential inclusive W boson production and decay cross sections in the muon channel using the ATLAS Detector
+}
+\author{Anton Kapliy}
+\department{Physics}
+\division{Physical Sciences}
+\degree{Doctor of Philosophy}
+\date{December 2013}
+
+%% Use these commands to set a dedication and epigraph text
+\dedication{Dedication Text}
+%\epigraph{Before I came here I was confused about this subject. Having listened to your lecture I am still confused. But on a higher level. \\ Enrico Fermi}
+%\epigraph{ What I am going to tell you about is what we teach our physics students in the third or fourth year of graduate school... It is my task to convince you not to turn away because you don't understand it. You see, my physics students don't understand it... That is because I don't understand it. Nobody does. \\ Richard Feynman }
+\epigraph{ \textit{We have a closed circle of consistency here: the laws of physics produce complex systems, and these complex systems lead to consciousness, which then produces mathematics, which can then encode in a succinct and inspiring way the very underlying laws of physics that gave rise to it.} }
+\epigraphattr{ Roger Penrose }
+
+\begin{document}
+
+\input{pre.tex}
+\input{post.tex}
+
+% Appendix
+\appendix
+
+\chapter{MuGirl and Muid Trigger Chains}
+\label{appendix:ac}
+\input{event/WmunuAC}
+
+\chapter{Smoothing of Theory Systematics in $p_T$ bins}
+\label{appendix:smoothing}
+\input{sys/smoothing2d}
+
+\chapter{Tables of Inputs and Cross-sections}
+\label{appendix:results}
+\input{res/fiducial}
+
+
+% Format a LaTeX bibliography [ UChicago version, plain style ]
+\makebibliography
+
+% Format a LaTeX bibliography [ ATLAS style ]
+%% \cleardoublepage
+%% \bibliographystyle{atlasBibStyleWithTitle}
+%% \thispagestyle{empty}
+%% \bibliography{main}
+
+
+% Figures and tables, if you decide to leave them to the end
+%\input{figure}
+%\input{table}
+
+\end{document}
